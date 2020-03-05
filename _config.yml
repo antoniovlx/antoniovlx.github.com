@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Antonio Vida"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Sofware Engineer, Java Developer, passionate, creative and self-taught"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -98,7 +98,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: about
     values:
       layout: single
       author_profile: true

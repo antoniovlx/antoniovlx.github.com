@@ -1,56 +1,21 @@
 ---
-title: "Maven error : No compiler is provided in this environment."
+title: "Tomcat Server Error – Port 8080 already in use"
 date: 2019-09-19T18:30:30-04:00
 categories:
   - blog
-  - Tomcat
 tags:
-  - Tomcat
 ---
 
-When you want to run your app configured with Spring Boot and it appear this message:
+It's a pleasure work in such an important European project. I'm developing Software for **improving fire management and  wildfires fighting** in [Rural Engineering department at University of Córdoba.](https://www.uco.es/organiza/departamentos/ingforestal/index_en.php) 
 
-```
-Description:
+The UCO is working within the framework of the [CILIFO project](https://www.keep.eu/project/22856/iberian-center-for-the-forest-investigation-and-firefighting) on an algorithm that will predict the behaviour of forest fires.
 
-The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
-```
+Fires are one of the main threats to forests as patrimonial assets. According to data from the Ministry of Agriculture, in Spain there are an average of more than 17,000 accidents per year, affecting 113,000 hectares. Although most are contained, and do not spread, uncontrolled fires inflict enormous economic and landscape losses from which it is difficult to recover.
 
-The port may already be in use or the connector may be misconfigured.
++links:
 
-We have two options in this case:
+http://www.uco.es/investigacion/ucci/es/noticias-ingles/item/2630-cilifo-mathematics-to-fight-forest-fires
+https://www.europapress.es/andalucia/noticia-universidad-cordoba-trabaja-algoritmo-predice-comportamiento-fuego-bosques-20190718103127.html
 
-1) Change the port number throught application properties file, adding  the next line:
 
-```
-server.port=8081 #Whatever port you want to use
-```
-
-2) Check if there is a process listening on the port 8080. Identify and stop it.
-
-Open a new cdm window and write:
-
-```
-netstat -ano | findstr :8080
-```
-
-Verify the process that is listening on port 8080 and find out its process id.
-
-Kill the process passing the process id (PID). For example, you get this result:
-
-```
-TCP 0.0.0.0:8080 0.0.0.0:0 LISTENING 20044
-```
-
-You have to execute this command, because there is a process listening with the PID 20044.
-
-```
-taskkill /PID 20044 /F
-```
-
-More info:
-
-https://linux.die.net/man/8/netstat
-
-https://docs.microsoft.com/en-us/windows server/administration/windows-commands/taskkill
 

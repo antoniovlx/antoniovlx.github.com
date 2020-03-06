@@ -1,5 +1,5 @@
 ---
-title: "Tomcat Server Error – Port 8080 already in use"
+title: "Working on Software development for improving wildfires fighting"
 date: 2019-09-19T18:30:30-04:00
 categories:
   - blog
@@ -12,10 +12,12 @@ The UCO is working within the framework of the [CILIFO project](https://www.keep
 
 Fires are one of the main threats to forests as patrimonial assets. According to data from the Ministry of Agriculture, in Spain there are an average of more than 17,000 accidents per year, affecting 113,000 hectares. Although most are contained, and do not spread, uncontrolled fires inflict enormous economic and landscape losses from which it is difficult to recover.
 
+{% include figure image_path="/assets/images/team-cilifo.jpg" alt="Cilifo Project" %}
+
 +links:
 
-http://www.uco.es/investigacion/ucci/es/noticias-ingles/item/2630-cilifo-mathematics-to-fight-forest-fires
-https://www.europapress.es/andalucia/noticia-universidad-cordoba-trabaja-algoritmo-predice-comportamiento-fuego-bosques-20190718103127.html
+[http://www.uco.es/investigacion/ucci/es/noticias-ingles/item/2630-cilifo-mathematics-to-fight-forest-fires](http://www.uco.es/investigacion/ucci/es/noticias-ingles/item/2630-cilifo-mathematics-to-fight-forest-fires)
+[https://www.europapress.es/andalucia/noticia-universidad-cordoba-trabaja-algoritmo-predice-comportamiento-fuego-bosques-20190718103127.html)](https://www.europapress.es/andalucia/noticia-universidad-cordoba-trabaja-algoritmo-predice-comportamiento-fuego-bosques-20190718103127.html)
 
 
 

@@ -1,5 +1,10 @@
 source "https://rubygems.org"
 
+#
+gem 'nokogiri', '>=1.6.8.rc3'
+gem 'rack', '~> 2.0.1'
+gem 'rspec'
+
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"

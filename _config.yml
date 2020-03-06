@@ -79,9 +79,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/antoniovlx"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://es.linkedin.com/in/antoniovida"
 
 footer:
   links:
@@ -90,7 +93,7 @@ footer:
       url: "https://twitter.com/anvidaluc"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/antonio"
+      url: "https://github.com/antoniovlx"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -107,6 +110,7 @@ defaults:
       comments: true
       share: true
       related: true
+      ads: true
   # _pages
   - scope:
       path: "_pages"

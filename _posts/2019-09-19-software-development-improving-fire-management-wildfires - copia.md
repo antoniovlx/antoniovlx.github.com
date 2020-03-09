@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-It's a pleasure work in such an important European project. I'm developing Software for **improving fire management and  wildfires fighting** in [Rural Engineering department at University of Córdoba.](https://www.uco.es/organiza/departamentos/ingforestal/index_en.php) 
+It's a pleasure to work in such an important European project. I'm developing Software for **improving fire management and  wildfires fighting** in [Rural Engineering department at University of Córdoba.](https://www.uco.es/organiza/departamentos/ingforestal/index_en.php) 
 
 The UCO is working within the framework of the [CILIFO project](https://www.keep.eu/project/22856/iberian-center-for-the-forest-investigation-and-firefighting) on an algorithm that will predict the behaviour of forest fires.
 

@@ -94,9 +94,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/antoniovlx"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -125,3 +122,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-160193445-1"
+    anonymize_ip: false # default

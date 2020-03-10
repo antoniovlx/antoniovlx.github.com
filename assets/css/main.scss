@@ -22,6 +22,11 @@ $masthead-link-color-hover  : $theme-orange !default;*/
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.badge-link img{
+	width: 25px;
+	height: 25px;
+}
+
 /*
    HERO IMAGE HEADER
    ========================================================================== */

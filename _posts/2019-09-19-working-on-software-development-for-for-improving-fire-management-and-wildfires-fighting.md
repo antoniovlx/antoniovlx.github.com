@@ -1,6 +1,8 @@
 ---
 title: "Working on Software development for improving wildfires fighting"
 date: 2019-09-19T18:30:30-04:00
+redirect_from:
+  - /2019/09/19/working-on-software-development-for-for-improving-fire-management-and-wildfires-fighting/
 categories:
   - blog
 tags:

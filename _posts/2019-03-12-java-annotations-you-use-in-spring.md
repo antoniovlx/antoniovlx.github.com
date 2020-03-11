@@ -3,7 +3,6 @@ title: "Java Annotations you use in Spring: @Component"
 date: 2019-03-12T19:10:30-04:00
 categories:
   - blog
-  - Spring
 tags:
   - Spring
 ---

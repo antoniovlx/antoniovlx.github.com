@@ -1,11 +1,11 @@
----
+ ---
 title: "Adding an existing project to GitHub"
 date: 2019-08-18T15:10:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - Git
+  - GitHub
 ---
 
 Create a new repository on GitHub.

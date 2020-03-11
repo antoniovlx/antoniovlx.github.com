@@ -3,7 +3,6 @@ title: "One of the best Spring and Hibernate course"
 date: 2019-02-26T18:10:30-04:00
 categories:
   - blog
-  - Spring
 tags:
   - Spring
 ---

@@ -3,9 +3,8 @@ title: "Log4j2 configuration - No log4j2 configuration file found"
 date: 2019-05-15T17:25-04:00
 categories:
   - blog
-  - log4j
 tags:
-  - log4j
+  - Log4j
 ---
 
 Ok, you get an error like this when you run a project with Log4j2:

@@ -3,7 +3,6 @@ title: "Use materialize-css with Angular"
 date: 2019-06-18T17:10:30-04:00
 categories:
   - blog
-  - Angular
 tags:
   - Angular
 ---

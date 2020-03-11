@@ -3,7 +3,6 @@ title: "Tomcat Server Error - Port 8080 already in use"
 date: 2019-09-16T18:10:30-04:00
 categories:
   - blog
-  - Tomcat
 tags:
   - Tomcat
 ---

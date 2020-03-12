@@ -1,6 +1,8 @@
 ---
 title: "Log4j2 configuration - No log4j2 configuration file found"
-date: 2019-05-15T17:25-04:00
+date: 2019-05-12T17:25-04:00
+redirect_from:
+  - /2019/05/12/log4j2-configuration-no-log4j2-configuration-file-found/
 categories:
   - blog
 tags:

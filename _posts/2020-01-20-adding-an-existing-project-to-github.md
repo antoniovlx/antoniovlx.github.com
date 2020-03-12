@@ -1,6 +1,8 @@
  ---
 title: "Adding an existing project to GitHub"
 date: 2019-08-18T15:10:30-04:00
+redirect_from:
+  - /2020/01/20/adding-an-existing-project-to-github/
 categories:
   - blog
 tags:

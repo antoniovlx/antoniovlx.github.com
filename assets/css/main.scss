@@ -28,6 +28,72 @@ $masthead-link-color-hover  : $theme-orange !default;*/
 }
 
 /*
+   POST PREVIEW
+   ========================================================================== */
+h3.archive__date {
+  margin: 0 0 0 0;
+  font-size: $type-size-6;
+  color: #FFF;
+  font-style: normal;
+  border-bottom: none;
+
+  + .list__item .archive__item-title {
+    margin-top: 0em;
+  }
+}
+
+.archive__item-title {
+  margin-top: 0em;
+  color: white;
+
+  a {
+    color: white;
+  }
+}
+
+.archive__item_titlecontainer {
+  border-radius: $border-radius;
+  position: absolute;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.35);
+  padding: 1rem 1rem 1rem 1rem;
+  margin-bottom: 8px;
+  width:100%;
+}
+
+.archive__item-teaser, .archive__item-teaser-imageclickhandler {
+  display: inline-block;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  min-height: 240px;
+  width: 100%;
+}
+
+.archive__item-teaser-imageclickhandler {
+  position: absolute;
+  top: 0;
+}
+
+.archive__item-excerpt {
+  display: block;
+}
+
+.archive__item:hover {
+  .archive__item-title {
+    color: $light-gray;
+    text-decoration: none;
+    a {
+      color: $light-gray;
+    }
+  }
+}
+
+.list__item {
+  margin-bottom: 2em;
+}
+
+/*
    HERO IMAGE HEADER
    ========================================================================== */
 .page__hero--overlay {

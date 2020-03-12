@@ -31,6 +31,9 @@ twitter_username: anvidaluc
 github_username: antoniovlx
 minimal_mistakes_skin: default
 search: true
+# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: /assets/images/image-post-preview.jpg
+
 
 # Build settings
 markdown: kramdown
@@ -109,6 +112,8 @@ defaults:
       share: true
       related: true
       ads: true
+      header:
+        hero: false
   # _pages
   - scope:
       path: "_pages"

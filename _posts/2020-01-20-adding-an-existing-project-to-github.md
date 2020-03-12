@@ -1,6 +1,9 @@
- ---
+---
 title: "Adding an existing project to GitHub"
-date: 2019-08-18T15:10:30-04:00
+date: 2020-01-20T15:10:30-04:00
+header:
+  teaser: /assets/images/add-github-repo/github.png
+  imgcredit: Photo by picjumbo.com from Pexels, https://www.pexels.com/photo/white-printer-paper-196645/, cropped and resized
 redirect_from:
   - /2020/01/20/adding-an-existing-project-to-github/
 categories:
@@ -8,7 +11,7 @@ categories:
 tags:
   - Git
   - GitHub
----
+--- 
 
 Create a new repository on GitHub.
 

@@ -34,6 +34,8 @@ search: true
 # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 teaser: /assets/images/image-post-preview.jpg
 
+# SEO
+google-site-verification: zQ7szVw7pHdjOkUh-apfzniyHcvhOPC2ETCNHIj36Ww
 
 # Build settings
 markdown: kramdown

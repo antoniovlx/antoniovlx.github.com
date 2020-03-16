@@ -35,7 +35,6 @@ search: true
 teaser: /assets/images/image-post-preview.jpg
 
 # SEO
-google-site-verification: zQ7szVw7pHdjOkUh-apfzniyHcvhOPC2ETCNHIj36Ww
 
 # Build settings
 markdown: kramdown

@@ -18,5 +18,5 @@ This is a European cross-border cooperation project POCTEP- between Spain and Po
 
 I am a big fan of **solving complex problems** and **building products that help people**.
 
-<b>Technologies that I use:</b> Spring Boot, Java, Hibernate, Angular, JavaFX, Android, etc
+**Technologies that I use** Spring Boot, Java, Hibernate, Angular, JavaFX, Android, etc
 

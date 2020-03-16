@@ -18,9 +18,9 @@ $masthead-link-color        : $theme-white !default;
 $masthead-link-color-hover  : $theme-orange !default;*/
 
 
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
 
 .badge-link img{
 	width: 25px;
@@ -152,4 +152,39 @@ h3.archive__date {
       font-size: 0.8em;
     }
   }
+}
+
+/*
+   CAROUSEL IMAGES
+   ========================================================================== */
+div.headerImages {
+	max-width: 100%;
+}
+
+div.headerImages img {
+		display:inline-block;
+		max-width: 98%;
+		height: auto;
+		width: 15%;
+		margin: 2%;
+}
+
+div.headerImages .javaImage {
+		width: 10%;
+}
+
+div.headerImages .awsImage {
+		width: 8%;
+}
+
+div.headerImages .psmiImage {
+		width: 6%;
+}
+
+div.headerImages .angularImage {
+		width: 8%;
+}
+
+div.headerImages .androidImage {
+		width: 6%;
 }

@@ -49,9 +49,9 @@ You have to execute this command, because there is a process listening with the 
 taskkill /PID 20044 /F
 ```
 
-#More info:
+**More info:**
 
-https://linux.die.net/man/8/netstat
+[https://linux.die.net/man/8/netstat](https://linux.die.net/man/8/netstat)
 
-https://docs.microsoft.com/en-us/windows server/administration/windows-commands/taskkill
+[https://docs.microsoft.com/en-us/windowsserver/administration/windows-commands/taskkill](https://docs.microsoft.com/en-us/windowsserver/administration/windows-commands/taskkill)
 

@@ -1,0 +1,13 @@
+images: 
+  - title: "spring"
+    image: /assets/images/portfolio/spring-project.png
+  - title: "java"
+    image: /assets/images/portfolio/java-project.jpg
+  - title: "aws"
+    image: /assets/images/portfolio/aws-project.png
+  - title: "psmi"
+    image: /assets/images/portfolio/badge-psmi.jpg 
+  - title: "angular"
+    image: /assets/images/portfolio/angular-project.png
+  - title: "android"
+    image: /assets/images/portfolio/android-project.png

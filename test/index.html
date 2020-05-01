@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>Tests - Ingeniero de Montes</title>
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+  <link href="http://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="sweet-alert.css">
+  <link rel="stylesheet" href="quiz.css">
+  <link rel="stylesheet" href="sidebar.css">
+  <style>
+    #quiz {
+      height: 600px;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <!-- Sidebar -->
+    <nav id="sidebar">
+      <div class="sidebar-header">
+        <h3>Tests Ingeniero de Montes</h3>
+      </div>
+
+      <ul class="list-unstyled components">
+        <li class="active">
+          <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><span class="glyphicon glyphicon-home"></span> Home</a>
+          <ul class="collapse list-unstyled" id="homeSubmenu">
+            <li>
+              <a href="#">Home 1</a>
+            </li>
+            <li>
+              <a href="#">Home 2</a>
+            </li>
+            <li>
+              <a href="#">Home 3</a>
+            </li>
+          </ul>
+        </li>
+        <li class="active">
+          <a href="#testSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><span class="glyphicon glyphicon-edit"></span> Tests</a>
+          <ul class="collapse list-unstyled" id="testeSubmenu">
+            <li>
+              <a href="#">Test 1</a>
+            </li>
+            <li>
+              <a href="#">Test 2</a>
+            </li>
+            <li>
+              <a href="#">Test 3</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#"><span class="glyphicon glyphicon-info-sign"></span> Acerca de</a>
+        </li>
+      </ul>
+
+    </nav>
+    <!-- Page Content -->
+    <div id="content">
+
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+
+          <button type="button" id="sidebarCollapse" class="btn btn-info">
+            <span class="glyphicon glyphicon-align-justify"></span>
+            <span>Menú</span>
+          </button>
+
+          <div class="container-fluid">
+            <div id="quiz"></div>
+          </div>
+
+        </div>
+      </nav>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script src="sweet-alert.js"></script>
+  <script src="quiz.js"></script>
+  <script src="test3.js"></script>
+  <script>
+    $(function() {
+      $('#quiz').quiz(test);
+
+      $('#sidebarCollapse').on('click', function () {
+        $('#sidebar').toggleClass('active');
+      });
+    });
+
+    function startCountDown(){
+                var count = 7200; // 2 hours
+                clearInterval(counter);
+                var counter = setInterval(timer, 1000); //1000 will  run it every 1 second
+                function timer() {
+                  count = count - 1;
+                  if (count == -1) {
+                    clearInterval(counter);
+                    return;
+                  }
+
+                  var seconds = count % 60;
+                  var minutes = Math.floor(count / 60);
+                  var hours = Math.floor(minutes / 60);
+                  minutes %= 60;
+                  hours %= 60;
+
+                  jQuery('#countdown #hour').html(hours);
+                  jQuery('#countdown #min').html(minutes);
+                  jQuery('#countdown #sec').html(seconds);
+                }
+              }
+            </script>
+          </body>
+          </html>

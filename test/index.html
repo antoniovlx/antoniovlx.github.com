@@ -73,38 +73,6 @@
 
           <div class="container-fluid">
             <div id="quiz"></div>
-            <div id="homeContent">
-              <table class="table">
-                <thead>
-                  <tr>
-                    <th scope="col">#</th>
-                    <th scope="col">Test</th>
-                    <th scope="col">Nombre</th>
-                    <th scope="col"></th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">2</th>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
-                    <td>@fat</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">3</th>
-                    <td>Larry</td>
-                    <td>the Bird</td>
-                    <td>@twitter</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
           </div>
         </div>
       </div>
@@ -118,14 +86,14 @@
       <script type="text/javascript" src="test/test3.js"></script>
       <script type="text/javascript">
         $(function() {
-          $homeContent = $('#homeContent');
+          /*$homeContent = $('#homeContent');
           $homeContent.css("visibility", "hidden");
           $('#home').click(function(event){
            if(!$quiz.is(':empty')){
             $quiz.empty();
           }
           //$homeContent.css("visibility", "visible");
-        });
+        });*/
 
           $('#startTestTema1').click(function(event){
             start(test1);
@@ -144,7 +112,6 @@
               $quiz.empty();
             }
             $quiz.quiz(test);
-            $homeContent.css("visibility", "hidden");
           }
         });
 

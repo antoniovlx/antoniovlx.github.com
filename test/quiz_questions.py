@@ -10,17 +10,13 @@ import json
 #
 q_rx = re.compile(r"""
   # number of the question
-  (?P<number>\d+)\)
+  (?P<number>\d+(-)\d+(.|-|\)))
   # Question being asked
   (?P<prompt>.+\[?|:])
   # Possible answers to the question
-  (?P<answers>(?:\s+[-\*]\s.+)+)
-  # image to include in response
-  \s+(?P<image>\(image\).+)?
-  # credits to the image included in response
-  \s+(?P<image_credit>\(image_credit\).+)?
+  (?P<answers>(?:\s*[-\*]\s*.+)+)
   # Extra text to include in response
-  \s+(?P<text>(?![-\*]|^\d+\)|\s+\(image\)).+)?
+  \s+(?P<text>((info:)?![-\*]|^\d+\)|\s+\(image\)).+)?
 """, re.X | re.M)
 
 
@@ -33,9 +29,9 @@ answ_rx = re.compile(r"""
   # (-) : incorrect
   # (*) : correct
   #
-  \s+(?P<correct>[-\*])
+  \s*(?P<correct>[-\*])
   # actual text of answer
-  \s+(?P<answer>.+)
+  \s*(?P<answer>.+)
 """, re.X | re.M)
 
 
@@ -58,38 +54,37 @@ def toJson(filename):
 
   # find all questions
   questions = [m.groupdict() for m in q_rx.finditer(quiz_text)]
-
+  
   results = []
-
+  
+  n = 0
   for q in questions:
-
     out = {}
 
-    out['prompt'] = q['prompt'].strip()
-    out['number'] = int(q['number'])
-
-    if q['image']:
-      out['image'] = q['image'].replace('(image)', "").strip()
-      
-    if q['image_credit']:
-      out['image_credit'] = q['image_credit'].replace('(image_credit)', "").strip()
-
+    out['prompt'] = q['number'].strip() + q['prompt'].strip()
+    # out['number'] = int(q['number'])
+    n = n + 1
+    out['number'] = n
+    
     # correct answer info
     out['correct'] = {}
 
     if q['text']:
       out['correct']['text'] = q['text'].strip()
 
+      
     answers = [m.groupdict() for m in answ_rx.finditer(q['answers'])]
 
     out['answers'] = []
+    
     for i, a in enumerate(answers):
       out['answers'].append(a['answer'].strip())
       if a['correct'] == "*":
         out['correct']['index'] = i
 
     results.append(out)
-
+	
+  print("Preguntas generadas: {}".format(n))
   with open(filename.split('.')[0] + ".json", 'w') as outfile:
     json.dump(
       {
@@ -102,9 +97,8 @@ def toJson(filename):
       indent=2,
       separators=(',', ': ')
     )
-
-
-
+   
+	
 if __name__ == '__main__':
   if len(sys.argv) == 1:
     print("no quiz file given to script...")

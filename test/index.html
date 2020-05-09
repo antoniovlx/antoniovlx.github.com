@@ -7,12 +7,12 @@
   <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
   <link href="http://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="sweet-alert.css">
-  <link rel="stylesheet" href="quiz.css">
-  <link rel="stylesheet" href="sidebar.css">
+  <link rel="stylesheet" type="text/css" href="css/sweet-alert.css">
+  <link rel="stylesheet" href="css/quiz.css">
+  <link rel="stylesheet" href="css/sidebar.css">
   <style>
     #quiz {
-      height: 600px;
+      /*height: 600px;*/
       display: block;
     }
   </style>
@@ -27,8 +27,8 @@
 
       <ul class="list-unstyled components">
         <li class="active">
-          <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><span class="glyphicon glyphicon-home"></span> Home</a>
-          <ul class="collapse list-unstyled" id="homeSubmenu">
+          <a href="#homeSubmenu" id="home" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><span class="glyphicon glyphicon-home"></span> Home</a>
+          <!--<ul class="collapse list-unstyled" id="homeSubmenu">
             <li>
               <a href="#">Home 1</a>
             </li>
@@ -38,84 +38,116 @@
             <li>
               <a href="#">Home 3</a>
             </li>
-          </ul>
+          </ul>-->
         </li>
         <li class="active">
           <a href="#testSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><span class="glyphicon glyphicon-edit"></span> Tests</a>
-          <ul class="collapse list-unstyled" id="testeSubmenu">
-            <li>
-              <a href="#">Test 1</a>
-            </li>
-            <li>
-              <a href="#">Test 2</a>
-            </li>
-            <li>
-              <a href="#">Test 3</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="#"><span class="glyphicon glyphicon-info-sign"></span> Acerca de</a>
-        </li>
-      </ul>
+          <ul class="collapse list-unstyled" id="testSubmenu">
+           <li id="startTestTema1">
+            <a href="#">Tema 1</a>
+          </li>
+          <li id="startTestTema3">
+            <a href="#">Tema 3</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="#"><span class="glyphicon glyphicon-info-sign"></span> Acerca de</a>
+      </li>
+    </ul>
 
-    </nav>
-    <!-- Page Content -->
-    <div id="content">
+  </nav>
+  <!-- Page Content -->
+  <div id="content">
 
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
+    <button type="button" id="sidebarCollapse" class="btn btn-info">
+      <span class="glyphicon glyphicon-align-justify"></span>
+      <span>Menú</span>
+    </button>
 
-          <button type="button" id="sidebarCollapse" class="btn btn-info">
-            <span class="glyphicon glyphicon-align-justify"></span>
-            <span>Menú</span>
-          </button>
+          <!--<div class="timer timer-countdown text-right" data-minutes-left="120"></div>
+          <div id="timer-controls" class="text-right">
+            <button type="button" class="btn btn-success disabled timerstart">Continuar</button>
+            <button type="button" class="btn btn-warning timerpause">Pausa</button> 
+          </div>-->
 
           <div class="container-fluid">
             <div id="quiz"></div>
+            <div id="homeContent">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Test</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">1</th>
+                    <td>Mark</td>
+                    <td>Otto</td>
+                    <td>@mdo</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">2</th>
+                    <td>Jacob</td>
+                    <td>Thornton</td>
+                    <td>@fat</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">3</th>
+                    <td>Larry</td>
+                    <td>the Bird</td>
+                    <td>@twitter</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
           </div>
-
         </div>
-      </nav>
-    </div>
-  </div>
+      </div>
 
-  <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-  <script src="sweet-alert.js"></script>
-  <script src="quiz.js"></script>
-  <script src="test3.js"></script>
-  <script>
-    $(function() {
-      $('#quiz').quiz(test);
+      <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+      <script type="text/javascript" src="js/sweet-alert.js"></script>
+      <script type="text/javascript" src="countdown-timer-control.js"></script>
+      <script type="text/javascript" src="js/quiz.js"></script>
+      <script type="text/javascript" src="test/test1.js"></script>
+      <script type="text/javascript" src="test/test3.js"></script>
+      <script type="text/javascript">
+        $(function() {
+          $homeContent = $('#homeContent');
+          $homeContent.css("visibility", "hidden");
+          $('#home').click(function(event){
+           if(!$quiz.is(':empty')){
+            $quiz.empty();
+          }
+          //$homeContent.css("visibility", "visible");
+        });
 
-      $('#sidebarCollapse').on('click', function () {
-        $('#sidebar').toggleClass('active');
-      });
-    });
+          $('#startTestTema1').click(function(event){
+            start(test1);
+          });
+          $('#startTestTema3').click(function(event){
+            start(test3);
+          });
 
-    function startCountDown(){
-                var count = 7200; // 2 hours
-                clearInterval(counter);
-                var counter = setInterval(timer, 1000); //1000 will  run it every 1 second
-                function timer() {
-                  count = count - 1;
-                  if (count == -1) {
-                    clearInterval(counter);
-                    return;
-                  }
+          $('#sidebarCollapse').on('click', function () {
+            $('#sidebar').toggleClass('active');
+          })
 
-                  var seconds = count % 60;
-                  var minutes = Math.floor(count / 60);
-                  var hours = Math.floor(minutes / 60);
-                  minutes %= 60;
-                  hours %= 60;
+          function start(test){
+            $quiz = $('#quiz');
+            if(!$quiz.is(':empty')){
+              $quiz.empty();
+            }
+            $quiz.quiz(test);
+            $homeContent.css("visibility", "hidden");
+          }
+        });
 
-                  jQuery('#countdown #hour').html(hours);
-                  jQuery('#countdown #min').html(minutes);
-                  jQuery('#countdown #sec').html(seconds);
-                }
-              }
-            </script>
-          </body>
-          </html>
+      </script>
+    </body>
+    </html>

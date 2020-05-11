@@ -26,7 +26,7 @@
 
 			for (var i = 1; i < 25; i++) 
 			{
-				if(!testNo.indexOf(i) != -1){
+				if(testNo.indexOf(i) == -1){
 
 					$('<li>')
 					.attr('class','startTestTema'+ i)

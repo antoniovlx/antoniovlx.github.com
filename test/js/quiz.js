@@ -88,6 +88,11 @@ function render(quiz_opts) {
     $timerstart.removeClass('disabled');
   });
 
+  $title = $('<p>')
+    .text("Test: " + quiz_opts.title)
+    .attr("class", "title")
+    .appendTo($quiz)
+
   $progress = $("<div>")
   .attr("class", "progress")
   .appendTo($quiz);
@@ -140,7 +145,12 @@ function render(quiz_opts) {
     $('<h1>')
     .text(quiz_opts.title)
     .attr('class', 'quiz-title')
-    .appendTo($title_slide);
+    .appendTo($title_slide)
+
+    $('<h4>')
+    .text("Preguntas:  " + state.total)
+    .attr('class', 'quiz-info')
+    .appendTo($title_slide)
 
     var $start_button = $("<div>")
     .attr("class", "quiz-answers")
@@ -165,6 +175,8 @@ function render(quiz_opts) {
 
       $progress.css('visibility', 'visible');
       $timerControls.css("visibility", "visible");
+      $title.css('visibility', 'visible');
+
 
       $(".active .quiz-button.btn").each(function(){
         console.log(this.getBoundingClientRect())
@@ -319,7 +331,6 @@ function render(quiz_opts) {
           state.answered++;
 
           var finished = (state.answered === state.total);
-          console.log(state.answered + " " + state.total)
           
           // if correct answer is selected,
           // keep track in total and mark it
@@ -328,6 +339,12 @@ function render(quiz_opts) {
             state.correct++;
           } 
           else{
+            $selected.siblings().each(function () {
+              if ($(this).text() == question.answers[question.correct.index]) {
+                $(this).addClass('btn-success');
+              }
+            });
+            
             $selected.addClass('btn-danger');
             state.incorrect++;
           } 
@@ -401,60 +418,60 @@ function render(quiz_opts) {
 
     });
 
-    var $buttons = $("<div>")
-    .attr("class", "quiz-buttons")
-    .appendTo($answers);
+var $buttons = $("<div>")
+.attr("class", "quiz-buttons")
+.appendTo($answers);
 
-    if(!$item.hasClass('question1')){
-       
-       var prevButton = $("<button>")
-      .attr("class", "btn btn-info prevButton")
-      .html("Anterior")
-      .click(function(){
-         $quiz.carousel("prev");
-         $question_active = $questions_nav.find('.active')
-         $question_active
-            .removeClass('active')
-            .prev()
-            .addClass('active');
-      }).appendTo($buttons);
-    
-    }
+if(!$item.hasClass('question1')){
+
+  var prevButton = $("<button>")
+  .attr("class", "btn btn-info prevButton")
+  .html("Anterior")
+  .click(function(){
+    $quiz.carousel("prev");
+    $question_active = $questions_nav.find('.active')
+    $question_active
+    .removeClass('active')
+    .prev()
+    .addClass('active');
+  }).appendTo($buttons);
+
+}
 
 
-    var $check_results = $("<button>")
-    .attr("class", "btn btn-primary checkButton")
-    .attr("disabled", "disabled")
-    .html("Comprobar resultados")
-    .click(function(){
-      $slides
-      .find('.item.active')
-      .removeClass('active');
-      $results_slide.addClass('active');
+var $check_results = $("<button>")
+.attr("class", "btn btn-primary checkButton")
+.attr("disabled", "disabled")
+.html("Comprobar resultados")
+.click(function(){
+  $slides
+  .find('.item.active')
+  .removeClass('active');
+  $results_slide.addClass('active');
 
-      myTimer.trigger('pause');
-      $timerpause.addClass('disabled');
-      $timerstart.removeClass('disabled').addClass('disabled');
-      showResultText(state, $results_ratio, $results_title);
-    })
-    .appendTo($buttons);
+  myTimer.trigger('pause');
+  $timerpause.addClass('disabled');
+  $timerstart.removeClass('disabled').addClass('disabled');
+  showResultText(state, $results_ratio, $results_title);
+})
+.appendTo($buttons);
 
-   if(!last_question){
-       
-     var $nextButton = $("<button>")
-    .attr("class", "btn btn-info nextButton")
-    .html("Siguiente")
-    .click(function(){
-      $quiz.carousel('next');
-      $question_active = $questions_nav.find('.active')
-      $question_active
-          .removeClass('active')
-          .next()
-          .addClass('active');
-    })
-    .appendTo($buttons);
-    
-    }
+if(!last_question){
+
+  var $nextButton = $("<button>")
+  .attr("class", "btn btn-info nextButton")
+  .html("Siguiente")
+  .click(function(){
+    $quiz.carousel('next');
+    $question_active = $questions_nav.find('.active')
+    $question_active
+    .removeClass('active')
+    .next()
+    .addClass('active');
+  })
+  .appendTo($buttons);
+
+}
 
 
 });

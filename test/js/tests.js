@@ -40,7 +40,7 @@
 		}, 
 		loadContent: function($table_body, i){
 			$tr = $('<tr>')
-			.html('<td>Test '+i+'</td>')
+			.html('<td>Tema '+i+'</td>')
 			.appendTo($table_body);
 
 			button = $('<td class="startTestTema'+i+'"><button class="btn btn-success">Empezar</button></td></tr>')

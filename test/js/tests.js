@@ -22,7 +22,7 @@
 
 			$table_body = $('<tbody>').appendTo($table);
 
-			var testNo = [13,14,15,16]
+			var testNo = [13,15]
 
 			for (var i = 1; i < 25; i++) 
 			{

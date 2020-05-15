@@ -1,4 +1,4 @@
-var test12 = {
+var test12={
   "questions": [
     {
       "answers": [
@@ -288,7 +288,7 @@ var test12 = {
         "index": 2
       },
       "number": 23,
-      "prompt": "23-24.- Las vigentes Instrucciones Generales para la Ordenaci\u00f3n de Montes de la Comunidad Aut\u00f3noma de Andaluc\u00eda, fueron aprobadas en el a\u00f1o."
+      "prompt": "23-24.- Las vigentes Instrucciones Generales para la Ordenaci\u00f3n de Montes de la Comunidad Aut\u00f3noma de Andaluc\u00eda, fueron aprobadas en el a\u00f1o:"
     },
     {
       "answers": [
@@ -313,7 +313,7 @@ var test12 = {
         "index": 0
       },
       "number": 25,
-      "prompt": "25-2.- El Ayuntamiento tiene previsto enajenar una serie de lotes de madera de Pinus pinea procedentes de una clara realizada con cargo al proyecto de tratamientos selv\u00edcolas. \u00bfCu\u00e1l ser\u00eda la normativa de aplicaci\u00f3n directa para ello?;"
+      "prompt": "25-2.- El Ayuntamiento tiene previsto enajenar una serie de lotes de madera de Pinus pinea procedentes de una clara realizada con cargo al proyecto de tratamientos selv\u00edcolas. \u00bfCu\u00e1l ser\u00eda la normativa de aplicaci\u00f3n directa para ello?:"
     },
     {
       "answers": [
@@ -655,7 +655,7 @@ var test12 = {
         "index": 1
       },
       "number": 52,
-      "prompt": "52-6.- Seg\u00fan los datos reflejados en la informaci\u00f3n presentada, la cabida te\u00f3rica para cada una de las ciases de edad existentes en el cuartel ser\u00e1;"
+      "prompt": "52-6.- Seg\u00fan los datos reflejados en la informaci\u00f3n presentada, la cabida te\u00f3rica para cada una de las ciases de edad existentes en el cuartel ser\u00e1:"
     },
     {
       "answers": [
@@ -811,7 +811,7 @@ var test12 = {
         "index": 1
       },
       "number": 64,
-      "prompt": "64-33.- \u00bfC\u00f3mo se denomina el m\u00e9todo de pastoreo que se realiza? seg\u00fan el manual de ordenaci\u00f3n de montes de Andaluc\u00eda?;"
+      "prompt": "64-33.- \u00bfC\u00f3mo se denomina el m\u00e9todo de pastoreo que se realiza? seg\u00fan el manual de ordenaci\u00f3n de montes de Andaluc\u00eda?:"
     },
     {
       "answers": [
@@ -824,7 +824,7 @@ var test12 = {
         "index": 0
       },
       "number": 65,
-      "prompt": "65-34.- \u00bfSeg\u00fan los datos aportados \u00bfCu\u00e1ntas UGM (sobre el total de especies descritas) soporta el monte sobre la base de las equivalencias establecidas en el manual de ordenaci\u00f3n de montes de Andaluc\u00eda?;"
+      "prompt": "65-34.- \u00bfSeg\u00fan los datos aportados \u00bfCu\u00e1ntas UGM (sobre el total de especies descritas) soporta el monte sobre la base de las equivalencias establecidas en el manual de ordenaci\u00f3n de montes de Andaluc\u00eda?:"
     },
     {
       "answers": [
@@ -1083,6 +1083,18 @@ var test12 = {
     },
     {
       "answers": [
+        "Un doble muestro",
+        "Un muestreo estratificado",
+        "Un conteo pie a pie."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 87,
+      "prompt": "87-55.-Para el Inventario de la Ordenaci\u00f3n de un monte, el muestreo aleatorio o el sistem\u00e1tico son eficientes siempre que las caracter\u00edsticas de la superficie a inventariar sean relativamente uniformes. Si esto no se cumple es conveniente acudir a:"
+    },
+    {
+      "answers": [
         "Estado de la regeneraci\u00f3n",
         "Forma de distribuci\u00f3n de los pies",
         "Grado de competencia entre los \u00e1rboles"
@@ -1090,7 +1102,7 @@ var test12 = {
       "correct": {
         "index": 0
       },
-      "number": 87,
+      "number": 88,
       "prompt": "88-56.- Seg\u00fan las IGOMCA, el inventario del estrato arb\u00f3reo para montes huecos y dehesas deber\u00e1 informar, entre otras, de una de las siguientes caracter\u00edsticas:"
     },
     {
@@ -1102,7 +1114,7 @@ var test12 = {
       "correct": {
         "index": 1
       },
-      "number": 88,
+      "number": 89,
       "prompt": "89-57.- Seg\u00fan las IGOMCA, el m\u00e9todo de ordenaci\u00f3n propuesto para los eucaliptares productores de madera es:"
     },
     {
@@ -1114,7 +1126,7 @@ var test12 = {
       "correct": {
         "index": 1
       },
-      "number": 89,
+      "number": 90,
       "prompt": "90-58.- Cuando la masa presente una estructura preferentemente irregular incompleta, las IGOMCA recomiendan la elecci\u00f3n del siguiente m\u00e9todo de ordenaci\u00f3n:"
     },
     {
@@ -1126,7 +1138,7 @@ var test12 = {
       "correct": {
         "index": 1
       },
-      "number": 90,
+      "number": 91,
       "prompt": "91-12.- Seg\u00fan el proyecto de ordenaci\u00f3n del monte A que usted va a gestionar, debe repoblarse una superficie de 100 ha en el cuartel B. Teniendo en cuenta los nuevos modelos de restauraci\u00f3n forestal desarrollados por la Junta de Andaluc\u00eda en colaboraci\u00f3n con la Universidad de Granada, en la elecci\u00f3n de especie deber\u00e1 tenerse en cuenta:"
     },
     {
@@ -1138,7 +1150,7 @@ var test12 = {
       "correct": {
         "index": 0
       },
-      "number": 91,
+      "number": 92,
       "prompt": "92-26.- Tanto en el inventario de recursos maderables como del corcho, la muestra extendida estar\u00e1 formada por un m\u00e1ximo de:"
     },
     {
@@ -1150,7 +1162,7 @@ var test12 = {
       "correct": {
         "index": 0
       },
-      "number": 92,
+      "number": 93,
       "prompt": "93-27.- Seg\u00fan el art\u00edculo 76 de las IGOMCA, en las parcelas de muestreo, el di\u00e1metro normal de los pies mayores se medir\u00e1:"
     },
     {
@@ -1162,7 +1174,7 @@ var test12 = {
       "correct": {
         "index": 2
       },
-      "number": 93,
+      "number": 94,
       "prompt": "94-29.- El art\u00edculo 98 de las IGOMCA recomienda parcelas circulares cuyo radio oscile entre:"
     },
     {
@@ -1174,7 +1186,7 @@ var test12 = {
       "correct": {
         "index": 1
       },
-      "number": 94,
+      "number": 95,
       "prompt": "95-70.- De acuerdo a lo establecido en la Orden de 26 de enero de 2004, por la que se aprueban las Instrucciones Generales para la Ordenaci\u00f3n de Montes de la Comunidad Aut\u00f3noma de Andaluc\u00eda, el estado socio econ\u00f3mico del Inventario tiene por objeto la descripci\u00f3n de:"
     },
     {
@@ -1186,7 +1198,7 @@ var test12 = {
       "correct": {
         "index": 1
       },
-      "number": 95,
+      "number": 96,
       "prompt": "96-71.- De acuerdo a lo establecido en la Orden de 26 de enero de 2004, por la que se aprueban las Instrucciones Generales para la Ordenaci\u00f3n de Montes de la Comunidad Aut\u00f3noma de Andaluc\u00eda, es verdadera la siguiente afirmaci\u00f3n:"
     },
     {
@@ -1198,7 +1210,7 @@ var test12 = {
       "correct": {
         "index": 2
       },
-      "number": 96,
+      "number": 97,
       "prompt": "97-72.- De acuerdo a lo establecido en la Orden de 26 de enero de 2004, por la que se aprueban las Instrucciones Generales para la Ordenaci\u00f3n de Montes de la Comunidad Aut\u00f3noma de Andaluc\u00eda, es verdadera la siguiente afirmaci\u00f3n:"
     },
     {
@@ -1210,7 +1222,7 @@ var test12 = {
       "correct": {
         "index": 2
       },
-      "number": 97,
+      "number": 98,
       "prompt": "98-42.- En el inventario forestal, por lo general, se utilizan las parcelas:"
     },
     {
@@ -1222,7 +1234,7 @@ var test12 = {
       "correct": {
         "index": 1
       },
-      "number": 98,
+      "number": 99,
       "prompt": "99-43.- Para realizar inventarios forestales, la altura normal en \u00e1rboles se mide sobre el nivel del suelo y en Espa\u00f1a es:"
     },
     {
@@ -1234,7 +1246,7 @@ var test12 = {
       "correct": {
         "index": 0
       },
-      "number": 99,
+      "number": 100,
       "prompt": "100-44.- Podemos afirmar que la altura normal, en el inventario forestal de \u00e1rboles en pie es la:"
     },
     {
@@ -1246,7 +1258,7 @@ var test12 = {
       "correct": {
         "index": 1
       },
-      "number": 100,
+      "number": 101,
       "prompt": "101-45.- En el inventario forestal se utiliza la forc\u00edpula. Este es un instrumento que mide:"
     },
     {
@@ -1258,7 +1270,7 @@ var test12 = {
       "correct": {
         "index": 2
       },
-      "number": 101,
+      "number": 102,
       "prompt": "102-46.- Un Agente de Medio Ambiente destinado en el Parque Natural de Sierra de Mar\u00eda-Los V\u00e9lez, dispone de tres instrumentos para medir la altura de un \u00e1rbol bastante alto que est\u00e1 en pie. \u00bfCu\u00e1l de los siguientes instrumentos utilizar\u00eda para medir su altura?"
     },
     {
@@ -1270,7 +1282,7 @@ var test12 = {
       "correct": {
         "index": 1
       },
-      "number": 102,
+      "number": 103,
       "prompt": "103-47.- Dentro de una masa forestal, el \u00c1rea Basim\u00e9trica representa:"
     },
     {
@@ -1282,7 +1294,7 @@ var test12 = {
       "correct": {
         "index": 0
       },
-      "number": 103,
+      "number": 104,
       "prompt": "104-48.- En relaci\u00f3n a la Fracci\u00f3n de Cabida Cubierta podemos afirmar:"
     }
   ],

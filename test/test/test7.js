@@ -1,4 +1,4 @@
-var test7 = {
+var test={
   "questions": [
     {
       "answers": [
@@ -128,7 +128,7 @@ var test7 = {
         "index": 0
       },
       "number": 10,
-      "prompt": "10-52.- Cu\u00e1l de los siguientes nombres vulgares, es el que recibe la especie Cistus iadanifer."
+      "prompt": "10-52.- Cu\u00e1l de los siguientes nombres vulgares, es el que recibe la especie Cistus iadanifer:"
     },
     {
       "answers": [
@@ -167,7 +167,7 @@ var test7 = {
         "index": 3
       },
       "number": 13,
-      "prompt": "13-55.- Cu\u00e1l de las siguientes especies recibe en Andaluc\u00eda el nombre de Nerium oleander."
+      "prompt": "13-55.- Cu\u00e1l de las siguientes especies recibe en Andaluc\u00eda el nombre de Nerium oleander:"
     },
     {
       "answers": [
@@ -284,7 +284,7 @@ var test7 = {
         "index": 1
       },
       "number": 22,
-      "prompt": "22-96.\u00bfC\u00f3mo se denominan en Andaluc\u00eda las comunidades de Taxus baccata?."
+      "prompt": "22-96.\u00bfC\u00f3mo se denominan en Andaluc\u00eda las comunidades de Taxus baccata?:"
     },
     {
       "answers": [
@@ -449,7 +449,7 @@ var test7 = {
         "index": 0
       },
       "number": 35,
-      "prompt": "35-52.- Cite un ejemplo de genero con semillas absolutamente ortodoxas"
+      "prompt": "35-52.- Cite un ejemplo de genero con semillas absolutamente ortodoxas:"
     },
     {
       "answers": [
@@ -629,11 +629,15 @@ var test7 = {
     },
     {
       "answers": [
-        "Indique de las siguientes, la especie vegetal caracter\u00edstica y/o diferencial del distrito"
+        "Limonium \u00e1lbum",
+        "Plantago nivalis",
+        "Narcissus longispathus"
       ],
-      "correct": {},
+      "correct": {
+        "index": 0
+      },
       "number": 50,
-      "prompt": "50-67."
+      "prompt": "50-67.- Indique de las siguientes, la especie vegetal caracter\u00edstica y/o diferencial del distrito\nbiogeogr\u00e1fico Almeriense Oriental:"
     },
     {
       "answers": [
@@ -681,7 +685,7 @@ var test7 = {
         "index": 2
       },
       "number": 54,
-      "prompt": "54-19.- Seg\u00fan la Ley 7/2010, de 14 de julio, para la Dehesa se considera formaci\u00f3n adehesada a aquella superficie forestal ocupada por un estrato arbolado, compuesto principalmente por encinas, alcornoques, quejigos o acebuches, y ocasionalmente por otro arbolado, que permita el desarrollo de un estrato esencialmente herb\u00e1ceo (pasto), para aprovechamiento del ganado o de las especies cineg\u00e9ticas, estando comprendida la fracci\u00f3n de cabida cubierta (superficie de suelo cubierta por la proyecci\u00f3n de la copa de los \u00e1rboles)..."
+      "prompt": "54-19.- Seg\u00fan la Ley 7/2010, de 14 de julio, para la Dehesa se considera formaci\u00f3n adehesada a aquella superficie forestal ocupada por un estrato arbolado, compuesto principalmente por encinas, alcornoques, quejigos o acebuches, y ocasionalmente por otro arbolado, que permita el desarrollo de un estrato esencialmente herb\u00e1ceo (pasto), para aprovechamiento del ganado o de las especies cineg\u00e9ticas, estando comprendida la fracci\u00f3n de cabida cubierta (superficie de suelo cubierta por la proyecci\u00f3n de la copa de los \u00e1rboles):"
     },
     {
       "answers": [
@@ -860,7 +864,7 @@ var test7 = {
         "index": 1
       },
       "number": 68,
-      "prompt": "68-29.- Cite un ejemplo de g\u00e9nero con semillas absolutamente recalcitrantes"
+      "prompt": "68-29.- Cite un ejemplo de g\u00e9nero con semillas absolutamente recalcitrantes:"
     },
     {
       "answers": [
@@ -1004,7 +1008,7 @@ var test7 = {
         "index": 0
       },
       "number": 80,
-      "prompt": "80-28.- Cual de los siguientes arbustos tienen hojas caducas."
+      "prompt": "80-28.- Cual de los siguientes arbustos tienen hojas caducas:"
     },
     {
       "answers": [
@@ -1028,7 +1032,7 @@ var test7 = {
         "index": 0
       },
       "number": 82,
-      "prompt": "82-83.- \u00bfCu\u00e1l es el nombre vulgar que recibe la leguminosa \u201c Medicago sativs/'l"
+      "prompt": "82-83.- \u00bfCu\u00e1l es el nombre vulgar que recibe la leguminosa \u201c Medicago sativs/'l:"
     },
     {
       "answers": [

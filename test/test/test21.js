@@ -1,4 +1,4 @@
-var test21 = {
+var test={
   "questions": [
     {
       "answers": [
@@ -1224,6 +1224,19 @@ var test21 = {
     },
     {
       "answers": [
+        "D.H. de las cuencas mediterr\u00e1neas andaluzas.",
+        "D.H. del Guadalete y Barbate.",
+        "D.H. del Tinto, Odiel y Piedras.",
+        "D.H. del Guadalquivir."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 95,
+      "prompt": "95-39.\u00bfCu\u00e1l de las siguientes NO es una de las Demarcaciones Hidrogr\u00e1ficas (D.H.) de cuencas intracomunitarias situadas en Andaluc\u00eda?:"
+    },
+    {
+      "answers": [
         "El tratamiento de aguas residuales urbanas med\u00edante un proceso f\u00edsico o f\u00edsico-qu\u00edmico que incluya la sedimentaci\u00f3n de s\u00f3lidos en suspensi\u00f3n, u otros procesos en los que la DBO 5 de las aguas residuales que entren, se reduzca, por lo menos, en un 20 por 100 antes del vertido, y el total de s\u00f3lidos en suspensi\u00f3n en las aguas residuales de entrada se reduzca, por lo menos, en un 50 por 100.",
         "El tratamiento de aguas residuales urbanas mediante un proceso que incluya un tratamiento biol\u00f3gico con sedimentaci\u00f3n secundaria u otro proceso, en el que se respeten los requisitos que se establecer\u00e1n reglamentariamente.",
         "El tratamiento de las aguas residuales urbanas mediante cualquier proceso o sistema de eliminaci\u00f3n, en virtud del cual las aguas receptoras cumplan despu\u00e9s del vertido, los objetivos de calidad previstos en el ordenamiento jur\u00eddico aplicable.",
@@ -1232,7 +1245,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 95,
+      "number": 96,
       "prompt": "96-54.A efectos del Real Decreto-ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas, se entiende por \u201cTratamiento primario\u201d:"
     },
     {
@@ -1245,7 +1258,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 96,
+      "number": 97,
       "prompt": "97-55.El Real Decreto 817/2015, de 11 de septiembre,por el que se establecen los criterios de seguimiento y evaluaci\u00f3n del estado de las aguas superficiales y las normas de calidad ambiental, establece que el estado de las masas de agua superficial quedar\u00e1 determinado por:"
     },
     {
@@ -1258,7 +1271,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 97,
+      "number": 98,
       "prompt": "98-83.Se\u00f1ale la opci\u00f3n INCORRECTA. De acuerdo con el art\u00edculo 3 del Real Decreto 876/204, de 10 de octubre, por el que se aprueba el Reglamento General de Costas, son bienes de dominio p\u00fablico mar\u00edtimo-terrestre estatal:"
     },
     {
@@ -1271,7 +1284,7 @@ var test21 = {
       "correct": {
         "index": 3
       },
-      "number": 98,
+      "number": 99,
       "prompt": "99-94.Se\u00f1ale la opci\u00f3n INCORRECTA. De acuerdo con el Real Decreto 849/1986, de 11 de abril, por el que se aprueba el Reglamento del Dominio P\u00fablico Hidr\u00e1ulico:"
     },
     {
@@ -1284,7 +1297,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 99,
+      "number": 100,
       "prompt": "100-95.Seg\u00fan establece el Plan Andaluz de Humedales, en relaci\u00f3n al modo de alimentaci\u00f3n o abastecimiento de los humedales, cuando \u00e9stos se alimentan principalmente de agua subterr\u00e1nea se denominan:"
     },
     {
@@ -1297,7 +1310,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 100,
+      "number": 101,
       "prompt": "101-153.Los programas de seguimiento del estado de las aguas superficiales previstos en el Real Decreto Legislativo 1/2001, de 20 de Julio, por el que se aprueba el Texto Refundido de la ley de Aguas son:"
     },
     {
@@ -1309,7 +1322,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 101,
+      "number": 102,
       "prompt": "102-30.- Los planes hidrol\u00f3gicos vigentes en las Demarcaciones Hidrogr\u00e1ficas intracomunitarias de Andaluc\u00eda aprobados por Real Decreto 11/2016, de 8 de enero, abarcan el ciclo de planificaci\u00f3n:"
     },
     {
@@ -1321,7 +1334,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 102,
+      "number": 103,
       "prompt": "103-31.- Como unidad de gesti\u00f3n del recurso, la cuenca hidrogr\u00e1fica se considera:"
     },
     {
@@ -1333,7 +1346,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 103,
+      "number": 104,
       "prompt": "104-31.- Como unidad de gesti\u00f3n del recurso, la cuenca hidrogr\u00e1fica se considera:"
     },
     {
@@ -1345,7 +1358,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 104,
+      "number": 105,
       "prompt": "105-41.- La competencia para el otorgamiento de autorizaciones de vertido directo en aguas continentales y subterr\u00e1neas en las cuencas intercomunitarias es de:"
     },
     {
@@ -1357,7 +1370,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 105,
+      "number": 106,
       "prompt": "106-42.- Conforme al Decreto 109/2015, de 17 de marzo, por el que se aprueba el Reglamento de Vertidos al Dominio P\u00fablico Hidr\u00e1ulico y al Dominio P\u00fablico Mar\u00edtimo-Terrestre de Andaluc\u00eda, la descarga de contaminantes en el agua subterr\u00e1nea mediante inyecci\u00f3n sin percolaci\u00f3n a trav\u00e9s del suelo o del subsuelo se considera:"
     },
     {
@@ -1369,7 +1382,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 106,
+      "number": 107,
       "prompt": "107-54-El rio Rivera de Huelva pertenece a la cuenca hidrogr\u00e1fica del:"
     },
     {
@@ -1381,7 +1394,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 107,
+      "number": 108,
       "prompt": "108-56.- Las m\u00e1rgenes de las Riberas est\u00e1n sujetas en toda su extensi\u00f3n longitudinal a una zona de polic\u00eda de:"
     },
     {
@@ -1393,7 +1406,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 108,
+      "number": 109,
       "prompt": "109-62.- De conformidad con el texto Refundido de la Ley de Aguas, el apeo o deslinde de los cauces del dominio p\u00fablico hidr\u00e1ulico corresponde a:"
     },
     {
@@ -1405,7 +1418,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 109,
+      "number": 110,
       "prompt": "110-63.- El Reglamento de Dominio P\u00fablico Hidr\u00e1ulico clasifica los usos del agua en las siguientes categor\u00edas:"
     },
     {
@@ -1417,7 +1430,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 110,
+      "number": 111,
       "prompt": "111-87.- El Decreto 109/2015, de 17 de marzo, por el que se aprueba el Reglamento de Vertidos al Dominio P\u00fablico Hidr\u00e1ulico y al Dominio P\u00fablico Mar\u00edtimo-Terrestre de Andaluc\u00eda, no considera vertidos a los efectos de dicho reglamento:"
     },
     {
@@ -1429,7 +1442,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 111,
+      "number": 112,
       "prompt": "112-88.- Los vertidos al dominio p\u00fablico mar\u00edtimo-terrestre sin autorizaci\u00f3n se tipifican como infracci\u00f3n en:"
     },
     {
@@ -1441,7 +1454,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 112,
+      "number": 113,
       "prompt": "113-97.- La Ley 9/2010, de 30 de julio, de Aguas de Andaluc\u00eda define en su art\u00edculo 4.8. caudal ecol\u00f3gico como:"
     },
     {
@@ -1453,7 +1466,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 113,
+      "number": 114,
       "prompt": "114-7.Se\u00f1ala la respuesta falsa. Es una variable relacionada con el agua, la:"
     },
     {
@@ -1465,7 +1478,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 114,
+      "number": 115,
       "prompt": "115-15.Las aguas superficiales situadas hacia tierra desde una l\u00ednea cuya totalidad de puntos se encuentren a una distancia de una milla n\u00e1utica mar adentro desde el punto m\u00e1s pr\u00f3ximo de la l\u00ednea de base que sirve para medir la anchura de las aguas territoriales y que se extienden, en su caso, hasta el l\u00edmite exterior de las aguas de transici\u00f3n, se denominan:"
     },
     {
@@ -1477,7 +1490,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 115,
+      "number": 116,
       "prompt": "116-16.De acuerdo con la clasificaci\u00f3n de las cuencas hidrogr\u00e1ficas de Way (1978), las cuencas que se caracterizan por mostrar una ramificaci\u00f3n arborescente en las que los tributarios se unen a la corriente principal formando \u00e1ngulos agudos se denominan:"
     },
     {
@@ -1489,7 +1502,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 116,
+      "number": 117,
       "prompt": "117-17.Actualmente la Gesti\u00f3n de la Red de control general de las aguas subterr\u00e1neas en las Cuencas intercomunitarias corresponde a:"
     },
     {
@@ -1501,7 +1514,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 117,
+      "number": 118,
       "prompt": "118-18.Es un nutriente esencial para las plantas responsable de la eutrofizaci\u00f3n de las aguas, particularmente formas inorg\u00e1nicas de este elemento. Se\u00f1ale la respuesta falsa:"
     },
     {
@@ -1513,7 +1526,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 118,
+      "number": 119,
       "prompt": "119-19.Los organismos de cuenca definidos en el art. 21 del Texto Refundido de la Ley de Aguas aprobado por el Real Decreto Legislativo 1/2001, de 20 de julio, son organismos aut\u00f3nomos con la denominaci\u00f3n de:"
     },
     {
@@ -1525,7 +1538,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 119,
+      "number": 120,
       "prompt": "120-54.No son consideradas aguas residuales conforme el Reglamento de Vertidos al Dominio P\u00fablico Hidr\u00e1ulico y al Dominio P\u00fablico Mar\u00edtimo-Terrestre de Andaluc\u00eda:"
     },
     {
@@ -1537,7 +1550,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 120,
+      "number": 121,
       "prompt": "121-55.A efectos de la Directiva del Consejo de 21 de mayo de 1991 sobre el tratamiento de las aguas residuales urbanas (91/271/CEE), se entiende por \u00abAguas residuales urbanas\u00bb:"
     },
     {
@@ -1549,7 +1562,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 121,
+      "number": 122,
       "prompt": "122-56.El Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el texto refundido de la Ley de Aguas establece que las autorizaciones de vertido en todo caso deber\u00e1n especificar:"
     },
     {
@@ -1561,7 +1574,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 122,
+      "number": 123,
       "prompt": "123-57.En el tratamiento de aguas residuales, la fase consistente en la retenci\u00f3n de los s\u00f3lidos gruesos del agua residual mediante una reja, manual o autolimpiable, o un tamiz, habitualmente de menor paso o luz de malla, se denomina:"
     },
     {
@@ -1573,7 +1586,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 123,
+      "number": 124,
       "prompt": "124-105.- En relaci\u00f3n con el r\u00edo que atraviesa la finca, la propiedad de la misma debe saber, con relaci\u00f3n al Dominio P\u00fablico Hidr\u00e1ulico, que, con car\u00e1cter general, las m\u00e1rgenes est\u00e1n sujetas, en toda su extensi\u00f3n longitudinal (se\u00f1ale la respuesta correcta):"
     },
     {
@@ -1586,7 +1599,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 124,
+      "number": 125,
       "prompt": "125-34.\u00bfCu\u00e1l de las siguientes cuencas es intra comunitaria y seg\u00fan se establece en la Ley de Aguas, su gesti\u00f3n es competencia de la Comunidad Aut\u00f3noma?"
     },
     {
@@ -1599,7 +1612,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 125,
+      "number": 126,
       "prompt": "126-85.Seg\u00fan el Plan Director de Riberas de Andaluc\u00eda, el porcentaje m\u00e1s alto, con un 44% del territorio andaluz, lo constituyen los r\u00edos con r\u00e9gimen hidr\u00e1ulico:"
     },
     {
@@ -1611,7 +1624,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 126,
+      "number": 127,
       "prompt": "127-18.- Como parte de las medidas de protecci\u00f3n de las aguas que se deben llevar a cabo en un vertedero, se contempla la recogida y tratamiento de lixiviados. \u00bfCu\u00e1l de las siguientes medidas estar\u00eda obligado a adoptar?"
     },
     {
@@ -1624,7 +1637,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 127,
+      "number": 128,
       "prompt": "128-49.De acuerdo con el texto refundido de la Ley de Aguas, La zona de servidumbre que sirve de protecci\u00f3n y acceso al Dominio P\u00fablico Hidr\u00e1ulico tiene una anchura de:"
     },
     {
@@ -1637,7 +1650,7 @@ var test21 = {
       "correct": {
         "index": 3
       },
-      "number": 128,
+      "number": 129,
       "prompt": "129-50.De acuerdo con el texto refundido de la Ley de aguas las m\u00e1rgenes de lagos, lagunas y embalses tienen como zona de servidumbre y polic\u00eda:"
     },
     {
@@ -1650,7 +1663,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 129,
+      "number": 130,
       "prompt": "130-94.- Seg\u00fan los datos del Informe sobre e! Medio Ambiente en Andaluc\u00eda, elaborado por la Consejer\u00eda de Medio Ambiente, correspondiente al a\u00f1o 2005, y respecto a las aguas residuales, la carga contaminante depurada en Andaluc\u00eda en el a\u00f1o 2005 fue del:"
     },
     {
@@ -1663,7 +1676,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 130,
+      "number": 131,
       "prompt": "131-88.- \u00bfCu\u00e1l de los siguientes tipos de zonas no est\u00e1 contemplado para su inclusi\u00f3n en el Registro de Zonas Protegidas, seg\u00fan la Directiva 2000/60/CE por la que se establece un marco comunitario en el \u00e1mbito de la pol\u00edtica del agua?:"
     },
     {
@@ -1676,8 +1689,8 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 131,
-      "prompt": "132-52De acuerdo a lo establecido en la Ley 9/2010, de 30 de julio, de Aguas para Andaluc\u00eda, cu\u00e1l de las siguientes infracciones es considerada como leve."
+      "number": 132,
+      "prompt": "132-52.De acuerdo a lo establecido en la Ley 9/2010, de 30 de julio, de Aguas para Andaluc\u00eda, cu\u00e1l de las siguientes infracciones es considerada como leve:"
     },
     {
       "answers": [
@@ -1689,8 +1702,8 @@ var test21 = {
       "correct": {
         "index": 3
       },
-      "number": 132,
-      "prompt": "133-95Para la determinaci\u00f3n del dominio mar\u00edtimo-terrestre se practicar\u00e1 por la Administraci\u00f3n del Estado los oportunos deslindes. (Ley 22/1988, de 28 de Julio, de Costas). El deslinde se incoar\u00e1 de oficio o a petici\u00f3n de cualquier persona interesada, y ser\u00e1 aprobado por la Administraci\u00f3n del Estado. El plazo para notificar la resoluci\u00f3n de los procedimientos de deslinde ser\u00e1 de"
+      "number": 133,
+      "prompt": "133-95.Para la determinaci\u00f3n del dominio mar\u00edtimo-terrestre se practicar\u00e1 por la Administraci\u00f3n del Estado los oportunos deslindes. (Ley 22/1988, de 28 de Julio, de Costas). El deslinde se incoar\u00e1 de oficio o a petici\u00f3n de cualquier persona interesada, y ser\u00e1 aprobado por la Administraci\u00f3n del Estado. El plazo para notificar la resoluci\u00f3n de los procedimientos de deslinde ser\u00e1 de:"
     },
     {
       "answers": [
@@ -1701,7 +1714,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 133,
+      "number": 134,
       "prompt": "134-29.- La Ley 22/1988 de Costas considera como servidumbre de tr\u00e1nsito en el dominio p\u00fablico mar\u00edtimo terrestre:"
     },
     {
@@ -1713,7 +1726,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 134,
+      "number": 135,
       "prompt": "135-69.- La definici\u00f3n de referencia de \u201chumedal\u201d adoptada en el Plan Andaluz de Humedales incluye las siguientes manifestaciones:"
     },
     {
@@ -1725,7 +1738,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 135,
+      "number": 136,
       "prompt": "136-84.- Los m\u00e1rgenes, de acuerdo con Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el texto refundido de la ley de aguas, est\u00e1n sujetas en toda su extensi\u00f3n longitudinal a:"
     },
     {
@@ -1737,7 +1750,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 136,
+      "number": 137,
       "prompt": "137-85.- En la concesi\u00f3n de aguas, y a falta de orden de prelaci\u00f3n establecido por el Plan Hidrol\u00f3gico de la Cuenca en que se hallen, indique el uso que ostenta la primac\u00eda:"
     },
     {
@@ -1749,7 +1762,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 137,
+      "number": 138,
       "prompt": "138-86.- De acuerdo con la Ley de Costas la zona de servidumbre de protecci\u00f3n recaer\u00e1 con car\u00e1cter general sobre una zona de:"
     },
     {
@@ -1761,7 +1774,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 138,
+      "number": 139,
       "prompt": "139-26.- Seg\u00fan Ley 2/2013, de 29 de mayo, de protecci\u00f3n y uso sostenible del litoral y de modificaci\u00f3n de la Ley 22/1988, de 28 de julio, de Costas, el t\u00e9rmino \u201cmarisma\u201d se define como:"
     },
     {
@@ -1773,7 +1786,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 139,
+      "number": 140,
       "prompt": "140-86.- El proceso de depuraci\u00f3n en una estaci\u00f3n depuradora de aguas residuales (EDAR) est\u00e1 compuesta de varias etapas. Una de ellas es el tratamiento primario, \u00bfcu\u00e1l es la principal funci\u00f3n de esta etapa?:"
     },
     {
@@ -1785,7 +1798,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 140,
+      "number": 141,
       "prompt": "141-1.- \u00bfCu\u00e1l es el plazo de vencimiento de una autorizaci\u00f3n de vertido al dominio p\u00fablico mar\u00edtimo-terrestre?"
     },
     {
@@ -1797,7 +1810,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 141,
+      "number": 142,
       "prompt": "142-2.- Pertenece al dominio p\u00fablico mar\u00edtimo-terrestre estatal:"
     },
     {
@@ -1809,7 +1822,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 142,
+      "number": 143,
       "prompt": "143-3.- Seg\u00fan la Ley de Costas \u00bfCu\u00e1l es la extensi\u00f3n de la zona de servidumbre de protecci\u00f3n?"
     },
     {
@@ -1821,7 +1834,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 143,
+      "number": 144,
       "prompt": "144-4.- \u00bfPodr\u00e1 ser ampliada la extensi\u00f3n de una zona de servidumbre de protecci\u00f3n?"
     },
     {
@@ -1833,7 +1846,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 144,
+      "number": 145,
       "prompt": "145-5.- \u00bfCu\u00e1l de las siguientes instalaciones estar\u00e1 permitida servidumbre de protecci\u00f3n?"
     },
     {
@@ -1845,7 +1858,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 145,
+      "number": 146,
       "prompt": "146-10.- Seg\u00fan el Reglamento de Calidad de las Aguas Litorales, \u00bfC\u00f3mo pueden clasificarse dichas aguas?"
     },
     {
@@ -1857,7 +1870,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 146,
+      "number": 147,
       "prompt": "147-20.- Seg\u00fan el Decreto 14/1996, de 14 de enero por el que se aprueba el Reglamento de la calidad de las aguas litorales \u00bfCu\u00e1l es el plazo m\u00e1ximo de las autorizaciones de vertido?"
     },
     {
@@ -1869,7 +1882,7 @@ var test21 = {
       "correct": {
         "index": 2
       },
-      "number": 147,
+      "number": 148,
       "prompt": "148-21.- Seg\u00fan el citado reglamento de la calidad de las aguas litorales. \u00bfMediante qu\u00e9 instrumento jur\u00eddico se determinar\u00e1 el procedimiento a seguir para las tomas de muestras y an\u00e1lisis de las mismas?"
     },
     {
@@ -1881,7 +1894,7 @@ var test21 = {
       "correct": {
         "index": 1
       },
-      "number": 148,
+      "number": 149,
       "prompt": "149-22.- \u00bfQu\u00e9 deber\u00e1 hacer el titular de la actividad que origina un vertido accidental capaz de provocar una situaci\u00f3n de emergencia y peligro tanto para las personas como para el medio receptor?"
     },
     {
@@ -1892,7 +1905,7 @@ var test21 = {
       "correct": {
         "index": 0
       },
-      "number": 149,
+      "number": 150,
       "prompt": "150-23.- \u00bfMediante que instrumento jur\u00eddico se establecer\u00e1n los objetivos de calidad de las aguas litorales andaluzas afectadas directamente por los vertidos?"
     }
   ],

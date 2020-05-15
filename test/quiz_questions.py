@@ -12,7 +12,7 @@ q_rx = re.compile(r"""
   # number of the question
   (?P<number>\d+(-)\d+(.|-|\)))
   # Question being asked
-  (?P<prompt>.+\[?|:])
+  (?P<prompt>.+\n*.+[\?|:])
   # Possible answers to the question
   (?P<answers>(?:\s*[-\*]\s*.+)+)
   # Extra text to include in response
@@ -85,7 +85,8 @@ def toJson(filename):
     results.append(out)
 	
   print("Preguntas generadas: {}".format(n))
-  with open(filename.split('.')[0] + ".json", 'w') as outfile:
+  with open(filename.split('.')[0] + ".js", 'w') as outfile:
+    outfile.write("var test=")
     json.dump(
       {
         "questions" : sorted(results, key=lambda x: x['number']),

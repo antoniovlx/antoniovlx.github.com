@@ -1,4 +1,4 @@
-var test1 = {
+var test1={
   "questions": [
     {
       "answers": [
@@ -401,7 +401,7 @@ var test1 = {
         "index": 1
       },
       "number": 31,
-      "prompt": "31-38)En relaci\u00f3n con el Decreto 194/2008, de 6 de mayo, por el que se regula la Estructura Org\u00e1nica de la Consejer\u00eda de Medio Ambiente, modificado por el Decreto 176/2009, de 19 de mayo, indique cu\u00e1l de las siguientes funciones no es competencia de la Direcci\u00f3n General de Cambio Clim\u00e1tico y Medio Ambiente Urbano: (Cuidado)"
+      "prompt": "31-38.En relaci\u00f3n con el Decreto 194/2008, de 6 de mayo, por el que se regula la Estructura Org\u00e1nica de la Consejer\u00eda de Medio Ambiente, modificado por el Decreto 176/2009, de 19 de mayo, indique cu\u00e1l de las siguientes funciones no es competencia de la Direcci\u00f3n General de Cambio Clim\u00e1tico y Medio Ambiente Urbano:"
     },
     {
       "answers": [
@@ -784,6 +784,19 @@ var test1 = {
     },
     {
       "answers": [
+        "La Delegaci\u00f3n Provincial de Medio Ambiente, por delegaci\u00f3n de la persona titular de la Direcci\u00f3n General de Gesti\u00f3n del Medio Natural.",
+        "La Consejer\u00eda de Medio Ambiente.",
+        "La Direcci\u00f3n General de Gesti\u00f3n del Medio Natural, por delegaci\u00f3n de la persona titular de la Consejer\u00eda de Medio Ambiente.",
+        "La Viceconsejeria de Medio Ambiente."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 62,
+      "prompt": "62-142.- Finca particular. Situada en el norte Huelva. Dentro del P.N. Sierra de Aracena y Picos de Aroche. La superficie de la finca es de 340 hect\u00e1reas.La composici\u00f3n principal de la masa forestal consiste en encinas y alcornoques, en proporci\u00f3n aproximada de 80 % y 20% respectivamente. Con car\u00e1cter general se trata de una masa regular, con un buen regenerado. El cual, en su gran mayor\u00eda, est\u00e1 pendiente de podas de formaci\u00f3n. Existe una peque\u00f1a mancha de alcornoques adultos, concentrada en la zona noroeste de la finca, a los que nunca se les ha extra\u00eddo el corcho. En las bellotas de las encinas se han observado perforaciones en el fruto, en su interior se aprecian gr\u00e1nulos sueltos frecuentemente unidos por hilos de seda, lo cual va a suponer grandes p\u00e9rdidas en\nlas cosechas de bellota. Tambi\u00e9n se aprecia, tanto en las encinas como en los alcornoques, s\u00edntomas claros de la Seca. En el 2008 se convocaron las bases reguladoras de la concesi\u00f3n de ayudas para la gesti\u00f3n forestal sostenible de los montes en el \u00e1mbito de la Comunidad Aut\u00f3noma de Andaluc\u00eda, Orden de 25 de febrero de 2008. El titular solicit\u00f3 la ayuda para la \u201cElaboraci\u00f3n de Planes de Gesti\u00f3n forestal: redacci\u00f3n y revisi\u00f3n de Planes T\u00e9cnicos\u201d. Cumplimentada la solicitud, la ayuda le fue concedida mediante Resoluci\u00f3n de concesi\u00f3n y aceptada por el titular. El titular no ha entregado a\u00fan el proyecto. El proyecto t\u00e9cnico de Ordenaci\u00f3n contempla, entre otras, las actuaciones de podas de formaci\u00f3n para la encina y alcornoque y primer descorche. De estas actuaciones el titular aprovechar\u00e1 los restos de las podas para obtener le\u00f1a. Ser\u00e1 competente para dictar la resoluci\u00f3n de concesi\u00f3n la persona titular de:"
+    },
+    {
+      "answers": [
         "2004-2010",
         "2003-2012",
         "2004-2012"
@@ -791,7 +804,7 @@ var test1 = {
       "correct": {
         "index": 0
       },
-      "number": 62,
+      "number": 63,
       "prompt": "63-92.- El per\u00edodo de vigencia del actual Plan de Medio Ambiente de Andaluc\u00eda es:"
     },
     {
@@ -803,7 +816,7 @@ var test1 = {
       "correct": {
         "index": 0
       },
-      "number": 63,
+      "number": 64,
       "prompt": "64-10.- Entre los Programas de Actuaci\u00f3n del Plan Forestal Andaluz (Adecuaci\u00f3n 2003- 2007) en materia de Espacios naturales protegidos y uso p\u00fablico, est\u00e1n:"
     },
     {
@@ -815,7 +828,7 @@ var test1 = {
       "correct": {
         "index": 0
       },
-      "number": 64,
+      "number": 65,
       "prompt": "65-11.- Seg\u00fan el Plan Andaluz de Control de la Desertificaci\u00f3n, en su territorio podremos encontrar graves problemas de p\u00e9rdidas de suelo por erosi\u00f3n en:"
     },
     {
@@ -827,7 +840,7 @@ var test1 = {
       "correct": {
         "index": 1
       },
-      "number": 65,
+      "number": 66,
       "prompt": "66-18.- \u00bfEn qu\u00e9 norma se regula la actual Consejer\u00eda de la Junta de Andaluc\u00eda con competencias en materia forestal?:"
     },
     {
@@ -839,7 +852,7 @@ var test1 = {
       "correct": {
         "index": 0
       },
-      "number": 66,
+      "number": 67,
       "prompt": "67-19.- El Consejo Forestal Nacional creado en la Ley 43/2003 de Montes, en su redacci\u00f3n dada por la Ley 41/2015 de 20 de julio, es un \u00f3rgano consultivo cuya composici\u00f3n, funciones y normas de funcionamiento se determina en:"
     }
   ],

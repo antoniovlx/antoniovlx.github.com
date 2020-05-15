@@ -1,4 +1,4 @@
-var test4 = {
+var test4={
   "questions": [
     {
       "answers": [
@@ -262,6 +262,97 @@ var test4 = {
     },
     {
       "answers": [
+        "Eichhorma crassipes",
+        "Senecio elodes",
+        "Quercus alpestris",
+        "Erodium astragaloides"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 21,
+      "prompt": "21-28.- Entre los da\u00f1os del citado incendio, se constata la afectaci\u00f3n de ejemplares de una especie al\u00f3ctona invasora, \u00bfde cu\u00e1l de las siguientes especies se tratar\u00eda?:"
+    },
+    {
+      "answers": [
+        "Quercus canariensis",
+        "Ilex aquifolium",
+        "Laserpitium longiradium",
+        "Celtis australis"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 22,
+      "prompt": "22-30.- En el transcurso de la visita de campo se observa la presencia de ejemplares de una especie de flora catalogada en Peligro de Extinci\u00f3n. \u00bfCu\u00e1l de las siguientes tiene esa catalogaci\u00f3n?:"
+    },
+    {
+      "answers": [
+        "Muy Grave en caso de que haya existido repercusi\u00f3n en la seguridad de las personas",
+        "Muy Grave si ha existido lucro",
+        "Grave",
+        "Leve"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 23,
+      "prompt": "23-152.Se observa la circulaci\u00f3n de un veh\u00edculo a motor incumpliendo las normas establecidas para ello en el medio natural para la protecci\u00f3n de las especiessilvestres, alrededor de una especie de flora catalogada en la Ley 8/2003 de flora y fauna silvestre de Andaluc\u00eda, sin causar da\u00f1o a la misma. Seg\u00fan esta ley la infracci\u00f3n ser\u00e1:"
+    },
+    {
+      "answers": [
+        "Multa de 60 a 600 euros",
+        "Multa de 60,10 a 601,01 euros",
+        "Multa de 601,02 a 60.101,21 euros",
+        "Multa de 601 a 4.000 euros"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 24,
+      "prompt": "24-153.La anterior infracci\u00f3n se sancionar\u00e1 seg\u00fan la Ley 8/2003 de flora y fauna silvestre de Andaluc\u00eda, con la siguiente cuant\u00eda:"
+    },
+    {
+      "answers": [
+        "Vulnerable",
+        "En peligro de extinci\u00f3n",
+        "De inter\u00e9s especial",
+        "No est\u00e1 catalogada"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 25,
+      "prompt": "25-15.- Durante el camino a la inspecci\u00f3n la agente observa unos ejemplares de Otis tarda, especie que se encuentra recogida en el Cat\u00e1logo Andaluz de Especies Amenazadas con la categor\u00eda de:"
+    },
+    {
+      "answers": [
+        "Plan de Conservaci\u00f3n",
+        "Plan de Manejo",
+        "Plan de Recuperaci\u00f3n",
+        "Plan de Seguimiento"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 26,
+      "prompt": "26-16.- En ca so de catalogaci\u00f3n de una determinada especie en la categor\u00eda de \u201cinter\u00e9s especial, \u00bfQu\u00e9 plan de los que se citan deber\u00e1 elaborarse?:"
+    },
+    {
+      "answers": [
+        "Celtis australis",
+        "Buxus sempervirens L.",
+        "Acer monspessulanum L.",
+        "Laserpitium longiradium"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 27,
+      "prompt": "27-151.En el incendio, entre otras, los Agentes han tenido conocimiento del calcinamiento de un \u00e1rea habitada por una especie de flora catalogada en peligro de extinci\u00f3n. \u00bfCu\u00e1l de las siguientes especies podr\u00eda ser la afectada?:"
+    },
+    {
+      "answers": [
         "Comercial.",
         "De Inter\u00e9s Especial.",
         "En Peligro de Extinci\u00f3n.",
@@ -270,7 +361,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 21,
+      "number": 28,
       "prompt": "28-50.El salinete (Aphanius baeticus) es un pez que en Andaluc\u00eda se encuentra catalogado como:"
     },
     {
@@ -283,7 +374,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 22,
+      "number": 29,
       "prompt": "29-81.\u00bfQu\u00e9 es el Registro Andaluz de Aprovechamientos de Flora y Fauna silvestre?"
     },
     {
@@ -296,7 +387,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 23,
+      "number": 30,
       "prompt": "30-14.En parte de la finca se encuentra un bosquete de 100 ha de Abies pinsapo Boiss. \u00bfQu\u00e9 tipo de plan se llevar\u00e1 a cabo para la conservaci\u00f3n de esta especie?"
     },
     {
@@ -309,7 +400,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 24,
+      "number": 31,
       "prompt": "31-15.El propietario ha soltado en la laguna una especie pisc\u00edcola no aut\u00f3ctona susceptible de pesca continental sin autorizaci\u00f3n. \u00bfC\u00f3mo se considera, seg\u00fan la ley 8/2003 de la flora y fauna silvestres, esta infracci\u00f3n?"
     },
     {
@@ -322,7 +413,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 25,
+      "number": 32,
       "prompt": "32-21.La zona, localizada en una provincia andaluza, se quiere declarar como Parque Natural. En la descripci\u00f3n de las especies del documento declarativo se indica que es un lugar donde est\u00e1 presente la especie Corema \u00e1lbum. Por tanto, el Parque Natural se localiza en:"
     },
     {
@@ -335,7 +426,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 26,
+      "number": 33,
       "prompt": "33-22.Adem\u00e1s, usted sabe que el g\u00e9nero Corema es:"
     },
     {
@@ -348,7 +439,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 27,
+      "number": 34,
       "prompt": "34-54.La especie Sorbus aucuparia est\u00e1 considerada en la Lista Roja de Plantas Vasculares de Andaluc\u00eda como:"
     },
     {
@@ -361,7 +452,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 28,
+      "number": 35,
       "prompt": "35-64.De las 636 especies de vertebrados existentes en Espa\u00f1a, en Andaluc\u00eda se localizan:"
     },
     {
@@ -374,7 +465,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 29,
+      "number": 36,
       "prompt": "36-65.En cuanto a la flora, las especies o taxones presentes en Andaluc\u00eda representan:"
     },
     {
@@ -387,7 +478,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 30,
+      "number": 37,
       "prompt": "37-67.La Secretar\u00eda del Convenio de Diversidad Biol\u00f3gica est\u00e1 administrada por:"
     },
     {
@@ -400,7 +491,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 31,
+      "number": 38,
       "prompt": "38-68.El n\u00famero de endemismos exclusivos presentes en Andaluc\u00eda es:"
     },
     {
@@ -413,7 +504,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 32,
+      "number": 39,
       "prompt": "39-64.Seg\u00fan el Anexo II de la Ley 8/2003, la especie Prunus padus L. est\u00e1 considerada en Andaluc\u00eda como:"
     },
     {
@@ -426,7 +517,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 33,
+      "number": 40,
       "prompt": "40-65.La especie Adenocarpus glbbsianus, conocida popularmente como rascavieja, se localiza:"
     },
     {
@@ -439,7 +530,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 34,
+      "number": 41,
       "prompt": "41-70.La Ley 8/2003, de 28 de octubre, de la flora y fauna silvestres define las especies silvestres amenazadas como:"
     },
     {
@@ -452,7 +543,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 35,
+      "number": 42,
       "prompt": "42-74.La especie Testudo graeca est\u00e1 catalogada como:"
     },
     {
@@ -465,7 +556,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 36,
+      "number": 43,
       "prompt": "43-16.\u00bfQu\u00e9 entiende por \u201cCustodia del territorio\u201d la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad?"
     },
     {
@@ -478,7 +569,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 37,
+      "number": 44,
       "prompt": "44-18.El Consejo Estatal para el Patrimonio. Natural y la Biodiversidad, es un \u00f3rgano de participaci\u00f3n p\u00fablica en el \u00e1mbito de la conservaci\u00f3n y el uso sostenible del patrimonio natural y la biodiversidad. En este \u00f3rgano, las Comunidades Aut\u00f3nomas:"
     },
     {
@@ -491,7 +582,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 38,
+      "number": 45,
       "prompt": "45-24.La gesti\u00f3n de las subvenciones que se otorguen con cargo al Fondo para el Patrimonio Natural y la Biodiversidad, corresponden a:"
     },
     {
@@ -504,7 +595,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 39,
+      "number": 46,
       "prompt": "46-25.La inclusi\u00f3n de un tax\u00f3n o poblaci\u00f3n en la categor\u00eda de \u00aben peligro de extinci\u00f3n\u00bb del Cat\u00e1logo Espa\u00f1ol de Especies Amenazadas, conllevar\u00e1 la adopci\u00f3n de un Plan de Recuperaci\u00f3n en un plazo m\u00e1ximo de:"
     },
     {
@@ -517,7 +608,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 40,
+      "number": 47,
       "prompt": "47-26.Las Reservas Biogen\u00e9ticas, en la normativa espa\u00f1ola, tienen la consideraci\u00f3n de:"
     },
     {
@@ -530,7 +621,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 41,
+      "number": 48,
       "prompt": "48-43.El Plan de Conservaci\u00f3n del Enebro costero (Juniperus oxycedrus L. subsp macrocarpa) en Andaluc\u00eda se aplica en las provincias de:"
     },
     {
@@ -543,7 +634,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 42,
+      "number": 49,
       "prompt": "49-44.El Cat\u00e1logo Espa\u00f1ol de Especies Amenazadas clasifica a los taxones poblaciones de la biodiversidad en las siguientes categor\u00edas:"
     },
     {
@@ -556,7 +647,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 43,
+      "number": 50,
       "prompt": "50-57.- Para la construcci\u00f3n del \u00edndice de diversidad espec\u00edfica de vertebrados de Andaluc\u00eda (\u00edndice de Shannon-VVaeaver), se han utilizado los datos del Atlas de Vertebrados del Inventario Nacional de H\u00e1bitats v Taxones realizado por el Ministerio de Medio Ambiente, as\u00ed como informaci\u00f3n sobre especies disponible en la Consejer\u00eda de Medio Ambiente. Los resultados que se obtienen muestran la distribuci\u00f3n del n\u00famero y la proporci\u00f3n de los vertebrados en Andaluc\u00eda. El \u00edndice muestra c\u00f3mo hay tres grandes zonas donde los valores son m\u00e1s bajos:"
     },
     {
@@ -569,7 +660,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 44,
+      "number": 51,
       "prompt": "51-59.- La Consejer\u00eda de Medio Ambiente tiene en marcha un proyecto de reintroducci\u00f3n del \u00c1guila pescadora (Pandion haliaetus) en Andaluc\u00eda, habi\u00e9ndose reintroducido ya en algunas localidades parejas procedentes de Finlandia, Escocia y. Alemania. Las zonas de reintroducci\u00f3n han sido:"
     },
     {
@@ -582,7 +673,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 45,
+      "number": 52,
       "prompt": "52-64.- Seg\u00fan la edici\u00f3n de 2005 sobre los datos b\u00e1sicos de Andaluc\u00eda, en relaci\u00f3n con la biodiversidad, qu\u00e9 porcentaje de especies de mam\u00edferos de inter\u00e9s comunitario se localizan en Andaluc\u00eda respecto al total de Espa\u00f1a:"
     },
     {
@@ -595,7 +686,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 46,
+      "number": 53,
       "prompt": "53-78.- En el Anexo II de la Ley 8/2003, de 28 de octubre, de la flora y fauna silvestres. NO se encuentra incluida catalogada como especie extinta una de las siguientes:"
     },
     {
@@ -608,8 +699,8 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 47,
-      "prompt": "54-4.En este territorio se encuentra la m\u00e1s alta proporci\u00f3n europea de las poblaciones de dos especies de flora amenazada: el Arto (Maytenus senegalensis) y el Azafranillo del Cabo (Androcvnibiuni europaeum), catalogadas ambas en la categor\u00eda de vulnerables. De acuerdo con la actual normativa sobre especies silvestres,"
+      "number": 54,
+      "prompt": "54-4.En este territorio se encuentra la m\u00e1s alta proporci\u00f3n europea de las poblaciones de dos especies de flora amenazada: el Arto (Maytenus senegalensis) y el Azafranillo del Cabo (Androcvnibiuni europaeum), catalogadas ambas en la categor\u00eda de vulnerables. De acuerdo con la actual normativa sobre especies silvestres:"
     },
     {
       "answers": [
@@ -621,7 +712,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 48,
+      "number": 55,
       "prompt": "55-10.-Se ha propuesto por varias instituciones cient\u00edficas y apoyada por numerosas ONG conservacionistas, la reintroducci\u00f3n del Ibis eremita (Geronticus eremita) en este ENP. Que pasos deber\u00e1 dar la administraci\u00f3n ya que trat\u00e1ndose de una especie extinta en estado silvestre hay que abordar la reintroducci\u00f3n de la siguiente manera:"
     },
     {
@@ -634,7 +725,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 49,
+      "number": 56,
       "prompt": "56-14.En su inter\u00e9s por conocer los valores naturales de su propiedad descubre que tiene una poblaci\u00f3n de una especie catalogada en peligro de extinci\u00f3n en el Cat\u00e1logo Espa\u00f1ol de Especies Amenazadas, qu\u00e9 documento debe o ha debido redactar la administraci\u00f3n para la conservaci\u00f3n de esta especie:"
     },
     {
@@ -647,7 +738,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 50,
+      "number": 57,
       "prompt": "57-57)El anexo II de la Directiva 92/43/CEE recoge especies animales y vegetales de inter\u00e9s comunitario para las que es necesario establecer zonas especiales de conservaci\u00f3n. Dentro de estas especies se reconocen como prioritarias aquellas especies para las que la Uni\u00f3n Europea tiene una especial responsabilidad en su conservaci\u00f3n debido a su \u00e1rea de distribuci\u00f3n. Indicar cual de los siguientes grupos incluye tres especies que son prioritarias de acuerdo con el citado anexo:"
     },
     {
@@ -660,7 +751,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 51,
+      "number": 58,
       "prompt": "58-65)De acuerdo con los Datos B\u00e1sicos de medio ambiente en Andaluc\u00eda. Edici\u00f3n 2008. \u00bfCu\u00e1ntas especies de las incluidas en el cat\u00e1logo andaluz de especies de flora amenazada est\u00e1n consideradas como endemismos de Andaluc\u00eda?"
     },
     {
@@ -673,7 +764,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 52,
+      "number": 59,
       "prompt": "59-67)La distribuci\u00f3n del lobo ha sido estudiada entre 2003-2008, localiz\u00e1ndose su reducida poblaci\u00f3n en dos n\u00facleos de distribuci\u00f3n, ambos en Sierra Morena, ubicados en las provincias de C\u00f3rdoba, Ja\u00e9n y Sevilla. Podr\u00eda indicar en que categor\u00eda de amenaza se incluye esta especie en el Cat\u00e1logo Andaluz de Especies Amenazadas que crea la Ley 8/2003, de 28 de octubre, de la flora y la fauna silvestres:"
     },
     {
@@ -686,7 +777,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 53,
+      "number": 60,
       "prompt": "60-77)En el marco del Plan Andaluz de Aves Acu\u00e1ticas puesto en marcha por la Consejer\u00eda de Medio Ambiente se realizan anualmente de forma coordinada los siguientes censos:"
     },
     {
@@ -699,7 +790,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 54,
+      "number": 61,
       "prompt": "61-7)Con respecto a la especie arriba citada, deber\u00edamos comprobar si se ha aprobado el correspondiente:"
     },
     {
@@ -712,7 +803,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 55,
+      "number": 62,
       "prompt": "62-21)Las infracciones muy graves contra lo dispuesto en la Ley 8/2003 prescribir\u00e1n a los:"
     },
     {
@@ -725,7 +816,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 56,
+      "number": 63,
       "prompt": "63-24)De acuerdo al art\u00edculo 24 de la Ley de Flora y Fauna Silvestres de Andaluc\u00eda las restricciones y limitaciones establecidas con car\u00e1cter general por la misma para la protecci\u00f3n de las especies de la fauna silvestre:"
     },
     {
@@ -738,7 +829,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 57,
+      "number": 64,
       "prompt": "64-25)La captura de fring\u00edlidos en Andaluc\u00eda se permite:"
     },
     {
@@ -751,7 +842,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 58,
+      "number": 65,
       "prompt": "65-26)\u00bfA qui\u00e9n corresponde el deber de conservar las colecciones cient\u00edficas en Andaluc\u00eda?"
     },
     {
@@ -764,7 +855,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 59,
+      "number": 66,
       "prompt": "66-27)Para las especies de flora y fauna pertenecientes a la categor\u00eda de inter\u00e9s especial en Andaluc\u00eda:"
     },
     {
@@ -777,7 +868,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 60,
+      "number": 67,
       "prompt": "67-28)Para la constituci\u00f3n de una Agrupaci\u00f3n de Defensa Forestal ser\u00e1 necesario:"
     },
     {
@@ -790,7 +881,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 61,
+      "number": 68,
       "prompt": "68-29)La captura de determinadas especies de fring\u00edlidos se realiza en Andaluc\u00eda a trav\u00e9s del siguiente procedimiento administrativo:"
     },
     {
@@ -803,7 +894,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 62,
+      "number": 69,
       "prompt": "69-30)Los proyectos cient\u00edficos que requieran la utilizaci\u00f3n de especies silvestres amenazadas deber\u00e1n someter a autorizaci\u00f3n de la Consejer\u00eda competente en materia de medio ambiente:"
     },
     {
@@ -816,7 +907,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 63,
+      "number": 70,
       "prompt": "70-32)De acuerdo a la Ley 8/2003, obstaculizar las servidumbres de paso por las riberas y m\u00e1rgenes se considera una infracci\u00f3n en materia de pesca continental:"
     },
     {
@@ -829,7 +920,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 64,
+      "number": 71,
       "prompt": "71-37)De los siguientes medios de captura prohibidos por la Ley 8/2003, cu\u00e1l de ellos no es correcto:"
     },
     {
@@ -842,7 +933,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 65,
+      "number": 72,
       "prompt": "72-100)\u00bfC\u00f3mo se denomina el sistema de protecci\u00f3n sanitaria que se establece en el art\u00edculo 16 de la Ley de Flora y Fauna Silvestres?"
     },
     {
@@ -855,7 +946,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 66,
+      "number": 73,
       "prompt": "73-24.-En el \u00e1rea indicada anteriormente, una vez protegida, aparece un invertebrado nuevo para la ciencia, en una cueva. De acuerdo con la ley 8/2003 de la Flora y la Fauna Silvestres de Andaluc\u00eda, se realiza el siguiente procedimiento:"
     },
     {
@@ -868,7 +959,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 67,
+      "number": 74,
       "prompt": "74-25)El invertebrado, finalmente se declara de Inter\u00e9s Especial. La Universidad de Huelva pretende realizar un proyecto cient\u00edfico que incluye el estudio anat\u00f3mico del invertebrado, para lo cual debe recoger 5 ejemplares. \u00bfQu\u00e9 debe hacer?:"
     },
     {
@@ -881,7 +972,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 68,
+      "number": 75,
       "prompt": "75-26)El propietario del terreno donde se encuentra el invertebrado anterior realiza obras en la cueva y produce la destrucci\u00f3n de parte del h\u00e1bitat de dicha especie. En el correspondiente expediente sancionados de acuerdo a la Ley 8/2003, se tipifica como infracci\u00f3n:"
     },
     {
@@ -894,7 +985,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 69,
+      "number": 76,
       "prompt": "76-27)En la denuncia del agente de medio ambiente sobre el hecho anterior se hacen constar tres circunstancias agravantes, de acuerdo al art\u00edculo 84 de la Ley 8/2003. Indica cu\u00e1l de las siguientes no est\u00e1 considerada como agravante:"
     },
     {
@@ -907,7 +998,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 70,
+      "number": 77,
       "prompt": "77-65.Seg\u00fan establece la Ley 8/2003, de 28 de octubre, de la flora y la fauna silvestres, en relaci\u00f3n con las categor\u00edas de especies amenazadas, la definici\u00f3n \u201ccuando su h\u00e1bitat caracter\u00edstico est\u00e9 especialmente amenazado por estar fraccionado o muy limitado\u201d corresponde a la siguiente categor\u00eda:"
     },
     {
@@ -920,7 +1011,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 71,
+      "number": 78,
       "prompt": "78-66.El Plan de Recuperaci\u00f3n y Conservaci\u00f3n de Aves Esteparias NO incluye a la siguiente especie protegida:"
     },
     {
@@ -933,7 +1024,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 72,
+      "number": 79,
       "prompt": "79-67.El Cat\u00e1logo Andaluz de \u00c1rboles y Arboledas Singulares se crea mediante:"
     },
     {
@@ -946,7 +1037,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 73,
+      "number": 80,
       "prompt": "80-68.La Red Andaluza de Jardines Bot\u00e1nicos y Micol\u00f3gico en Espacios Naturales aborda su tarea en el marco de tres programas. Se\u00f1ale cu\u00e1l de los siguientes NO es uno de ellos:"
     },
     {
@@ -959,7 +1050,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 74,
+      "number": 81,
       "prompt": "81-72.Con relaci\u00f3n al Cangrejo Rojo (Procambarus clarkii), cu\u00e1l de las siguientes afirmaciones NO es correcta:"
     },
     {
@@ -972,7 +1063,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 75,
+      "number": 82,
       "prompt": "82-76.En la lucha contra el veneno y el uso de cebos envenenados en Andaluc\u00eda, el diagnostico de casos de envenenamiento de la fauna silvestre se lleva a cabo por:"
     },
     {
@@ -984,7 +1075,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 76,
+      "number": 83,
       "prompt": "83-8.- \u00bfCu\u00e1l de las siguientes respuestas no se corresponde con una Categor\u00eda de la UICN para evaluar el estado de una poblaci\u00f3n silvestre?"
     },
     {
@@ -996,7 +1087,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 77,
+      "number": 84,
       "prompt": "84-9.- La Red Andaluza de Jardines Bot\u00e1nicos se compone de 12 Jardines que se distribuyen siguiendo criterios biogeogr\u00e1ficos por todo el territorio andaluz, excepto uno de ellos que es una representaci\u00f3n regional. De los siguientes, \u00bfcu\u00e1l representa a toda la regi\u00f3n andaluza?"
     },
     {
@@ -1008,7 +1099,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 78,
+      "number": 85,
       "prompt": "85-10.- La legislaci\u00f3n vigente (texto consolidado) relativa al Cat\u00e1logo de especies ex\u00f3ticas invasoras no incluye a:"
     },
     {
@@ -1020,16 +1111,20 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 79,
+      "number": 86,
       "prompt": "86-28.- \u00bfCu\u00e1l de las siguientes variables se considera una variable del medio abi\u00f3tico?:"
     },
     {
       "answers": [
-        "La red andaluza de centros de conservaci\u00f3n, recuperaci\u00f3n y reintroducci\u00f3n de especies"
+        "Decreto 239/2011, de 12 de julio.",
+        "Decreto 232/2007, de 31 de julio.",
+        "Decreto 23/2012, de 14 de febrero."
       ],
-      "correct": {},
-      "number": 80,
-      "prompt": "87-57."
+      "correct": {
+        "index": 2
+      },
+      "number": 87,
+      "prompt": "87-57.- La red andaluza de centros de conservaci\u00f3n, recuperaci\u00f3n y reintroducci\u00f3n de especies silvestres, se cre\u00f3 mediante la siguiente normativa:"
     },
     {
       "answers": [
@@ -1040,7 +1135,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 81,
+      "number": 88,
       "prompt": "88-58.- Seg\u00fan el Real Decreto 139/2011 para el desarrollo del listado de especies silvestres en R\u00e9gimen de protecci\u00f3n especial y del Cat\u00e1logo Espa\u00f1ol de especies amenazadas, la especie \u00c1guila imperial ib\u00e9rica se encuentra como:"
     },
     {
@@ -1052,16 +1147,20 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 82,
+      "number": 89,
       "prompt": "89-69.- Las Agrupaciones de Defensa Forestal se constituyen como cauce de participaci\u00f3n social en:"
     },
     {
       "answers": [
-        "De conformidad con el art\u00edculo 149.1.23a. de la Constituci\u00f3n Espa\u00f1ola, en materia de"
+        "Exclusiva.",
+        "Compartida.",
+        "Delegada."
       ],
-      "correct": {},
-      "number": 83,
-      "prompt": "90-76."
+      "correct": {
+        "index": 0
+      },
+      "number": 90,
+      "prompt": "90-76.- De conformidad con el art\u00edculo 149.1.23a. de la Constituci\u00f3n Espa\u00f1ola, en materia de\nlegislaci\u00f3n b\u00e1sica sobre montes y aprovechamientos forestales, el Estado tiene competencia:"
     },
     {
       "answers": [
@@ -1072,16 +1171,44 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 84,
+      "number": 91,
       "prompt": "91-151.- Durante los a\u00f1os 2011 y 2012 el Gobierno Andaluz aprobo por acuerdo de Consejo de Gobierno los planes de recuperaci\u00f3n y conservaci\u00f3n de determinadas especies silvestres y h\u00e1bitat protegidas. Cu\u00e1l de los siguientes planes no es correctos:"
     },
     {
       "answers": [
-        "Se pretende aprobar un proyecto de ejecuci\u00f3n de un embalse en el monte p\u00fablico para"
+        "En peligro de extinci\u00f3n",
+        "Vulnerable",
+        "Inter\u00e9s especial"
       ],
-      "correct": {},
-      "number": 85,
-      "prompt": "94-112."
+      "correct": {
+        "index": 0
+      },
+      "number": 92,
+      "prompt": "92-106.- En el citado monte nos encontramos un \u00e1rea con presencia de una masa arbolada de Pinsapo (Abies pinsapo), el cual est\u00e1 incluido en el Cat\u00e1logo Andaluz de Especies Amenazadas en la categor\u00eda de:"
+    },
+    {
+      "answers": [
+        "Plan de Manejo.",
+        "Plan de Recuperaci\u00f3n.",
+        "Plan de Conservaci\u00f3n."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 93,
+      "prompt": "93-107.- Para el caso del Pinsapo (Abies pinsapo) \u00bfQu\u00e9 tipo de Plan se debe adoptar para garantizar su supervivencia?"
+    },
+    {
+      "answers": [
+        "Mediante Resoluci\u00f3n del organismo de cuenca.",
+        "Mediante Orden del Consejero competente en materia de Medio Ambiente.",
+        "Mediante una ley."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 94,
+      "prompt": "94-112.- Se pretende aprobar un proyecto de ejecuci\u00f3n de un embalse en el monte p\u00fablico para\nabastecimiento humano de las poblaciones cercanas al mismo, el cual afecta a un Bosque end\u00e9mico de Juniperus spp, considerado h\u00e1bitat de inter\u00e9s comunitario prioritario de acuerdo con la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad. Este proyecto ha sido evaluado determin\u00e1ndose la existencia de repercusiones negativas, no existiendo soluciones alternativas. La concurrencia de razones imperiosas de inter\u00e9s p\u00fablico de primer orden hacen necesaria la actuaci\u00f3n. Se\u00f1ale la opci\u00f3n correcta de c\u00f3mo se ha podido proceder a la declaraci\u00f3n de dichas razones imperiosas de inter\u00e9s p\u00fablico de primer orden:"
     },
     {
       "answers": [
@@ -1092,7 +1219,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 86,
+      "number": 95,
       "prompt": "95-114.- En este caso, al afectar a un tipo de h\u00e1bitat natural prioritaria, para poder desarrollar este proyecto se han alegado razones imperiosas de inter\u00e9s p\u00fablico de primer orden, por lo que, se ha realizado previa consulta:"
     },
     {
@@ -1104,7 +1231,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 87,
+      "number": 96,
       "prompt": "96-1.El complejo din\u00e1mico de comunidades vegetales, animales y de microorganismos y su medio no viviente que interact\u00faan como una unidad funcional, se denomina:"
     },
     {
@@ -1116,7 +1243,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 88,
+      "number": 97,
       "prompt": "97-23.Cuando hablamos de \u201cresiliencia\u201d de un ecosistema nos referimos a:"
     },
     {
@@ -1128,8 +1255,20 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 89,
+      "number": 98,
       "prompt": "98-28.Las egagr\u00f3pilas sirven para detectar la presencia de:"
+    },
+    {
+      "answers": [
+        "Extintas y en riesgo grave.",
+        "En peligro de extinci\u00f3n y en riesgo grave.",
+        "En peligro de extinci\u00f3n y vulnerable."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 99,
+      "prompt": "99-71.El Cat\u00e1logo Espa\u00f1ol de Especies Amenazadas recoge taxones o poblaciones\namenazadas incluy\u00e9ndolos dentro de dos categor\u00edas de amenaza. Indica cuales:"
     },
     {
       "answers": [
@@ -1140,7 +1279,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 90,
+      "number": 100,
       "prompt": "100-72.La Ley 42/2007, de 13 diciembre, del Patrimonio Natural y de la Biodiversidad, en su art\u00edculo 56, crea un listado administrativo que incluir\u00e1 especies, subespecies y poblaciones que sean merecedoras de una atenci\u00f3n y protecci\u00f3n particular en funci\u00f3n de su valor cient\u00edfico, ecol\u00f3gico, cultural, por su singularidad, rareza, o grado de amenaza, as\u00ed como aquellas que figuren como protegidas en los anexos de las Directivas y los convenios internacionales ratificados por Espa\u00f1a. Dicho listado se denomina:"
     },
     {
@@ -1152,7 +1291,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 91,
+      "number": 101,
       "prompt": "101-73.El Plan de recuperaci\u00f3n y conservaci\u00f3n de dunas, arenales y acantilados costeros, establece medidas de protecci\u00f3n para 35 especies de flora y 1 especie de fauna, denominada cient\u00edficamente Goniomma compressisquama. \u00bfDe qu\u00e9 especie de fauna se trata?"
     },
     {
@@ -1164,7 +1303,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 92,
+      "number": 102,
       "prompt": "102-74.El Centro de An\u00e1lisis y Diagn\u00f3stico de la Fauna Silvestre (CAD), est\u00e1 actualmente en la provincia de:"
     },
     {
@@ -1176,8 +1315,8 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 93,
-      "prompt": "103-75.Una de las siguientes no es una categor\u00eda en la que se clasifican las especies, subespecies, razas o poblaciones de la flora y la fauna silvestres que se incluyen en el Cat\u00e1logo Andaluz de Especies Amenazadas."
+      "number": 103,
+      "prompt": "103-75.Una de las siguientes no es una categor\u00eda en la que se clasifican las especies, subespecies, razas o poblaciones de la flora y la fauna silvestres que se incluyen en el Cat\u00e1logo Andaluz de Especies Amenazadas:"
     },
     {
       "answers": [
@@ -1188,7 +1327,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 94,
+      "number": 104,
       "prompt": "104-76.De acuerdo con la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y la Biodiversidad, la inclusi\u00f3n de un tax\u00f3n en la categor\u00eda de \u201cen peligro de extinci\u00f3n\u201d del Cat\u00e1logo Espa\u00f1ol de Especies Amenazadas, conllevar\u00e1 la adopci\u00f3n de un plan de recuperaci\u00f3n, que incluya las medidas m\u00e1s adecuadas para el cumplimiento de los objetivos buscados y, en su caso, la designaci\u00f3n de \u00e1reas cr\u00edticas. Este Plan se deber\u00e1 adoptar en plazo m\u00e1ximo de:"
     },
     {
@@ -1200,7 +1339,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 95,
+      "number": 105,
       "prompt": "105-77.De los tres Jardines Bot\u00e1nicos existentes en la provincia de C\u00e1diz \u00bfCu\u00e1l de ellos se corresponde con el sector biogeogr\u00e1fico RONDE\u00d1O?"
     },
     {
@@ -1212,7 +1351,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 96,
+      "number": 106,
       "prompt": "106-96.El Consejo Andaluz de Biodiversidad tiene entre sus funciones:"
     },
     {
@@ -1224,16 +1363,20 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 97,
+      "number": 107,
       "prompt": "107-97.El Consejo Andaluz de Biodiversidad como \u00f3rgano consultivo, de asesoramiento y seguimiento que promueve la participaci\u00f3n en relaci\u00f3n a la protecci\u00f3n y conservaci\u00f3n del medio natural, funciona en pleno y comit\u00e9s especializados, entre el que se encuentra el:"
     },
     {
       "answers": [
-        "De las siguientes zonas de Andaluc\u00eda, se\u00f1ale cu\u00e1l tiene mayor n\u00famero de parejas"
+        "Sierra Morena.",
+        "Sierra de Grazalema.",
+        "Do\u00f1ana."
       ],
-      "correct": {},
-      "number": 98,
-      "prompt": "108-106."
+      "correct": {
+        "index": 0
+      },
+      "number": 108,
+      "prompt": "108-106.- De las siguientes zonas de Andaluc\u00eda, se\u00f1ale cu\u00e1l tiene mayor n\u00famero de parejas\ncensadas de Buitre Negro (Aegypius monachus):"
     },
     {
       "answers": [
@@ -1245,7 +1388,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 99,
+      "number": 109,
       "prompt": "109-53.- \u00bfQu\u00e9 Ley andaluza tiene por objeto \"la ordenaci\u00f3n de la protecci\u00f3n, conservaci\u00f3n y recuperaci\u00f3n de la flora y la fauna silvestres y sus h\u00e1bitats\":"
     },
     {
@@ -1258,7 +1401,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 100,
+      "number": 110,
       "prompt": "110-54.- Entre las instalaciones relacionadas con la conservaci\u00f3n de la naturaleza de que dispone la Consejer\u00eda de Medio Ambiente de la Junta de Andaluc\u00eda est\u00e1n los CREA, \u00bfqu\u00e9 significan dichas siglas?:"
     },
     {
@@ -1271,7 +1414,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 101,
+      "number": 111,
       "prompt": "111-55.- De las siguientes especies de flora andaluza, \u00bfcu\u00e1l se encuentra entre las catalogadas \"en peligro de extinci\u00f3n\" por el Decreto 104/1994, de 10 de mayo, por el que se establece el Cat\u00e1logo Andaluz de Especies de Flora Silvestre Amenazada?:"
     },
     {
@@ -1284,7 +1427,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 102,
+      "number": 112,
       "prompt": "112-56.- De entre las siguientes especies de fauna hay una que se encuentra protegida en la Comunidad Aut\u00f3noma Andaluza, no estando incluida, sin embargo, en el Cat\u00e1logo Nacional de Especies Amenazadas \u00bfcu\u00e1l es?:"
     },
     {
@@ -1297,7 +1440,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 103,
+      "number": 113,
       "prompt": "113-2.- Teniendo en cuenta que el sapillo moteado est\u00e1 incluido en la categor\u00eda de \u201cinter\u00e9s especial\u201d, de las definidas por la Ley 8/2003, de 28 de octubre de la flora y fauna silvestres, de Andaluc\u00eda. \u00bfQu\u00e9 tipo de plan afectar\u00eda a esta especie?:"
     },
     {
@@ -1310,7 +1453,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 104,
+      "number": 114,
       "prompt": "114-3.- Se pretende reintroducir el sapillo moteado en otro monte de la comunidad andaluza donde ya no se detecta su presencia. A tal fin se prev\u00e9 la recogida de huevos. \u00bfEn qu\u00e9 condiciones podr\u00eda realizarse dicha recolecci\u00f3n?:"
     },
     {
@@ -1323,7 +1466,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 105,
+      "number": 115,
       "prompt": "115-32.- La Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, establece dentro del Cat\u00e1logo Espa\u00f1ol de Especies Amenazadas, las siguientes categor\u00edas:"
     },
     {
@@ -1336,7 +1479,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 106,
+      "number": 116,
       "prompt": "116-33.- \u00bfQui\u00e9n aprueba el Plan Estrat\u00e9gico Estatal del Patrimonio Natural y de la Biodiversidad?"
     },
     {
@@ -1349,7 +1492,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 107,
+      "number": 117,
       "prompt": "117-94.- Con car\u00e1cter general, \u00bfc\u00f3mo inciden sobre los afectados las limitaciones de derechos establecidas por la Ley 8/2003, de la Flora y la Fauna Silvestres de Andaluc\u00eda, para la protecci\u00f3n de las especies de la flora y fauna silvestres y sus h\u00e1bitats?:"
     },
     {
@@ -1362,7 +1505,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 108,
+      "number": 118,
       "prompt": "118-37.- Una de las aves esteparias presentes en la zona es el Aguilucho cenizo (Circus pygargus), \u00bfqu\u00e9 grado de protecci\u00f3n establece el Cat\u00e1logo Andaluz de Especies Amenazadas para el mismo?"
     },
     {
@@ -1375,7 +1518,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 109,
+      "number": 119,
       "prompt": "119-38.- De acuerdo con el grado de protecci\u00f3n del Aguilucho cenizo (Circus pygargus), \u00bfqu\u00e9 tipo de plan se le exige conforme a la Ley 8/2003, de Flora y Fauna Silvestres de Andaluc\u00eda?"
     },
     {
@@ -1388,7 +1531,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 110,
+      "number": 120,
       "prompt": "120-39.- \u00bfCu\u00e1l de las siguientes medidas de gesti\u00f3n de buenas pr\u00e1cticas agr\u00edcolas, se considera m\u00e1s adecuada para favorecer la conservaci\u00f3n de las aves esteparias?"
     },
     {
@@ -1401,7 +1544,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 111,
+      "number": 121,
       "prompt": "121-40.- Una de las especies de aves de la zona se encuentra recogida en anexo II del Convenio sobre la conservaci\u00f3n de especies migratorias de la fauna silvestre, hecho en Bonn el 23 de julio de 1979. \u00bfDe cu\u00e1l se trata?"
     },
     {
@@ -1413,7 +1556,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 112,
+      "number": 122,
       "prompt": "122-20.- Seg\u00fan la Ley 8/2003, de 28 de octubre, de la Flora y la Fauna Silvestre de Andaluc\u00eda, la autorizaci\u00f3n para la puesta en funcionamiento de piscifactor\u00edas o instalaciones de acuicultura ser\u00e1 otorgada por:"
     },
     {
@@ -1425,7 +1568,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 113,
+      "number": 123,
       "prompt": "123-44.- En las cumbres amesetadas de la Sierra de las Nieves (M\u00e1laga), a partir de los 1600 m. de altitud se encuentra una formaci\u00f3n de quejigo (Quercus alpestris), que est\u00e1 incluida en el Cat\u00e1logo Andaluz de Especies Vegetales Amenazadas con la categor\u00eda de:"
     },
     {
@@ -1437,7 +1580,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 114,
+      "number": 124,
       "prompt": "124-78.- De las siguientes aves: \u00bfcu\u00e1l se encuentra en peligro de extinci\u00f3n, seg\u00fan el Real Decreto 439/1990, de 30 de marzo, por el que se regula el Cat\u00e1logo Nacional de Especies Amenazadas?:"
     },
     {
@@ -1449,7 +1592,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 115,
+      "number": 125,
       "prompt": "125-79.- La Ley 8/2003, de 28 de octubre, de la Flora y la Fauna Silvestre de Andaluc\u00eda, exige la redacci\u00f3n para las especies catalogadas como \u201cen peligro de extinci\u00f3n\u201d de un Plan de:"
     },
     {
@@ -1461,7 +1604,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 116,
+      "number": 126,
       "prompt": "126-98.- La cabra mont\u00e9s es considerada en Andaluc\u00eda por la normativa vigente como:"
     },
     {
@@ -1473,7 +1616,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 117,
+      "number": 127,
       "prompt": "127-23.- \u00bfQu\u00e9 tipo de Plan habr\u00eda que redactar para la protecci\u00f3n del meloncillo y del gato mont\u00e9s?"
     },
     {
@@ -1485,7 +1628,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 118,
+      "number": 128,
       "prompt": "128-24.-\u00bfPodr\u00eda redactarse un Plan conjunto para las dos especies?:"
     },
     {
@@ -1497,7 +1640,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 119,
+      "number": 129,
       "prompt": "129-28.-EI Asplenium petrarchae, subespecie bivalens es un endemismo de:"
     },
     {
@@ -1509,8 +1652,8 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 120,
-      "prompt": "130-47.- Conforme a lo establecido en la Ley andaluza 8/2003, de 28 de octubre, de la flora y la fauna silvestres, \u00bfen qu\u00e9 categor\u00eda se incluyen aquellas especies que su supervivencia resulte poco probable si los factores causales de su actual situaci\u00f3n siguen actuando?."
+      "number": 130,
+      "prompt": "130-47.- Conforme a lo establecido en la Ley andaluza 8/2003, de 28 de octubre, de la flora y la fauna silvestres, \u00bfen qu\u00e9 categor\u00eda se incluyen aquellas especies que su supervivencia resulte poco probable si los factores causales de su actual situaci\u00f3n siguen actuando?"
     },
     {
       "answers": [
@@ -1521,7 +1664,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 121,
+      "number": 131,
       "prompt": "131-48.- La catalogaci\u00f3n de una determinada especie en la categor\u00eda de especies amenazadas, como \u201cde inter\u00e9s especiar, exigir\u00e1 la elaboraci\u00f3n para la misma del siguiente Plan:"
     },
     {
@@ -1533,7 +1676,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 122,
+      "number": 132,
       "prompt": "132-59.- El Decreto 4/1986, de 22 de enero, por el que se ampl\u00eda la lista de especies protegidas y se dictan normas para su protecci\u00f3n en el territorio de la Comunidad Aut\u00f3noma de Andaluc\u00eda, recoge que los ganaderos ser\u00e1n indemnizados:"
     },
     {
@@ -1545,7 +1688,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 123,
+      "number": 133,
       "prompt": "133-60.- Indique que Catalogo se crea en la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad:"
     },
     {
@@ -1557,7 +1700,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 124,
+      "number": 134,
       "prompt": "134-67.- Indique de las siguientes, la especie vegetal caracter\u00edstica y/o diferencial del distrito biogeogr\u00e1fico Almeriense Oriental:"
     },
     {
@@ -1569,7 +1712,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 125,
+      "number": 135,
       "prompt": "135-80.- De entre los siguientes organismos internacionales, \u00bfcu\u00e1l de ellos ha elaborado un cat\u00e1logo o lista roja de especies protegidas con diversas categor\u00edas?"
     },
     {
@@ -1581,20 +1724,8 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 126,
+      "number": 136,
       "prompt": "136-17.- La normativa andaluza vigente sobre protecci\u00f3n de flora y fauna silvestres es:"
-    },
-    {
-      "answers": [
-        "Micropterus salmoides (Black-bass), Esox lucius (Lucio), Squalius pyrenaicus (Cacho).",
-        "Cyprinus carpi\u00f3 (Carpa com\u00fan), Oncorhynchus mykiss (trucha arcoiris), Esox Lucius (Lucio).",
-        "Micropterus salmoides (black-bass), Pseudochondrostoma willkommii (Boga de r\u00edo), Silurus glanis (Siluro)."
-      ],
-      "correct": {
-        "index": 1
-      },
-      "number": 127,
-      "prompt": "137-38.- Se encuentran incluidas en el Cat\u00e1logo Espa\u00f1ol de Especies Invasoras las siguientes especies"
     },
     {
       "answers": [
@@ -1605,7 +1736,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 128,
+      "number": 137,
       "prompt": "138-57.- \u00bfCu\u00e1l de los siguientes componentes de un ecosistema no forma parte de la biocenosis?"
     },
     {
@@ -1617,7 +1748,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 129,
+      "number": 138,
       "prompt": "139-28.- En un r\u00edo t\u00edpico podemos diferenciar varios tipos de tramos en funci\u00f3n de las caracter\u00edsticas del agua (la temperatura, la turbidez, la salinidad, la velocidad, la profundidad del agua\u2026 etc). Indica en qu\u00e9 tramos de los r\u00edos podemos encontrar con mayor facilidad al albur (Liza spp):"
     },
     {
@@ -1629,7 +1760,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 130,
+      "number": 139,
       "prompt": "140-65.- Entre los 11 planes de recuperaci\u00f3n y conservaci\u00f3n de especies amenazadas en Andaluc\u00eda, se incluye:"
     },
     {
@@ -1645,7 +1776,7 @@ var test4 = {
       "correct": {
         "index": 6
       },
-      "number": 131,
+      "number": 140,
       "prompt": "141-120.- Por \u00faltimo, le se\u00f1alas al propietario que es tu obligaci\u00f3n informarle que Navahonda se encuentra en el \u00e1rea de campeo de una especie incluida en el Cat\u00e1logo andaluz de especies amenazadas, el \u00c1guila imperial ib\u00e9rica, para la que se exige la elaboraci\u00f3n de un:"
     },
     {
@@ -1658,7 +1789,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 132,
+      "number": 141,
       "prompt": "143-67.El conjunto de actuaciones a nivel del estado que se desarrollan para la conservaci\u00f3n del lince ib\u00e9rico constituye:"
     },
     {
@@ -1671,7 +1802,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 133,
+      "number": 142,
       "prompt": "144-86.De acuerdo con lo establecido en la Ley 8/2003 de flora y fauna silvestre cu\u00e1l de estas especies est\u00e1 catalogada como extinta en Andaluc\u00eda:"
     },
     {
@@ -1684,7 +1815,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 134,
+      "number": 143,
       "prompt": "145-4.- Cual de estas especies mencionadas en el monte las Pe\u00f1as est\u00e1 catalogada como de Inter\u00e9s Especial en el Anexo de la Ley 8/2003 de 28 de octubre de la fauna y flora silvestre:"
     },
     {
@@ -1697,7 +1828,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 135,
+      "number": 144,
       "prompt": "146-6.- El Pelodytes ib\u00e9ricus o sapillo moteado ib\u00e9rico es un anfibio incluido en el anexo de la Ley 8/2003 como:"
     },
     {
@@ -1710,7 +1841,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 136,
+      "number": 145,
       "prompt": "147-32.- La sucesi\u00f3n conjunta de comunidades que se sustituye una a otra en una determinada \u00e1rea se designa:"
     },
     {
@@ -1723,7 +1854,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 137,
+      "number": 146,
       "prompt": "148-54-Los tipos de bio diversidad derivados de su definici\u00f3n, recogida entre otros, en la Estrategia andaluza de desarrollo sostenible, son:"
     },
     {
@@ -1736,7 +1867,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 138,
+      "number": 147,
       "prompt": "149-72.El cambia de uso de terrenos forestales para su dedicaci\u00f3n a la explotaci\u00f3n agr\u00edcola en regad\u00edo en una finca localizada en el interior del Parque Natural de Do\u00f1ana:"
     },
     {
@@ -1749,7 +1880,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 139,
+      "number": 148,
       "prompt": "150-73.Seg\u00fan la vigente normativa andaluza en materia de conservaci\u00f3n de flora y faunas silvestres, \u00bfqu\u00e9 grupo de plantas de los que a continuaci\u00f3n se relacionan incluye exclusivamente especies catalogadas como vulnerables?"
     },
     {
@@ -1762,7 +1893,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 140,
+      "number": 149,
       "prompt": "151-93.- Seg\u00fan el Cat\u00e1logo Nacional de Especies Amenazadas, a finales de 2004 el n\u00famero de especies amenazadas era de 602, siendo el 45% de estas:"
     },
     {
@@ -1775,7 +1906,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 141,
+      "number": 150,
       "prompt": "152-96- De acuerdo con los datos del Informe sobre el Medio Ambiente en Andaluc\u00eda, elaborado por la Consejer\u00eda de Medio Ambiente, correspondiente al a\u00f1o 2005, la poblaci\u00f3n estimada de parejas de buitre negro existentes en Andaluc\u00eda en ese a\u00f1o fue de:"
     },
     {
@@ -1788,7 +1919,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 142,
+      "number": 151,
       "prompt": "153-97.- De acuerdo con los datos del Informe sobre el Medio Ambiente en Andaluc\u00eda, elaborado por la Consejer\u00eda de Medio Ambiente\u00bb correspondiente al a\u00f1o 2005, en cu\u00e1l de estas provincias hay constatadas un mayor n\u00famero de avutardas:"
     },
     {
@@ -1801,7 +1932,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 143,
+      "number": 152,
       "prompt": "154-31.- En la zona 4 se ha identificado un arbusto que llega a alcanzar los 7 metros de altura de la familia de las eric\u00e1ceas clasificado en Andaluc\u00eda como en peligro de extinci\u00f3n. Indique cu\u00e1l de las siguientes es:"
     },
     {
@@ -1814,7 +1945,7 @@ var test4 = {
       "correct": {
         "index": 3
       },
-      "number": 144,
+      "number": 153,
       "prompt": "155-28.- De acuerdo con el art\u00edculo 8 de la Ley 42/2007 de 13 de diciembre del Patrimonio Natural y de la Biodiversidad, el \u00f3rgano de participaci\u00f3n p\u00fablica en el \u00e1mbito de la conservaci\u00f3n y el uso sostenible del patrimonio natural y la biodiversidad se denomina:"
     },
     {
@@ -1827,7 +1958,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 145,
+      "number": 154,
       "prompt": "156-39- Cu\u00e1l de estos abetos est\u00e1n incluidos en el anexo II de la ley 42/2007 de 13 de diciembre del Patrimonio Natural y la Biodiversidad, como especies vegetales de inter\u00e9s comunitario para cuya conservaci\u00f3n es necesario designar zonas de especial conservaci\u00f3n:"
     },
     {
@@ -1840,7 +1971,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 146,
+      "number": 155,
       "prompt": "157-44.- Seg\u00fan la Ley 43/2003, de 21 de noviembre, de Montes (Modificada por la Ley 10/2006. de 28 de abril), en un monte incluido en el Cat\u00e1logo de Utilidad P\u00fablica, el otorgamiento de concesi\u00f3n de actividades que impliquen una utilizaci\u00f3n privativa:"
     },
     {
@@ -1853,7 +1984,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 147,
+      "number": 156,
       "prompt": "158-13.- En la zona m\u00e1s expuesta ocupada por el pinar adulto (zona inmediatamente contigua a la playa) se localiza una especie le\u00f1osa, de altura media aproximada en tomo a 1 metro, hoja persistente y frutos en forma de baya. Dicha especie est\u00e1 asociada a montes litorales del frente mar\u00edtimo del oeste de la pen\u00ednsula, encontr\u00e1ndose catalogada en nuestra Comunidad Aut\u00f3noma como \u2018\u2018Vulnerable\u201d. Nos referimos a:"
     },
     {
@@ -1866,7 +1997,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 148,
+      "number": 157,
       "prompt": "159-16.- En la laguna existente al norte del monte, se han censado varias especies de aves acu\u00e1ticas silvestres, entre las que se encuentra una clasificada \u201cen peligro de extinci\u00f3n\u201d, en el Cat\u00e1logo Andaluz de Especies Amenazadas. Indique, a qu\u00e9 especie nos referimos:"
     },
     {
@@ -1879,21 +2010,8 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 149,
+      "number": 158,
       "prompt": "160-19.- En que categor\u00eda se incluye el \u00c1guila imperial seg\u00fan el Cat\u00e1logo Andaluz de Especies de Fauna Amenazadas aprobado por Ley 8/2003 de la Flora y la Fauna Silvestres de Andaluc\u00eda:"
-    },
-    {
-      "answers": [
-        "30.",
-        "50.",
-        "150.",
-        "250."
-      ],
-      "correct": {
-        "index": 1
-      },
-      "number": 150,
-      "prompt": "161-20.- Seg\u00fan la estad\u00edstica oficial de la Consejer\u00eda de Medio Ambiente sobre censo de fauna amenazada de Andaluc\u00eda en el a\u00f1o 2006 \u00bfCu\u00e1l fue el n\u00famero aproximado de reproductores de \u00c1guila imperial en Andaluc\u00eda en el a\u00f1o 2005 ?;"
     },
     {
       "answers": [
@@ -1905,7 +2023,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 151,
+      "number": 159,
       "prompt": "162-41.-\u00bfCu\u00e1ntos centros se encuentran en funcionamiento dentro de la Red Andaluza de Centros de Recuperaci\u00f3n de Especies Amenazadas?"
     },
     {
@@ -1918,7 +2036,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 152,
+      "number": 160,
       "prompt": "163-45.- En el Real Decreto 139/2011, de 4 de febrero, para el desarrollo del Listado de Especies Silvestres en R\u00e9gimen de Protecci\u00f3n Especial y del Cat\u00e1logo Espa\u00f1ol de Especies Amenazadas. Dentro del grupo de las Aves incluidas en su anexo \u00bfcu\u00e1l de los nombres comunes de especies que se relacionan no est\u00e1 incluida dentro de la categor\u00eda \u201cEn peligro de Extinci\u00f3n\u201d?"
     },
     {
@@ -1930,7 +2048,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 153,
+      "number": 161,
       "prompt": "164-48.- Las asociaciones vegetales englobadas en el h\u00e1bitat denominado Juniperion turbinatae tienen su localizaci\u00f3n m\u00e1s frecuente en:"
     },
     {
@@ -1942,7 +2060,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 154,
+      "number": 162,
       "prompt": "165-49.- Seg\u00fan la Ley 8/2.003, de 28 de octubre, de la Flora y la Fauna silvestres, la ros\u00e1cea Prunus padus debe ser objeto de:"
     },
     {
@@ -1954,7 +2072,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 155,
+      "number": 163,
       "prompt": "166-50.-. La Red Natura 2000 es una red de espacios naturales cuya finalidad es la conservaci\u00f3n de los h\u00e1bitats, la fauna y la flora m\u00e1s valiosos y amenazados del territorio europeo y se compone de:"
     },
     {
@@ -1966,7 +2084,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 156,
+      "number": 164,
       "prompt": "167-51.-. Las especies Abies pinsapo, Juniperus oxycedrus subsp. Macrocarpa y Taxus baccata se encuentran catalogadas como:"
     },
     {
@@ -1978,20 +2096,8 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 157,
+      "number": 165,
       "prompt": "168-24.- Cite uno de los principales h\u00e1bitats de la tortuga mora en Andaluc\u00eda:"
-    },
-    {
-      "answers": [
-        "Esta dirigida a la protecci\u00f3n de las especies amenazadas de flora y de fauna andaluzas",
-        "Afecta a toda la biodiversidad y no s\u00f3lo a las especies amenazadas",
-        "Tiene por finalidad la regulaci\u00f3n del comercio de especies amenazadas"
-      ],
-      "correct": {
-        "index": 1
-      },
-      "number": 158,
-      "prompt": "169-44.- La ley de Flora y Fauna de Andaluc\u00eda"
     },
     {
       "answers": [
@@ -2002,7 +2108,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 159,
+      "number": 166,
       "prompt": "170-45.- Los artales se localizan en Andaluc\u00eda en:"
     },
     {
@@ -2014,7 +2120,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 160,
+      "number": 167,
       "prompt": "171-51.- \u00bfCu\u00e1l la zona de mayor presencia de grullas en Andaluc\u00eda?"
     },
     {
@@ -2026,7 +2132,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 161,
+      "number": 168,
       "prompt": "172-52.- El mejill\u00f3n cebra es:"
     },
     {
@@ -2038,7 +2144,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 162,
+      "number": 169,
       "prompt": "173-64.- La catalogaci\u00f3n de una especie, subespecie o poblaci\u00f3n en la categor\u00eda de \u201cvulnerable\u201d exigir\u00e1 la redacci\u00f3n de:"
     },
     {
@@ -2050,7 +2156,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 163,
+      "number": 170,
       "prompt": "174-65.- Seg\u00fan la Ley 2/89, las transmisiones de terrenos forestales incluidos dentro de espacios naturales protegidos requieren:"
     },
     {
@@ -2062,7 +2168,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 164,
+      "number": 171,
       "prompt": "175-5.- Durante una visita a las obras encuentra una cig\u00fce\u00f1a negra herida. \u00bfQu\u00e9 debe hacer?"
     },
     {
@@ -2074,7 +2180,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 165,
+      "number": 172,
       "prompt": "176-7.- \u00bfCu\u00e1l de las especies de flora en peligro presente en el Parque Natural tienen un plan de recuperaci\u00f3n?"
     },
     {
@@ -2086,7 +2192,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 166,
+      "number": 173,
       "prompt": "177-8.- \u00bfCu\u00e1l de las especies de fauna en peligro presente en el Parque Natural tienen un plan de recuperaci\u00f3n?"
     },
     {
@@ -2098,7 +2204,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 167,
+      "number": 174,
       "prompt": "178-23.- Un compa\u00f1ero suyo que trabaja en otro Parque Natural le cuenta que se ha realizado un desmonte en una ladera y se han cortado varios pies de un arbusto de la familia de las eric\u00e1ceas clasificada en Andaluc\u00eda como en peligro de extinci\u00f3n y que no alcanza m\u00e1s de 1,5 m de altura. Nos estamos refiriendo a:"
     },
     {
@@ -2110,7 +2216,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 168,
+      "number": 175,
       "prompt": "179-39.- La autorizaci\u00f3n para una instalaci\u00f3n el\u00e9ctrica a\u00e9rea de alta tensi\u00f3n se est\u00e1 tramitando en la Consejer\u00eda de Innovaci\u00f3n, Ciencia y Empresa, que solicita informe a la Delegaci\u00f3n Provincial de Medio Ambiente. El Servicio de Protecci\u00f3n Ambiental informa que no est\u00e1 sometida a tr\u00e1mite de prevenci\u00f3n ambiental alguno. La instalaci\u00f3n transcurre por una zona ZEPA calificada de importancia para la avutarda. De acuerdo con el Decreto 178/2006, de 10 de octubre, por el que se establecen normas de protecci\u00f3n de la avifauna para instalaciones el\u00e9ctricas de alta tensi\u00f3n, en su informe deber\u00e1 recordar la obligaci\u00f3n de:"
     },
     {
@@ -2122,7 +2228,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 169,
+      "number": 176,
       "prompt": "180-21.- Seg\u00fan la Ley 33/2015, de 21 de septiembre, por la que se modifica la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, los espacios naturales protegidos podr\u00e1n:"
     },
     {
@@ -2134,7 +2240,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 170,
+      "number": 177,
       "prompt": "181-41.- Seg\u00fan qu\u00e9 autor y qu\u00e9 bibliograf\u00eda se consulte, hay numerosas definiciones diferentes de ecosistema. No obstante, no son contradictorias y todas gravitan en torno a los mismos conceptos. Seg\u00fan la definici\u00f3n que aparece en la Estrategia Andaluza de Gesti\u00f3n Integrada de la Biodiversidad, un \"ecosistema\" es:"
     },
     {
@@ -2146,7 +2252,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 171,
+      "number": 178,
       "prompt": "182-43.- Los Libros y Listas Rojas de flora y fauna recogen aquellas especies que se encuentran en un estado de conservaci\u00f3n m\u00e1s precario y que demandan, o deben demandar, una mayor atenci\u00f3n de las Administraciones y Poderes P\u00fablicos para revertir una tendencia poblacional regresiva. \u00bfSon elementos que forman parte del cuerpo normativo o del ordenamiento jur\u00eddico vigente ya sea comunitario, estatal o auton\u00f3mico?:"
     },
     {
@@ -2158,7 +2264,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 172,
+      "number": 179,
       "prompt": "183-44.- Seg\u00fan se recoge en la informaci\u00f3n oficial publicada por la Consejer\u00eda de Agricultura, Ganader\u00eda, Pesca y Desarrollo Sostenible en las fichas y en la web de la Consejer\u00eda, que ha sido producida por la Estrategia Andaluza de Lucha Contra el Veneno, \u00bfq\u00fae afirmaci\u00f3n es la correcta sobre la tendencia de los \u00faltimos a\u00f1os del uso il\u00edcito de venenos a trav\u00e9s de cebos envenenados en el medio natural en Andaluc\u00eda?:"
     },
     {
@@ -2170,7 +2276,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 173,
+      "number": 180,
       "prompt": "184-73.- De acuerdo a la informaci\u00f3n publicada en la web de la Consejer\u00eda de Agricultura, Ganader\u00eda, Pesca y Desarrollo Sostenible, \u00bfcu\u00e1l de los siguientes territorios de la Comunidad Aut\u00f3noma de Andaluc\u00eda NO tiene puesto en marcha un Plan de Gesti\u00f3n Integral para los montes p\u00fablicos (regulados por la Orden de la Consejer\u00eda de Medio Ambiente, de 17 de febrero de 2008):"
     },
     {
@@ -2182,7 +2288,7 @@ var test4 = {
       "correct": {
         "index": 1
       },
-      "number": 174,
+      "number": 181,
       "prompt": "185-52.- La catalogaci\u00f3n de una determinada especie en la categor\u00eda de \u201cEn peligro de extinci\u00f3n\", exigir\u00e1 la elaboraci\u00f3n de:"
     },
     {
@@ -2194,7 +2300,7 @@ var test4 = {
       "correct": {
         "index": 0
       },
-      "number": 175,
+      "number": 182,
       "prompt": "186-53.- Seg\u00fan el Cat\u00e1logo Andaluz de Especies Amenazadas, la avutarda (Otis tarda)se encuentra clasificada en la categor\u00eda de:"
     },
     {
@@ -2206,7 +2312,7 @@ var test4 = {
       "correct": {
         "index": 2
       },
-      "number": 176,
+      "number": 183,
       "prompt": "187-96.- La materia viva de los ecosistemas se denomina:"
     }
   ],

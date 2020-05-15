@@ -22,9 +22,9 @@
 
 			$table_body = $('<tbody>').appendTo($table);
 
-			var testNo = [13,15]
+			var testNo = []
 
-			for (var i = 1; i < 25; i++) 
+			for (var i = 1; i <= 25; i++) 
 			{
 				if(testNo.indexOf(i) == -1){
 

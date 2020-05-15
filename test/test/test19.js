@@ -1,4 +1,4 @@
-var test19 = {
+var test19={
   "questions": [
     {
       "answers": [
@@ -50,7 +50,7 @@ var test19 = {
         "index": 2
       },
       "number": 4,
-      "prompt": "4-95.- Seg\u00fan la Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integrada de la Calidad Ambiental, la autorizaci\u00f3n ambiental integrada caducar\u00e1 si no se hubiera comenzado la ejecuci\u00f3n de la actuaci\u00f3n en el plazo de: Seg\u00fan la GICA son 4 a\u00f1os y Seg\u00fan el Decreto son 5 a\u00f1os"
+      "prompt": "4-95.- Seg\u00fan la Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integrada de la Calidad Ambiental, la autorizaci\u00f3n ambiental integrada caducar\u00e1 si no se hubiera comenzado la ejecuci\u00f3n de la actuaci\u00f3n en el plazo de: Seg\u00fan la GICA son 4 a\u00f1os y Seg\u00fan el Decreto son 5 a\u00f1os:"
     },
     {
       "answers": [
@@ -635,7 +635,7 @@ var test19 = {
         "index": 1
       },
       "number": 49,
-      "prompt": "49-6.Una empresa instaladora de energ\u00eda solar pretende ubicar una instalaci\u00f3n solar fotovoltaica (huerto solar) en una finca del ya declarado espacio natural protegido (ENP), la superficie a ocupar es de 3,4 has. para lo cual se ha dirigido a la administraci\u00f3n ambiental andaluza, presentando el correspondiente proyecto y solicitud de instalaci\u00f3n."
+      "prompt": "49-6.Una empresa instaladora de energ\u00eda solar pretende ubicar una instalaci\u00f3n solar fotovoltaica (huerto solar) en una finca del ya declarado espacio natural protegido (ENP), la superficie a ocupar es de 3,4 has para lo cual se ha dirigido a la administraci\u00f3n ambiental andaluza, presentando el correspondiente proyecto y solicitud de instalaci\u00f3n:"
     },
     {
       "answers": [
@@ -648,7 +648,7 @@ var test19 = {
         "index": 2
       },
       "number": 50,
-      "prompt": "50-7.En el interior de este futuro ENP existe una antigua almazara en una finca cuyo propietario desea acondicionarla como peque\u00f1o hotel de turismo rural para lo cual ha presentado proyecto de obra y ha solicitado licencia urban\u00edstica ante el correspondiente ayuntamiento."
+      "prompt": "50-7.En el interior de este futuro ENP existe una antigua almazara en una finca cuyo propietario desea acondicionarla como peque\u00f1o hotel de turismo rural para lo cual ha presentado proyecto de obra y ha solicitado licencia urban\u00edstica ante el correspondiente ayuntamiento:"
     },
     {
       "answers": [
@@ -1322,6 +1322,18 @@ var test19 = {
     },
     {
       "answers": [
+        "Medidas compensatorias.",
+        "Medidas paliativas.",
+        "Medidas aplicativas."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 104,
+      "prompt": "104-38.Como se denominan las medidas espec\u00edficas incluidas en un plan o proyecto, que tienen por objeto compensar, lo m\u00e1s exactamente posible, su impacto negativo sobre la\nespecie o el h\u00e1bitat afectado:"
+    },
+    {
+      "answers": [
         "Aquel que al prolongarse en el tiempo la acci\u00f3n del agente inductor, incrementa progresivamente su gravedad, al carecer de mecanismos de eliminaci\u00f3n con efectividad temporal similar a la del incremento del agente causante del da\u00f1o.",
         "Aquel que se produce cuando el efecto conjunto de la presencia simult\u00e1nea de varios agentes supone una incidencia ambiental mayor que el efecto suma de las incidencias individuales contempladas aisladamente.",
         "Aquel que supone alteraci\u00f3n no permanente en el tiempo, con un plazo temporal de"
@@ -1329,7 +1341,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 104,
+      "number": 105,
       "prompt": "105-39.En la ley de Evaluaci\u00f3n ambiental se define \u201cefecto acumulativo\u201d como:"
     },
     {
@@ -1341,7 +1353,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 105,
+      "number": 106,
       "prompt": "106-40.La Ley 7/2007, de 9 de julio de Gesti\u00f3n Integrada de la Calidad Ambiental, establece que la evaluaci\u00f3n ambiental de los instrumentos de planeamiento urban\u00edstico se realizar\u00e1 siguiendo los tr\u00e1mites y requisitos de:"
     },
     {
@@ -1353,7 +1365,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 106,
+      "number": 107,
       "prompt": "107-41.La Ley 7/2007, de 9 de julio de Gesti\u00f3n Integrada de la Calidad Ambiental, respecto a la evaluaci\u00f3n ambiental de los instrumentos de planeamiento urban\u00edstico indica que los Estudios de Detalle:"
     },
     {
@@ -1365,7 +1377,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 107,
+      "number": 108,
       "prompt": "108-42.El Informe preceptivo y determinante del \u00f3rgano ambiental con el que concluye la evaluaci\u00f3n ambiental estrat\u00e9gica ordinaria que eval\u00faa la integraci\u00f3n de los aspectos ambientales en la propuesta final del plan o programa, se denomina:"
     },
     {
@@ -1377,7 +1389,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 108,
+      "number": 109,
       "prompt": "109-68.Uno de los requisitos para obtener el distintivo de calidad Ambiental de la Administraci\u00f3n de la Junta de Andaluc\u00eda es que las empresas:"
     },
     {
@@ -1389,7 +1401,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 109,
+      "number": 110,
       "prompt": "110-153.El m\u00e9todo de referencia para la medici\u00f3n de di\u00f3xido de azufre en el aire ambiente es:"
     },
     {
@@ -1401,7 +1413,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 110,
+      "number": 111,
       "prompt": "111-154.En relaci\u00f3n al cambio clim\u00e1tico, el Pleno del Parlamento Andaluz aprob\u00f3 en octubre de 2018:"
     },
     {
@@ -1413,7 +1425,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 111,
+      "number": 112,
       "prompt": "112-101.- Se pretende construir en la finca un camino rural forestal de servicio. Dicha actuaci\u00f3n no ha sido objeto de una evaluaci\u00f3n global de sus posibles repercusiones y no est\u00e1 regulada en el instrumento de planificaci\u00f3n del Espacio Natural. Se sabe que, por las condiciones del terreno, esta actuaci\u00f3n afectar\u00e1 a una superficie superior a 500 metros cuadrados. Se\u00f1ale la respuesta correcta con relaci\u00f3n al procedimiento ambiental que le corresponder\u00eda:"
     },
     {
@@ -1425,7 +1437,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 112,
+      "number": 113,
       "prompt": "113-112.- \u00bfA qu\u00e9 instrumento de prevenci\u00f3n y control ambiental estar\u00e1 sometido el proyecto de instalaci\u00f3n de la granja descrita?:"
     },
     {
@@ -1437,7 +1449,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 113,
+      "number": 114,
       "prompt": "114-113.- El promotor decide realizar una consulta previa, al objeto de obtener informaci\u00f3n sobre el alcance, amplitud y grado de especificaci\u00f3n de la documentaci\u00f3n ambiental necesaria. \u00bfComo se denomina el documento que debe acompa\u00f1ar a su solicitud de informaci\u00f3n?"
     },
     {
@@ -1449,7 +1461,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 114,
+      "number": 115,
       "prompt": "115-115.- \u00bfConforme al Decreto 5/2012 de 17 de enero, es correcto como ha procedido el promotor?"
     },
     {
@@ -1461,7 +1473,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 115,
+      "number": 116,
       "prompt": "116-116.- Si el informe urban\u00edstico acreditativo de la compatibilidad del proyecto con el planeamiento urban\u00edstico fuera negativo con independencia del momento en que se hubiera emitido y se recibe en la Consejer\u00eda de Agricultura, Ganader\u00eda, Pesca y Desarrollo sostenible con anterioridad al otorgamiento de la autorizaci\u00f3n.:"
     },
     {
@@ -1473,7 +1485,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 116,
+      "number": 117,
       "prompt": "117-117.- De conformidad con la Ley 7/2007, de 9 de julio, tras el otorgamiento de la autorizaci\u00f3n ambiental (se\u00f1ale la respuesta correcta):"
     },
     {
@@ -1485,7 +1497,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 117,
+      "number": 118,
       "prompt": "118-118.- Respecto a las actuaciones que requieran licencia municipal de funcionamiento de la actividad que est\u00e9n sometidas al procedimiento ambiental aplicable al caso, se\u00f1ale la respuesta correcta:"
     },
     {
@@ -1497,7 +1509,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 118,
+      "number": 119,
       "prompt": "119-158.- Una vez iniciada la actividad en la granja porcina del caso pr\u00e1ctico 2, el \u00f3rgano competente realizar\u00e1 una visita de inspecci\u00f3n. Conforme establece el Real Decreto 815/2013, de 18 de octubre, la visita de inspecci\u00f3n a estas instalaciones se realizar\u00e1:"
     },
     {
@@ -1510,7 +1522,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 119,
+      "number": 120,
       "prompt": "120-39.- En Andaluc\u00eda la competencia para desarrollar el procedimiento de calificaci\u00f3n ambiental previsto por la Ley 7/2007, de 9 de julio de Gesti\u00f3n Integrada de la Calidad Ambiental, recae sobre:"
     },
     {
@@ -1523,7 +1535,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 120,
+      "number": 121,
       "prompt": "121-76.\u00bfCu\u00e1l es el \u00f3rgano ambiental competente para evaluar el impacto ambiental de un proyecto que deba ser autorizado o aprobado por la Administraci\u00f3n General del Estado?"
     },
     {
@@ -1536,7 +1548,7 @@ var test19 = {
       "correct": {
         "index": 3
       },
-      "number": 121,
+      "number": 122,
       "prompt": "122-77.A efectos de la autorizaci\u00f3n ambiental unificada y calificaci\u00f3n ambiental, se entender\u00e1 que existe una modificaci\u00f3n sustancial, cuando en opini\u00f3n del \u00f3rgano ambiental competente se produzca, de forma significativa, alguno de los supuestos siguientes:"
     },
     {
@@ -1549,7 +1561,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 122,
+      "number": 123,
       "prompt": "123-78.En la tramitaci\u00f3n de un Plan General de Ordenaci\u00f3n Urban\u00edstica (PGOU), el informe de valoraci\u00f3n ambiental, que debe emitir la Consejer\u00eda competente en materia de medio ambiente sobre la propuesta del Plan con aprobaci\u00f3n provisional, \u00bftiene car\u00e1cter vinculante?"
     },
     {
@@ -1562,7 +1574,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 123,
+      "number": 124,
       "prompt": "125-81.Seg\u00fan la Ley 7/2007, de Gesti\u00f3n Integrada de Calidad Ambiental, en la Evaluaci\u00f3n de Planes y Programas, el \u00d3rgano Promotor deber\u00e1 elaborar:"
     },
     {
@@ -1575,7 +1587,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 124,
+      "number": 125,
       "prompt": "126-33.- En uno de los n\u00facleos urbanos de la zona, con n\u00famero de habitantes inferior a 10.000 equivalentes, se va a proceder a la construcci\u00f3n de una planta de tratamiento de aguas residuales. \u00bfQu\u00e9 instrumento de prevenci\u00f3n y control ambiental deber\u00e1 efectuarse?"
     },
     {
@@ -1588,7 +1600,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 125,
+      "number": 126,
       "prompt": "127-34.De acuerdo con la Ley 7/2007, de Gesti\u00f3n Integrada de Calidad Ambiental \u00bfCu\u00e1l es el instrumento de prevenci\u00f3n y control ambiental al que se est\u00e1 sometida la construcci\u00f3n de la l\u00ednea el\u00e9ctrica a\u00e9rea?"
     },
     {
@@ -1601,7 +1613,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 126,
+      "number": 127,
       "prompt": "128-35.\u00bfCu\u00e1l es el \u00f3rgano ambiental competente para resolver el procedimiento ambiental anterior?"
     },
     {
@@ -1614,7 +1626,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 127,
+      "number": 128,
       "prompt": "129-36.\u00bfA qui\u00e9n corresponde la vigilancia, control y ejercicio de la potesta sancionadora para el citado procedimiento ambiental?"
     },
     {
@@ -1626,7 +1638,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 128,
+      "number": 129,
       "prompt": "130-39.-EI procedimiento de autorizaci\u00f3n de la cantera por el \u00f3rgano sustantivo, se tramitar\u00e1 como un expediente de:"
     },
     {
@@ -1638,7 +1650,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 129,
+      "number": 130,
       "prompt": "131-40.- \u00bfCu\u00e1l es el \u00f3rgano competente para elevar el expediente de discrepancia del contenido de la Declaraci\u00f3n de Impacto Ambiental, al Consejo de Gobierno de la Comunidad Aut\u00f3noma de Andaluc\u00eda?"
     },
     {
@@ -1650,7 +1662,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 130,
+      "number": 131,
       "prompt": "132-36.- Cuando un Estado miembro de la Uni\u00f3n Europea comunique que en su territorio est\u00e1 prevista la ejecuci\u00f3n de un proyecto que pueda tener efectos significativos sobre el medio ambiente en Espa\u00f1a, \u00bfqui\u00e9n actuar\u00e1 como \u00f3rgano ambiental en las consultas bilaterales para estudiar tales efectos y medidas que, en su caso, puedan acordarse para suprimirlos o reducirlos?"
     },
     {
@@ -1662,7 +1674,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 131,
+      "number": 132,
       "prompt": "133-37.- Seg\u00fan la Ley 7/2007 de 9 de julio, de Gesti\u00f3n Integrada de la Calidad Ambiental de Andaluc\u00eda, \u00bfcu\u00e1l de los siguientes instrumentos de prevenci\u00f3n y control ambiental no incluye la evaluaci\u00f3n de impacto ambiental de la actuaci\u00f3n en cuesti\u00f3n?"
     },
     {
@@ -1674,8 +1686,8 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 132,
-      "prompt": "134-39.- \u00bfCu\u00e1l es el procedimiento de prevenci\u00f3n y control ambiental al que est\u00e1 sometido las \"Instalaciones de cr\u00eda intensiva con una capacidad para 500 plazas para cerdas reproductoras'?."
+      "number": 133,
+      "prompt": "134-39.- \u00bfCu\u00e1l es el procedimiento de prevenci\u00f3n y control ambiental al que est\u00e1 sometido las \"Instalaciones de cr\u00eda intensiva con una capacidad para 500 plazas para cerdas reproductoras'?"
     },
     {
       "answers": [
@@ -1686,7 +1698,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 133,
+      "number": 134,
       "prompt": "135-14.- \u00bfA qu\u00e9 instrumento de prevenci\u00f3n y control ambiental estar\u00eda sometida la actuaci\u00f3n propuesta?"
     },
     {
@@ -1698,7 +1710,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 134,
+      "number": 135,
       "prompt": "136-15.- El Ayuntamiento como promotor y titular de la actuaci\u00f3n deber\u00e1 presentar ante la Consejer\u00eda competente en materia de medio ambiente una solicitud de autorizaci\u00f3n, que estar\u00e1 acompa\u00f1ada de:"
     },
     {
@@ -1710,7 +1722,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 135,
+      "number": 136,
       "prompt": "137-16.- \u00bfEn qu\u00e9 plazo m\u00e1ximo, contado desde la presentaci\u00f3n de la solicitud de autorizaci\u00f3n, deber\u00e1 el \u00f3rgano competente, dictar y notificar resoluci\u00f3n que ponga fin al procedimiento?"
     },
     {
@@ -1722,7 +1734,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 136,
+      "number": 137,
       "prompt": "138-23.- El alcalde se encuentra preocupado por el impacto social que puede provocar el vertedero, y como medida paliativa decide adherirse a un sistema o instrumento de control voluntario basado en normas t\u00e9cnicas internacionales, aplicado a la gesti\u00f3n medioambiental llevada en las instalaciones del vertedero. \u00bf C\u00faal de las siguientes normas t\u00e9cnicas se refiere a sistemas de gesti\u00f3n ambiental?"
     },
     {
@@ -1734,7 +1746,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 137,
+      "number": 138,
       "prompt": "139-65.- La solicitud de Autorizaci\u00f3n Ambiental Integrada se acompa\u00f1ar\u00e1 de:"
     },
     {
@@ -1746,7 +1758,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 138,
+      "number": 139,
       "prompt": "140-66.- Seg\u00fan lo establecido en el art\u00edculo 16 de la Ley 7/2007, de Gesti\u00f3n Integrada de la Calidad Ambiental, Ley GICA, \u00bfQu\u00e9 instrumento de los siguientes NO contiene la Evaluaci\u00f3n de Impacto Ambiental de la actuaci\u00f3n en cuesti\u00f3n?:"
     },
     {
@@ -1758,8 +1770,8 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 139,
-      "prompt": "141-67.- Se\u00f1ale a que concepto corresponde la siguiente definici\u00f3n seg\u00fan lo dispuesto en el art\u00edculo 19 de la Ley GICA: \u201cInforme preceptivo y determinante del \u00f3rgano ambiental con el que concluye la evaluaci\u00f3n ambiental estrat\u00e9gica ordinaria que eval\u00faa la integraci\u00f3n de los aspectos ambientales en la propuesta final del plan o programa\u201d"
+      "number": 140,
+      "prompt": "141-67.- Se\u00f1ale a que concepto corresponde la siguiente definici\u00f3n seg\u00fan lo dispuesto en el art\u00edculo 19 de la Ley GICA: \u201cInforme preceptivo y determinante del \u00f3rgano ambiental con el que concluye la evaluaci\u00f3n ambiental estrat\u00e9gica ordinaria que eval\u00faa la integraci\u00f3n de los aspectos ambientales en la propuesta final del plan o programa\u201d?"
     },
     {
       "answers": [
@@ -1770,7 +1782,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 140,
+      "number": 141,
       "prompt": "142-100.- Se\u00f1ale el plazo del que dispone el titular para iniciar la actividad una vez otorgada la Autorizaci\u00f3n Ambiental Integrada:"
     },
     {
@@ -1782,7 +1794,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 141,
+      "number": 142,
       "prompt": "143-111.- El promotor de la actuaci\u00f3n presenta la solicitud de Informe de Compatibilidad con el Planeamiento Urban\u00edstico, en el registro del ayuntamiento correspondiente \u00bfCu\u00e1l es el plazo m\u00e1ximo del que dispone dicho ayuntamiento para emitir el Informe?"
     },
     {
@@ -1796,7 +1808,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 142,
+      "number": 143,
       "prompt": "144-112.- Si el Informe de compatibilidad con el planeamiento no es emitido en plazo por el Ayuntamiento, ser\u00e1 suficiente que el promotor acompa\u00f1e a la solicitud de AAU:"
     },
     {
@@ -1808,7 +1820,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 143,
+      "number": 144,
       "prompt": "145-113.- En la tramitaci\u00f3n del expediente de AAU, el plazo de Informaci\u00f3n P\u00fablica del Proyecto tendr\u00e1 una duraci\u00f3n de:"
     },
     {
@@ -1820,7 +1832,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 144,
+      "number": 145,
       "prompt": "146-114.- Con la obtenci\u00f3n de la AAU, el promotor:"
     },
     {
@@ -1832,7 +1844,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 145,
+      "number": 146,
       "prompt": "147-115.- Una vez obtenida la concesi\u00f3n de la AAU, \u00e9sta caducar\u00e1 si el promotor no hubiera comenzado la ejecuci\u00f3n de la actuaci\u00f3n en el plazo de:"
     },
     {
@@ -1844,7 +1856,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 146,
+      "number": 147,
       "prompt": "148-68.- En base al art. 3 de la ley 7/2007, de Gesti\u00f3n Integrada de la Calidad Ambiental, en adelante Ley GICA, cu\u00e1l de los siguientes NO es un principio inspirador de la misma:"
     },
     {
@@ -1856,7 +1868,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 147,
+      "number": 148,
       "prompt": "149-69.- Seg\u00fan el art. 16 de la Ley GICA, se\u00f1ale cu\u00e1l de los siguientes NO es un instrumento de prevenci\u00f3n y control ambiental:"
     },
     {
@@ -1868,7 +1880,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 148,
+      "number": 149,
       "prompt": "150-70.- Se\u00f1ale a que concepto corresponde la siguiente definici\u00f3n seg\u00fan lo dispuesto en el art. 19 de la Ley GICA: \u201cInforme preceptivo y determinante del \u00f3rgano ambiental con el que concluye la evaluaci\u00f3n ambiental estrat\u00e9gica simplificada\u201d:"
     },
     {
@@ -1880,7 +1892,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 149,
+      "number": 150,
       "prompt": "151-71.- Seg\u00fan lo dispuesto en el art. 11 de la Ley GICA, a efectos de la Autorizaci\u00f3n Ambiental Unificada, AAU, y la Calificaci\u00f3n Ambiental, se entender\u00e1 que existe una modificaci\u00f3n sustancial cuando en opini\u00f3n del \u00f3rgano ambiental competente, se produzca, de forma significativa, alguno de los supuestos siguientes:"
     },
     {
@@ -1892,8 +1904,21 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 150,
+      "number": 151,
       "prompt": "152-72.- Se\u00f1ale a que definici\u00f3n recogida en el art. 19 de la Ley GICA corresponde: \u201cDocumento que debe presentar el titular o promotor de una actuaci\u00f3n sometida a alguno de los procedimientos de autorizaci\u00f3n ambiental integrada o unificada relacionados en el anexo I de esta Ley, para evaluar los posibles efectos significativos del proyecto sobre el medio ambiente y que permite adoptar las decisiones adecuadas para prevenir y minimizar dichos efectos\u201d:"
+    },
+    {
+      "answers": [
+        "Evaluaci\u00f3n de Impacto Ambiental",
+        "Autorizaci\u00f3n Ambiental Unificada",
+        "Calificaci\u00f3n Ambiental",
+        "Autorizaci\u00f3n Ambiental Integrada"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 152,
+      "prompt": "153-8.- De acuerdo con lo que se establece en la ley 7/2007, de Gesti\u00f3n Integrada de la Calidad Ambiental, la presa a que se alude en la pregunta anterior est\u00e1 sometida a:"
     },
     {
       "answers": [
@@ -1905,7 +1930,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 151,
+      "number": 153,
       "prompt": "154-30.- La cooperativa de Villaverde, adjudicataria del aprovechamiento de corcho del Monte Dehesa Boyal, posee una industria preparadora de corcho (obtenci\u00f3n de corcho natural cocido en planchas, prensadas y enfardadas). Esta actividad est\u00e1 sometida en la ley 7/2007, de Gesti\u00f3n Integrada de la Calidad Ambiental:"
     },
     {
@@ -1918,7 +1943,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 152,
+      "number": 154,
       "prompt": "155-28.- La construcci\u00f3n de un camino forestal en terrenos con pte>49% a lo largo de un 15% de su trazado est\u00e1 sometido a:"
     },
     {
@@ -1931,7 +1956,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 153,
+      "number": 155,
       "prompt": "156-29.-De acuerdo con la ley 7/2007, de Gesti\u00f3n Integrada de la Calidad Ambiental la industria del aglomerado de corcho est\u00e1 sometidos a:"
     },
     {
@@ -1944,7 +1969,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 154,
+      "number": 156,
       "prompt": "157-90.- El pronunciamiento de la Consejer\u00eda de Medio Ambiente sobre la integraci\u00f3n de aspectos ambientales en los instrumentos de planeamiento urban\u00edstico sometidos a evaluaci\u00f3n ambiental, seg\u00fan lo dispuesto en la Ley GICA, 7/2007 de 9 de Julio, se denomina:"
     },
     {
@@ -1957,7 +1982,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 155,
+      "number": 157,
       "prompt": "158-91.- Las actividades sometidas a calificaci\u00f3n ambiental (Ley GICA,7/2007 de 9 de Julio) que se extiendan a m\u00e1s de un municipio ser\u00e1 resuelto mediante:"
     },
     {
@@ -1970,7 +1995,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 156,
+      "number": 158,
       "prompt": "159-92.- Seg\u00fan la Ley GICA 7/2007, de 9 de julio, \u00bfCu\u00e1l de las siguientes actividades no est\u00e1 sometida a Autorizaci\u00f3n ambiental unificada?:"
     },
     {
@@ -1983,7 +2008,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 157,
+      "number": 159,
       "prompt": "160-31-El camino de nuevo trazado \u00bfEst\u00e1 sometido a alg\u00fan tipo de instrumento de prevenci\u00f3n y control ambiental al amparo de la Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integral de la Calidad Ambiental?:"
     },
     {
@@ -1996,7 +2021,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 158,
+      "number": 160,
       "prompt": "161-32- La instalaci\u00f3n ganadera. \u00bfEst\u00e1 sometida a alg\u00fan tipo de instrumento de prevenci\u00f3n y control ambiental al amparo de la Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integral de la Calidad Ambiental?:"
     },
     {
@@ -2009,7 +2034,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 159,
+      "number": 161,
       "prompt": "162-63La Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integrada de la Calidad Ambiental, en su Capitulo II - Prevenci\u00f3n y control ambiental- establece que a efectos de la presente Ley se define como; \u201cAn\u00e1lisis predictivo destinado a valorar los efectos directos e indirectos sobre el medio ambiente de aquellas actuaciones sometidas a los procedimientos de prevenci\u00f3n y control ambiental que correspondan en cada caso\u201d el siguiente concepto:"
     },
     {
@@ -2022,7 +2047,7 @@ var test19 = {
       "correct": {
         "index": 3
       },
-      "number": 160,
+      "number": 162,
       "prompt": "163-64Seg\u00fan el Anexo I -del Decreto 356/2010, de 3 de agosto-, en el que se establecen las categor\u00edas de actuaciones sometidas a los instrumentos de prevenci\u00f3n y control ambiental, un camino rural forestal de servicio (camino rural que discurre por terreno forestal) con una longitud de 900 metros deber\u00e1 someterse a:"
     },
     {
@@ -2035,7 +2060,7 @@ var test19 = {
       "correct": {
         "index": 3
       },
-      "number": 161,
+      "number": 163,
       "prompt": "164-65.Seg\u00fan el Anexo I -del Decreto 356/2010, de 3 de agosto-, en el que se establecen las categor\u00edas de actuaciones sometidas a los instrumentos de prevenci\u00f3n y control ambiental, una planta de tratamiento de aguas residuales cuya capacidad sea inferior a 10.000 habitantes equivalentes deber\u00e1 someterse a:"
     },
     {
@@ -2048,7 +2073,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 162,
+      "number": 164,
       "prompt": "165-66En el proceso de Evaluaci\u00f3n Ambiental de planes y programas, quien elabora el informe de sostenibilidad ambiental (ISA):"
     },
     {
@@ -2061,7 +2086,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 163,
+      "number": 165,
       "prompt": "166-119.Conforme a lo expuesto en el enunciado, \u00bfest\u00e1 afectado por el DECRETO 356/2010, de 3 de agosto, por el que \u201cse regula la autorizaci\u00f3n ambiental unificada, y se modifica el contenido del Anexo I de la Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integrada de la Calidad Ambiental\u201d? En caso afirmativo \u00bfqu\u00e9 instrumento de prevenci\u00f3n y control ambiental necesitar\u00eda?"
     },
     {
@@ -2073,8 +2098,8 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 164,
-      "prompt": "167-87.- De acuerdo con la Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integrada de la Calidad Ambiental, cu\u00e1l de las siguientes actuaciones est\u00e1 sometida a Autorizaci\u00f3n Ambiental Unificada."
+      "number": 166,
+      "prompt": "167-87.- De acuerdo con la Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integrada de la Calidad Ambiental, cu\u00e1l de las siguientes actuaciones est\u00e1 sometida a Autorizaci\u00f3n Ambiental Unificada:"
     },
     {
       "answers": [
@@ -2085,8 +2110,8 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 165,
-      "prompt": "168-88.- Dentro del procedimiento de Autorizaci\u00f3n Ambiental Unificada, descrito en la Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integrada de la Calidad Ambiental, cual de los siguientes documentos deber\u00e1 acompa\u00f1ar siempre a la solicitud."
+      "number": 167,
+      "prompt": "168-88.- Dentro del procedimiento de Autorizaci\u00f3n Ambiental Unificada, descrito en la Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integrada de la Calidad Ambiental, cual de los siguientes documentos deber\u00e1 acompa\u00f1ar siempre a la solicitud:"
     },
     {
       "answers": [
@@ -2097,7 +2122,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 166,
+      "number": 168,
       "prompt": "169-89.- De acuerdo con Ley 7/2007, de 9 de julio de Gesti\u00f3n Integrada de la Calidad Ambiental, un plan de ordenaci\u00f3n de los recursos forestales que afecte a las provincias de Sevilla y C\u00f3rdoba est\u00e1 sometido a:"
     },
     {
@@ -2109,7 +2134,7 @@ var test19 = {
       "correct": {
         "index": 2
       },
-      "number": 167,
+      "number": 169,
       "prompt": "170-30.- Un Ayuntamiento hace llegar la documentaci\u00f3n relativa a la solicitud de licencia para la construcci\u00f3n de una nave dentro del Parque Natural en el que usted trabaja como asesor/a t\u00e9cnico. Debe emitir un informe y remitir el expediente al Ayuntamiento, siendo este informe ambiental:"
     },
     {
@@ -2121,7 +2146,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 168,
+      "number": 170,
       "prompt": "171-37.En una zona se quiere realizar una extracci\u00f3n minera cercana a una carretera. La documentaci\u00f3n tiene entrada en la Delegaci\u00f3n Provincial de Innovaci\u00f3n, Ciencia y Empresa el 20/07/2007. Esta Delegaci\u00f3n remite a la Delegaci\u00f3n Provincial de Medio.Ambiente la documentaci\u00f3n necesaria, teniendo entrada en este organismo el 2/01/2008. \u00bfCu\u00e1l es el tr\u00e1mite de prevenci\u00f3n ambiental a que debe ser sometida la extracci\u00f3n minera?:"
     },
     {
@@ -2133,7 +2158,7 @@ var test19 = {
       "correct": {
         "index": 1
       },
-      "number": 169,
+      "number": 171,
       "prompt": "172-38.Una actividad sometida a Autorizaci\u00f3n Ambiental Unificada a implantar en un terreno forestal supone la realizaci\u00f3n de un desbroce:"
     },
     {
@@ -2145,7 +2170,7 @@ var test19 = {
       "correct": {
         "index": 0
       },
-      "number": 170,
+      "number": 172,
       "prompt": "173-27.- De acuerdo a la Ley 7/2007, de 9 de julio, de Gesti\u00f3n Integrada de la Calidad Ambiental, a efectos de la autorizaci\u00f3n ambiental unificada y calificaci\u00f3n ambiental, se entender\u00e1 que existe una modificaci\u00f3n sustancial cuando en opini\u00f3n del \u00f3rgano ambiental competente se produzca, de forma significativa, alguno de los supuestos siguientes:"
     }
   ],

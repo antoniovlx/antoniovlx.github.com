@@ -1,4 +1,4 @@
-{
+var test={
   "questions": [
     {
       "answers": [
@@ -401,7 +401,7 @@
         "index": 1
       },
       "number": 31,
-      "prompt": "31-38)En relaci\u00f3n con el Decreto 194/2008, de 6 de mayo, por el que se regula la Estructura Org\u00e1nica de la Consejer\u00eda de Medio Ambiente, modificado por el Decreto 176/2009, de 19 de mayo, indique cu\u00e1l de las siguientes funciones no es competencia de la Direcci\u00f3n General de Cambio Clim\u00e1tico y Medio Ambiente Urbano:"
+      "prompt": "31-38.En relaci\u00f3n con el Decreto 194/2008, de 6 de mayo, por el que se regula la Estructura Org\u00e1nica de la Consejer\u00eda de Medio Ambiente, modificado por el Decreto 176/2009, de 19 de mayo, indique cu\u00e1l de las siguientes funciones no es competencia de la Direcci\u00f3n General de Cambio Clim\u00e1tico y Medio Ambiente Urbano:"
     },
     {
       "answers": [

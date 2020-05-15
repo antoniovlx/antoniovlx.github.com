@@ -1,4 +1,4 @@
-var test5 = {
+var test5={
   "questions": [
     {
       "answers": [
@@ -24,7 +24,7 @@ var test5 = {
         "index": 3
       },
       "number": 2,
-      "prompt": "2-100.- Seg\u00fan la Ley 43/2003, de 21 de noviembre, de Montes, el agente forestal"
+      "prompt": "2-100.- Seg\u00fan la Ley 43/2003, de 21 de noviembre, de Montes, el agente forestal:"
     },
     {
       "answers": [
@@ -63,7 +63,7 @@ var test5 = {
         "index": 1
       },
       "number": 5,
-      "prompt": "5-17.Seg\u00fan la Ley 43/2003, de Montes, se considera \u201cmonte ordenado\u201d."
+      "prompt": "5-17.Seg\u00fan la Ley 43/2003, de Montes, se considera \u201cmonte ordenado\u201d:"
     },
     {
       "answers": [
@@ -508,11 +508,16 @@ var test5 = {
     },
     {
       "answers": [
-        "\u00bfEn qu\u00e9 casos la Administraci\u00f3n forestal andaluza, de acuerdo con la legislaci\u00f3n"
+        "En las plantaciones forestales temporales.",
+        "En terrenos forestales desnaturalizados con una cobertura arb\u00f3rea inferior al cinco por ciento.",
+        "En terrenos cubiertos por matorral heli\u00f3f\u00edlo con superficie inferior a cinco hect\u00e1reas.",
+        "En pastizales forestales con superficie inferior a una hect\u00e1rea."
       ],
-      "correct": {},
+      "correct": {
+        "index": 0
+      },
       "number": 40,
-      "prompt": "40-86."
+      "prompt": "40-86.- \u00bfEn qu\u00e9 casos la Administraci\u00f3n forestal andaluza, de acuerdo con la legislaci\u00f3n vigente, podr\u00e1 regular un procedimiento simplificado para las autorizaciones de\ncambios de uso forestal a otros usos no forestales?"
     },
     {
       "answers": [
@@ -638,14 +643,74 @@ var test5 = {
     {
       "answers": [
         "Los montes protectores y los montes de r\u00e9gimen ordinario.",
-        "Los montes de r\u00e9gimen ordinario y los montes vecinales de mano com\u00fan",
-        "Los montes protectores y montes de utilidad p\u00fablica"
+        "Los montes de r\u00e9gimen ordinario y los montes vecinales de mano com\u00fan.",
+        "Los montes protectores y montes de utilidad p\u00fablica."
       ],
       "correct": {
         "index": 0
       },
       "number": 51,
       "prompt": "51-46.- La ley 43/2003, de Montes, distingue dos categor\u00edas dentro de los montes privados:"
+    },
+    {
+      "answers": [
+        "Suelo no urbanizable de especial protecci\u00f3n por la legislaci\u00f3n especifica.",
+        "Suelo urbanizable no sectorizado, por tratarse de terrenos cercanos al n\u00facleo de poblaci\u00f3n.",
+        "Suelo no urbanizable de car\u00e1cter natural o rural."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 52,
+      "prompt": "52-24.- Los terrenos del monte Dehesa del \u00c1guila a efectos urban\u00edsticos tienen la consideraci\u00f3n de:"
+    },
+    {
+      "answers": [
+        "Preceptivo y no vinculante.",
+        "Preceptivo y vinculante.",
+        "Potestativo."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 53,
+      "prompt": "53-25.- El informe elaborado por la Administraci\u00f3n forestal es:"
+    },
+    {
+      "answers": [
+        "De oficio por la Administraci\u00f3n Forestal o por solicitud del Ayuntamiento.",
+        "Por el Ministerio de Medio Ambiente, como \u00f3rgano responsable en la llevanza del Cat\u00e1logo de Montes de Utilidad P\u00fablica.",
+        "Siempre de oficio por la Administraci\u00f3n Forestal."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 54,
+      "prompt": "54-26.- El procedimiento de exclusi\u00f3n del cat\u00e1logo ser\u00e1 iniciado:"
+    },
+    {
+      "answers": [
+        "Seis meses y estimatoria.",
+        "Seis meses y desestimatoria.",
+        "Un a\u00f1o y desestimatoria."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 55,
+      "prompt": "55-27-\u00bfCu\u00e1l es el plazo y el sentido del silencio, del procedimiento para la exclusi\u00f3n de los terrenos del cat\u00e1logo?"
+    },
+    {
+      "answers": [
+        "2 a\u00f1os.",
+        "1 a\u00f1o.",
+        "6 meses."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 56,
+      "prompt": "56-28.- \u00bfCu\u00e1l es el plazo para resolver el procedimiento de deslinde, contado a partir de la iniciaci\u00f3n del procedimiento?"
     },
     {
       "answers": [
@@ -656,7 +721,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 52,
+      "number": 57,
       "prompt": "57-4.- Seg\u00fan la vigente Ley 43/2003, de 21 de noviembre, de Montes, el Cat\u00e1logo de Montes de Utilidad P\u00fablica es:"
     },
     {
@@ -668,7 +733,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 53,
+      "number": 58,
       "prompt": "58-5.- Seg\u00fan las Instrucciones Generales de Ordenaci\u00f3n de Montes de la Comunidad Aut\u00f3noma de Andaluc\u00eda, en adelante IGOMCAA, en masas arboladas densas el inventario deber\u00e1 informar, entre otras, de una de las siguientes caracter\u00edsticas de las unidades de vegetaci\u00f3n:"
     },
     {
@@ -680,7 +745,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 54,
+      "number": 59,
       "prompt": "59-6.- Los montes de dominio p\u00fablico, seg\u00fan establece la Ley 2/1992, de 15 de junio, Forestal de Andaluc\u00eda son:"
     },
     {
@@ -692,16 +757,20 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 55,
+      "number": 60,
       "prompt": "60-27.- Seg\u00fan el art\u00edculo 50 de la Ley 43/2003, de 21 de noviembre, de Montes las Comunidades Aut\u00f3nomas, con car\u00e1cter general, deber\u00e1n garantizar las condiciones para la restauraci\u00f3n de los terrenos forestales incendiados, quedando prohibido:"
     },
     {
       "answers": [
-        "La Disposici\u00f3n Adicional 5a de la Ley 43/2003, de 21 de noviembre, de Montes"
+        "La recuperaci\u00f3n de h\u00e1bitats y especies amenazadas en terrenos forestales que los socios aportan, siendo este objeto social compatible con aquellas otras actividades que no sean contradictorias con la principal.",
+        "\u00danicamente la explotaci\u00f3n y aprovechamiento en com\u00fan de terrenos forestales cuyo uso se cede a la sociedad, para realizarlo mediante una gesti\u00f3n forestal sostenible.",
+        "La defensa com\u00fan de los intereses de las asociaciones forestales mayoritarias en el territorio."
       ],
-      "correct": {},
-      "number": 56,
-      "prompt": "61-44."
+      "correct": {
+        "index": 1
+      },
+      "number": 61,
+      "prompt": "61-44.- La Disposici\u00f3n Adicional 5a de la Ley 43/2003, de 21 de noviembre, de Montes\nintroduce la figura de las Sociedades Forestales \u00bfCu\u00e1l es su objeto social?"
     },
     {
       "answers": [
@@ -712,7 +781,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 57,
+      "number": 62,
       "prompt": "62-53.- Actualmente, el art\u00edculo 67 de la Ley 2/1992, de 15 de junio, Forestal de Andaluc\u00eda, establece que:"
     },
     {
@@ -724,16 +793,20 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 58,
+      "number": 63,
       "prompt": "63-54.- De acuerdo al art\u00edculo 21 de la Ley 2/1992, de 15 de junio, Forestal de Andaluc\u00eda, en cu\u00e1l de los siguientes casos podr\u00eda afectarse un monte p\u00fablico al dominio p\u00fablico:"
     },
     {
       "answers": [
-        "Seg\u00fan la Ley 2/1992, de 15 de junio, Forestal de Andaluc\u00eda y su Reglamento, por"
+        "Est\u00e1 obligado a tener un proyecto de ordenaci\u00f3n o plan t\u00e9cnico de la superficie forestal por tener una superficie mayor de 400 hect\u00e1reas.",
+        "Est\u00e1 obligado a tener un Plan de Gesti\u00f3n Integral de dehesa por ser la superficie forestal mayor que la de cultivo.",
+        "No est\u00e1 obligado a tener proyecto de ordenaci\u00f3n."
       ],
-      "correct": {},
-      "number": 59,
-      "prompt": "64-116."
+      "correct": {
+        "index": 2
+      },
+      "number": 64,
+      "prompt": "64-116.- Seg\u00fan la Ley 2/1992, de 15 de junio, Forestal de Andaluc\u00eda y su Reglamento, por\nla situaci\u00f3n en la que se encuentra el monte:"
     },
     {
       "answers": [
@@ -744,16 +817,20 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 60,
+      "number": 65,
       "prompt": "65-21.- Un propietario pretende solicitar el cambio de uso SIGPAC de un recinto adehesado poblado con querc\u00edneas y clasificado inicialmente en el SIGPAC de USO FORESTAL (FO), para que le asignen un nuevo uso SIGPAC de PASTO ARBOLADO (PA). \u00bfRequerir\u00e1 dicha modificaci\u00f3n autorizaci\u00f3n previa de la Consejer\u00eda con competencias en materia forestal con independencia de la titularidad de los terrenos y sin perjuicio de las restantes autorizaciones o licencias requeridas, de conformidad con lo dispuesto en el art\u00edculo 69 de la Ley 2/1992, de 15 de junio, Forestal de Andaluc\u00eda?"
     },
     {
       "answers": [
-        "El art\u00edculo 67 del Reglamento Forestal de Andaluc\u00eda establece que la imposici\u00f3n de"
+        "No podr\u00e1 exceder de diez a\u00f1os prorrogables por iguales per\u00edodos hasta un m\u00e1ximo de 50 a\u00f1os.",
+        "No podr\u00e1 exceder de cinco a\u00f1os, prorrogables por iguales periodos, hasta un m\u00e1ximo de cincuenta a\u00f1os.",
+        "Esta norma no regula los plazos ni periodos m\u00e1ximos que se pueden imponer a este tipo de grav\u00e1menes en monte p\u00fablico, quedando por tanto supeditados al mismo r\u00e9gimen quelos montes privados."
       ],
-      "correct": {},
-      "number": 61,
-      "prompt": "66-25."
+      "correct": {
+        "index": 0
+      },
+      "number": 66,
+      "prompt": "66-25.- El art\u00edculo 67 del Reglamento Forestal de Andaluc\u00eda establece que la imposici\u00f3n de\nservidumbres en monte p\u00fablico:"
     },
     {
       "answers": [
@@ -764,7 +841,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 62,
+      "number": 67,
       "prompt": "67-36.- \u00bfCuantos Planes de Ordenaci\u00f3n de los Recursos Forestales (PORF) tiene aprobados la Comunidad Aut\u00f3noma de Andaluc\u00eda?"
     },
     {
@@ -776,7 +853,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 63,
+      "number": 68,
       "prompt": "68-37.- Seg\u00fan el art\u00edculo 31 de la Ley 43/2003, de 21 de noviembre, de Montes, el contenido de los PORF:"
     },
     {
@@ -788,7 +865,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 64,
+      "number": 69,
       "prompt": "69-42.- La Consejer\u00eda de Agricultura, Ganader\u00eda, Pesca y Desarrollo Sostenible ha certificado algunos de los montes p\u00fablicos andaluces:"
     },
     {
@@ -801,7 +878,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 65,
+      "number": 70,
       "prompt": "70-34.De acuerdo con la Ley 43/2003 de Montes, La inclusi\u00f3n de un monte p\u00fablico municipal en el cat\u00e1logo de Montes de Utilidad P\u00fablica corresponde:"
     },
     {
@@ -814,7 +891,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 66,
+      "number": 71,
       "prompt": "71-35.De acuerdo con la Ley 43/2003 de Montes, el r\u00e9gimen jur\u00eddico de un monte perteneciente al Cat\u00e1logo de Montes de Utilidad P\u00fablica supone que:"
     },
     {
@@ -827,7 +904,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 67,
+      "number": 72,
       "prompt": "72-36.De acuerdo con lo establecido en la Ley de Montes, los aprovechamientos forestales procedentes de montes de dominio p\u00fablico:"
     },
     {
@@ -840,7 +917,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 68,
+      "number": 73,
       "prompt": "73-37.De acuerdo con el Reglamento Forestal de Andaluc\u00eda, la roturaci\u00f3n de terrenos forestales estar\u00e1 sometida a autorizaci\u00f3n administrativa:"
     },
     {
@@ -853,7 +930,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 69,
+      "number": 74,
       "prompt": "74-38.De acuerdo con el Reglamento Forestal de Andaluc\u00eda, La autorizaci\u00f3n, enajenaci\u00f3n y adjudicaci\u00f3n de usos y aprovechamientos en un monte de titularidad p\u00fablica municipal sujeto a convenio con la Consejer\u00eda de Medio Ambiente corresponde:"
     },
     {
@@ -866,7 +943,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 70,
+      "number": 75,
       "prompt": "75-39.De conformidad con lo establecido en el Reglamento Forestal de Andaluc\u00eda, los documentos de planificaci\u00f3n territorial o urban\u00edstica en los que se establezca directa o indirectamente la clasificaci\u00f3n urban\u00edstica de los terrenos recoger\u00e1n expresamente la delimitaci\u00f3n de:"
     },
     {
@@ -879,7 +956,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 71,
+      "number": 76,
       "prompt": "76-61.De acuerdo con lo establecido en la Ley Forestal de Andaluc\u00eda, en los montes p\u00fablicos afectos al dominio p\u00fablico se puede producir la desafectaci\u00f3n cuando desaparezcan las causas que la motivaron siendo en todo caso necesario:"
     },
     {
@@ -892,7 +969,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 72,
+      "number": 77,
       "prompt": "77-62.La administraci\u00f3n forestal podr\u00e1 ejercer el derecho de retracto en las condiciones previstas en el art\u00edculo 54 del Reglamento Forestal a partir de la fecha de otorgamiento de los documentos p\u00fablicos durante el plazo de:"
     },
     {
@@ -905,7 +982,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 73,
+      "number": 78,
       "prompt": "78-1.- Debido a la presencia de lince, la Consejer\u00eda de Medio Ambiente tiene inter\u00e9s en la adquisici\u00f3n de la finca la Dehesilla, \u00bfpodr\u00eda ejercer el derecho de retracto tras la compraventa realizada a la Sociedad los Fresnos teniendo en cuenta que est\u00e1 en plazo para ejercerlo?"
     },
     {
@@ -918,7 +995,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 74,
+      "number": 79,
       "prompt": "79-2.- Puede la propiedad de la Dehesilla vender la finca al haber sido afectada por el incendio forestal:"
     },
     {
@@ -931,7 +1008,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 75,
+      "number": 80,
       "prompt": "80-23.- Como consecuencia del incendio, el Ayuntamiento de Villaverde plant\u00e9a la posibilidad de modificar directamente la calificaci\u00f3n urban\u00edstica de parte de los terrenos afectados incluyendo como urbanizables las 20 ha previstas inicialmente de la finca \u201cEl Sobrante\u201d y otras 50 de la \u201cDehesa Boyal\u201d. De acuerdo con lo dispuesto en la normativa vigente en materia de montes y terrenos forestales, \u00bfProcede la modificaci\u00f3n urban\u00edstica pretendida?"
     },
     {
@@ -944,16 +1021,21 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 76,
+      "number": 81,
       "prompt": "81-35.- El Ingeniero operador nombrado a efectos del deslinde administrativo del monte \"Las Pe\u00f1as\", con car\u00e1cter previo a la notificaci\u00f3n de la vista publica del expediente, recibe documentos de la compa\u00f1\u00eda minera \"La Atalaya\" demostrando fehacientemente la posesi\u00f3n quieta, pac\u00edfica e ininterrumpida desde el 30 de mayo de 1975 de 38 ha de terreno. Estas figuran en el informe del Ing. Operador como incluidas en el monte, sin embargo, la Compa\u00f1\u00eda minera reclama su propiedad y su derecho a la inscripci\u00f3n registral. Ante esta situaci\u00f3n como debe actuar el Ingeniero operador:"
     },
     {
       "answers": [
-        "Despu\u00e9s del incendio las 20 ha del monte El Sobrante incluidas como suelo urbano en el Plan General de Ordenaci\u00f3n que se ha elaborado y que est\u00e1 pendiente de aprobaci\u00f3n tienen la calificaci\u00f3n"
+        "suelo urbano",
+        "suelo urbanizable",
+        "terreno forestal",
+        "suelo urbano no programado"
       ],
-      "correct": {},
-      "number": 77,
-      "prompt": "82-46."
+      "correct": {
+        "index": 2
+      },
+      "number": 82,
+      "prompt": "82-46.- Despu\u00e9s del incendio las 20 ha del monte El Sobrante incluidas como suelo urbano en el Plan General de Ordenaci\u00f3n que se ha elaborado y que est\u00e1 pendiente de aprobaci\u00f3n tienen la calificaci\u00f3n\njur\u00eddica de:"
     },
     {
       "answers": [
@@ -965,7 +1047,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 78,
+      "number": 83,
       "prompt": "83-47.- Una vez que se reforesten las 100 has en la finca La Vegueta con cargo al programa de forestaci\u00f3n de tierras agr\u00edcolas adquirir\u00e1n la condici\u00f3n de:"
     },
     {
@@ -978,7 +1060,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 79,
+      "number": 84,
       "prompt": "84-49.- El propietario del monte Revientaciervos pretende la plantaci\u00f3n de especies forestales no aut\u00f3ctonas de crecimiento r\u00e1pido en 10 has en una zona forestal que no ha sido incendiada. Seg\u00fan la legislaci\u00f3n forestal andaluza \u00bfpuede realizarse dicha actuaci\u00f3n?"
     },
     {
@@ -991,7 +1073,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 80,
+      "number": 85,
       "prompt": "85-50.- Continuando con la pregunta anterior hace falta que el propietario solicite un cambio de uso de los terrenos forestales de acuerdo con lo que establece la Ley 2/92 forestal de Andaluc\u00eda:"
     },
     {
@@ -1004,7 +1086,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 81,
+      "number": 86,
       "prompt": "86-53.- La ocupaci\u00f3n legal de 45 ha y servidumbre de paso para la instalaci\u00f3n de aerogeneradores de energ\u00eda el\u00e9ctrica en el monte p\u00fablico Las Pe\u00f1as no podr\u00e1 exceder de acuerdo con el Reglamento Forestal de Andaluc\u00eda de:"
     },
     {
@@ -1017,7 +1099,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 82,
+      "number": 87,
       "prompt": "87-61-La acampada en los montes p\u00fablicos seg\u00fan se establece en el reglamento forestal de Andaluc\u00eda:"
     },
     {
@@ -1030,7 +1112,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 83,
+      "number": 88,
       "prompt": "88-63-Los montes del dominio p\u00fablico forestal en relaci\u00f3n con su responsabilidad tributaria:"
     },
     {
@@ -1043,7 +1125,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 84,
+      "number": 89,
       "prompt": "89-64-Seg\u00fan lo recogido en la Ley 43/2003 de Montes, en una reclamaci\u00f3n de juicio declarativo de propiedad promovido en un deslinde en un monte de titularidad municipal incluido en el Cat\u00e1logo de montes de Utilidad P\u00fablica la parte demandada ser\u00e1:"
     },
     {
@@ -1056,7 +1138,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 85,
+      "number": 90,
       "prompt": "90-70.Un monte perteneciente al Cat\u00e1logo de Utilidad P\u00fablica y localizado en una ZEPA tendr\u00e1 la consideraci\u00f3n de:"
     },
     {
@@ -1069,7 +1151,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 86,
+      "number": 91,
       "prompt": "91-18.En el monte se produjo un incendio habi\u00e9ndose procedido a la corta y venta de ta madera quemada. La comercializaci\u00f3n de dicha madera est\u00e1 sometida:"
     },
     {
@@ -1082,7 +1164,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 87,
+      "number": 92,
       "prompt": "92-19.La venta de la producci\u00f3n de pina corresponde:"
     },
     {
@@ -1095,7 +1177,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 88,
+      "number": 93,
       "prompt": "93-37.- De conformidad con los datos reflejados en el Informe de Medio Ambiente de la Consejer\u00eda de Medio Ambiente de la Junta de Andaluc\u00eda del a\u00f1o 2006, la superficie forestal de Andaluc\u00eda en hect\u00e1reas en 2003 es de:"
     },
     {
@@ -1108,7 +1190,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 89,
+      "number": 94,
       "prompt": "94-38.- De conformidad con los datos reflejados en el Informe de Medio Ambiente de la Consejer\u00eda de Medio Ambiente de la Junta de Andaluc\u00eda del a\u00f1o 2006, la segunda provincia con mayor superficie forestal de Andaluc\u00eda en hect\u00e1reas en 2003 es:"
     },
     {
@@ -1121,7 +1203,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 90,
+      "number": 95,
       "prompt": "95-45.- De acuerdo con la Ley Forestal de Andaluc\u00eda, los Planes de Ordenaci\u00f3n de los Recursos Naturales en los terrenos forestales:"
     },
     {
@@ -1134,7 +1216,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 91,
+      "number": 96,
       "prompt": "96-46.- Seg\u00fan el Reglamento Forestal de Andaluc\u00eda, el ejercicio de los derechos de tanteo y retracto por parte de la Administraci\u00f3n Forestal puede realizarse:"
     },
     {
@@ -1147,7 +1229,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 92,
+      "number": 97,
       "prompt": "97-47.- En el \u00e1mbito de nuestra Comunidad Aut\u00f3noma y seg\u00fan se establece en el Reglamento Forestal de Andaluc\u00eda, el ejercicio de los derechos de retracto de fincas forestales puede realizarse:"
     },
     {
@@ -1160,7 +1242,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 93,
+      "number": 98,
       "prompt": "98-48.- A tenor de lo previsto en el Reglamento Forestal de Andaluc\u00eda y en consonancia con lo dispuesto en la Ley de Montes del Estado, en el \u00e1mbito de la Comunidad Aut\u00f3noma de Andaluc\u00eda la permuta de un monte perteneciente al Cat\u00e1logo de Utilidad P\u00fablica:"
     },
     {
@@ -1173,7 +1255,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 94,
+      "number": 99,
       "prompt": "99-49.- Seg\u00fan lo dispuesto en el Reglamento Forestal de Andaluc\u00eda, la adjudicaci\u00f3n de usos y aprovechamientos en montes de titularidad municipal pertenecientes al Cat\u00e1logo de Montes de Utilidad P\u00fablica con Convenio de Cooperaci\u00f3n para su gesti\u00f3n con la Consejer\u00eda de Medio Ambiente:"
     },
     {
@@ -1186,7 +1268,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 95,
+      "number": 100,
       "prompt": "100-68-La aprobaci\u00f3n del deslinde de un monte p\u00fablico, tal y como recoge Ley Forestal de Andaluc\u00eda, supone:"
     },
     {
@@ -1198,7 +1280,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 96,
+      "number": 101,
       "prompt": "101-69.-En el procedimiento de deslinde de un monte p\u00fablico se respetar\u00e1n las siguientes situaciones posesorias excepto una \u00bfcu\u00e1l?:"
     },
     {
@@ -1211,7 +1293,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 97,
+      "number": 102,
       "prompt": "102-72.- \u00bfCu\u00e1l de las siguientes figuras recogidas en la Ley 10/2006, de 28 de abril, que modifica la Ley 43/2003,de 21 de noviembre, de Montes ya estaba presente en dicha ley 43/2003 de Montes?:"
     },
     {
@@ -1224,7 +1306,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 98,
+      "number": 103,
       "prompt": "103-73-\u00bfPara cual de estos supuestos no se contempla en la Ley 10/2006, de 28 de abril, que modifica la ley 43/2003, de 21 de noviembre, de Montes, la circulaci\u00f3n de veh\u00edculos a motor por pistas forestales situadas fuera de la red de carreteras?:"
     },
     {
@@ -1237,7 +1319,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 99,
+      "number": 104,
       "prompt": "104-74.- La lista roja de la Flora Vascular en Andaluc\u00eda recoge 863 taxones en diferentes categor\u00edas, de las que la categor\u00eda m\u00e1s abundante en n\u00b0 de taxones que incluye es:"
     },
     {
@@ -1250,7 +1332,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 100,
+      "number": 105,
       "prompt": "105-78.- El Cat\u00e1logo de Montes de Andaluc\u00eda, como registro p\u00fablico de car\u00e1cter administrativo, y seg\u00fan lo recogido en la Ley forestal de Andaluc\u00eda incluye todos los montes pertenecientes:"
     },
     {
@@ -1263,7 +1345,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 101,
+      "number": 106,
       "prompt": "106-79- En la Comunidad Aut\u00f3noma de Andaluc\u00eda, y seg\u00fan lo establecido en la Ley 2/92 Forestal de Andaluc\u00eda, se podr\u00e1 ejercer el derecho de tanteo y retracto en una finca forestal en la que parte de su superficie se destina a cultivo agr\u00edcola cuando concurran los requisitos generales para estos derechos y:"
     },
     {
@@ -1276,7 +1358,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 102,
+      "number": 107,
       "prompt": "107-97.- Seg\u00fan la Ley 43/2003, de Montes, son montes de dominio p\u00fablico:"
     },
     {
@@ -1289,7 +1371,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 103,
+      "number": 108,
       "prompt": "108-98- Seg\u00fan el Reglamento Forestal de Andaluc\u00eda (Decreto 208/1997, de 9 de septiembre), el deslinde por el procedimiento ordinario de montes p\u00fablicos podr\u00e1 iniciarse:"
     },
     {
@@ -1302,7 +1384,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 104,
+      "number": 109,
       "prompt": "109-86seg\u00fan el Reglamento Forestal de Andaluc\u00eda (Decreto 208/1997), \u00bfcu\u00e1l de las siguientes medidas de fomento no podr\u00e1 adoptar la Consejer\u00eda de Medio Ambiente para promover el logro de los objetivos de la Ley 2/1992?"
     },
     {
@@ -1315,7 +1397,7 @@ var test5 = {
       "correct": {
         "index": 3
       },
-      "number": 105,
+      "number": 110,
       "prompt": "110-87Seg\u00fan la Ley 43/2003, de 21 de noviembre, de Montes, los montes del dominio p\u00fablico forestal son:"
     },
     {
@@ -1328,7 +1410,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 106,
+      "number": 111,
       "prompt": "111-88La Ley 43/2003, de 21 de noviembre, de Montes, clasifica la infracci\u00f3n \u201ccuando la alteraci\u00f3n de se\u00f1ales y mojones que delimitan los montes p\u00fablicos deslindados no impida la identificaci\u00f3n de los l\u00edmites reales del monte p\u00fablico deslindado\", como:"
     },
     {
@@ -1340,7 +1422,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 107,
+      "number": 112,
       "prompt": "112-16.- Seg\u00fan la vigente legislaci\u00f3n forestal del Estado, los montes protectores podr\u00e1n ser:"
     },
     {
@@ -1352,7 +1434,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 108,
+      "number": 113,
       "prompt": "113-17.- El fondo de mejoras se destinar\u00e1 a la conservaci\u00f3n y mejora de:"
     },
     {
@@ -1364,7 +1446,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 109,
+      "number": 114,
       "prompt": "114-18.- El procedimiento ordinario de deslinde de un monte p\u00fablico en Andaluc\u00eda se inicia:"
     },
     {
@@ -1376,7 +1458,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 110,
+      "number": 115,
       "prompt": "115-19.- La presunci\u00f3n posesoria de un monte p\u00fablico a favor de la Administraci\u00f3n forma parte del r\u00e9gimen jur\u00eddico de los:"
     },
     {
@@ -1388,7 +1470,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 111,
+      "number": 116,
       "prompt": "116-20.- Una vez que la Consejer\u00eda de Medio Ambiente tiene conocimiento de la transmisi\u00f3n de una finca forestal, el plazo m\u00e1ximo para el ejercicio del derecho de retracto es de:"
     },
     {
@@ -1400,7 +1482,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 112,
+      "number": 117,
       "prompt": "117-21.- Las infracciones calificadas como graves en la Ley 2/1.992, de 15 de junio, Forestal de Andaluc\u00eda, prescribir\u00e1n:"
     },
     {
@@ -1412,7 +1494,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 113,
+      "number": 118,
       "prompt": "118-45.- La Administraci\u00f3n forestal podr\u00e1 ejercitar el derecho de retracto en las condiciones previstas en el art\u00edculo 54 del reglamento forestal durante el plazo de:"
     },
     {
@@ -1424,24 +1506,32 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 114,
+      "number": 119,
       "prompt": "119-46.- La Administraci\u00f3n forestal podr\u00e1 ejercitar el derecho de retracto en:"
     },
     {
       "answers": [
-        "Los montes en r\u00e9gimen de propiedad particular suponen en Andaluc\u00eda"
+        "Entre el 20% y el 30%",
+        "Entre el 60% y el 70%",
+        "Entre el 30% y el 50%"
       ],
-      "correct": {},
-      "number": 115,
-      "prompt": "120-47."
+      "correct": {
+        "index": 1
+      },
+      "number": 120,
+      "prompt": "120-47.- Los montes en r\u00e9gimen de propiedad particular suponen en Andaluc\u00eda\nun porcentaje:"
     },
     {
       "answers": [
-        "La acampada en los montes p\u00fablicos seg\u00fan se establece en el"
+        "Est\u00e1 prohibida en los meses declarados de peligro",
+        "Est\u00e1 prohibida fuera de los lugares expresamente previstos para ello",
+        "Est\u00e1 autorizada siempre"
       ],
-      "correct": {},
-      "number": 116,
-      "prompt": "121-97."
+      "correct": {
+        "index": 1
+      },
+      "number": 121,
+      "prompt": "121-97.- La acampada en los montes p\u00fablicos seg\u00fan se establece en el\nreglamento forestal de Andaluc\u00eda:"
     },
     {
       "answers": [
@@ -1452,7 +1542,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 117,
+      "number": 122,
       "prompt": "122-15.El propietario de una finca forestal de 500 has, ha sido sancionado de acuerdo con la Ley 9/1992, de 15 de junio, Forestal de Andaluc\u00eda, por roturar sin autorizaci\u00f3n 40 has de terreno llano para poner olivos, de las que 20 eran de jara y el resto de encinar. Se considera que dicha roturaci\u00f3n:"
     },
     {
@@ -1464,7 +1554,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 118,
+      "number": 123,
       "prompt": "123-16.Como conclusi\u00f3n del expediente sancionador, y de acuerdo con lo que establece la Ley 2/1992, Forestal de Andaluc\u00eda, se le impone al particular la obligaci\u00f3n de repoblar la superficie roturada, lo que deber\u00e1 realizar:"
     },
     {
@@ -1476,7 +1566,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 119,
+      "number": 124,
       "prompt": "124-17.El propietario ha presentado un plan t\u00e9cnico que es aprobado por la Administraci\u00f3n, y solicitado una subvenci\u00f3n para la forestaci\u00f3n de la superficie roturada en las que va a poner 625 encinas y alcornoques por hect\u00e1rea \u00bfes subvencionable?"
     },
     {
@@ -1488,7 +1578,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 120,
+      "number": 125,
       "prompt": "125-18.Transcurrido el tiempo correspondiente, el particular no ha procedido a la repoblaci\u00f3n de la superficie roturada, por lo que la Consejer\u00eda de Medio Ambiente, de acuerdo con el Reglamento Forestal de Andaluc\u00eda, ha dictaminado la ejecuci\u00f3n forzosa, lo que se inicia por acuerdo del:"
     },
     {
@@ -1500,8 +1590,8 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 121,
-      "prompt": "126-19.En la resoluci\u00f3n de ejecuci\u00f3n forzosa se acuerda la imposici\u00f3n de multas coercitivas y, a su vez, la ejecuci\u00f3n subsidiaria de la restauraci\u00f3n por la administraci\u00f3n."
+      "number": 126,
+      "prompt": "126-19.En la resoluci\u00f3n de ejecuci\u00f3n forzosa se acuerda la imposici\u00f3n de multas coercitivas y, a su vez, la ejecuci\u00f3n subsidiaria de la restauraci\u00f3n por la administraci\u00f3n:"
     },
     {
       "answers": [
@@ -1512,7 +1602,7 @@ var test5 = {
       "correct": {
         "index": 0
       },
-      "number": 122,
+      "number": 127,
       "prompt": "127-83.- Seg\u00fan el Decreto 208/1997, de 9 de septiembre, por el que se aprueba el Reglamento Forestal de Andaluc\u00eda:"
     },
     {
@@ -1524,7 +1614,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 123,
+      "number": 128,
       "prompt": "128-31.- Ante la intenci\u00f3n de un propietario de vender su finca forestal incluida en el parque natural, se ha recibido notificaci\u00f3n de dicha transmisi\u00f3n y debe usted informar para el ejercicio de los derechos de tanteo y retracto:"
     },
     {
@@ -1536,7 +1626,7 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 124,
+      "number": 129,
       "prompt": "129-20.- La relaci\u00f3n de montes que integraron inicialmente el Cat\u00e1logo de Montes de Andaluc\u00eda se publicit\u00f3:"
     },
     {
@@ -1548,7 +1638,7 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 125,
+      "number": 130,
       "prompt": "130-23.- Atendiendo a lo dispuesto en la disposici\u00f3n adicional sexta \u201cSuelos forestales incendiados\u201d del Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitaci\u00f3n Urbana, \u00bfcu\u00e1l de las siguientes afirmaciones es correcta?:"
     },
     {
@@ -1558,7 +1648,7 @@ var test5 = {
         "1901."
       ],
       "correct": {},
-      "number": 126,
+      "number": 131,
       "prompt": "131-40.- \u00bfCu\u00e1ndo se public\u00f3 por primera vez el Cat\u00e1logo de Montes de Utilidad P\u00fablica (CUP)?:"
     },
     {
@@ -1570,8 +1660,8 @@ var test5 = {
       "correct": {
         "index": 1
       },
-      "number": 127,
-      "prompt": "132-61.- Conforme a la Ley 2/1992, de 15 de junio, Forestal de Andaluc\u00eda, los aprovechamientos de maderas, le\u00f1as y corcho en los terrenos forestales privados que tengan aprobados Proyectos de Ordenaci\u00f3n o Planes T\u00e9cnicos."
+      "number": 132,
+      "prompt": "132-61.- Conforme a la Ley 2/1992, de 15 de junio, Forestal de Andaluc\u00eda, los aprovechamientos de maderas, le\u00f1as y corcho en los terrenos forestales privados que tengan aprobados Proyectos de Ordenaci\u00f3n o Planes T\u00e9cnicos:"
     },
     {
       "answers": [
@@ -1582,8 +1672,8 @@ var test5 = {
       "correct": {
         "index": 2
       },
-      "number": 128,
-      "prompt": "133-65.- Cual de las siguientes disposiciones reconoce a los agentes forestales, la condici\u00f3n de Polic\u00eda Judicial en sentido gen\u00e9rico."
+      "number": 133,
+      "prompt": "133-65.- Cual de las siguientes disposiciones reconoce a los agentes forestales, la condici\u00f3n de Polic\u00eda Judicial en sentido gen\u00e9rico:"
     }
   ],
   "title": "Tema 5",

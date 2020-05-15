@@ -1,4 +1,4 @@
-var test14={
+{
   "questions": [
     {
       "answers": [
@@ -1179,16 +1179,11 @@ var test14={
     },
     {
       "answers": [
-        "La periferia del incendio.",
-        "Las zonas con pies totalmente calcinados.",
-        "Islas de pinar no afectado.",
-        "Las zonas con pies quemados de corteza gruesa."
+        "En la zona incendiada, las zonas de menor riesgo de aparici\u00f3n de plagas de"
       ],
-      "correct": {
-        "index": 1
-      },
+      "correct": {},
       "number": 92,
-      "prompt": "92-15.- En la zona incendiada, las zonas de menor riesgo de aparici\u00f3n de plagas de\nperforadores corresponden a:"
+      "prompt": "92-15."
     },
     {
       "answers": [
@@ -1410,7 +1405,7 @@ var test14={
         "index": 2
       },
       "number": 110,
-      "prompt": "110-40.- Seg\u00fan lo establecido en el art\u00edculo 10 del Decreto 247/2001, por el que se aprueba el Reglamento de Prevenci\u00f3n y Lucha contra Incendios Forestales, en caso de que una finca no cuente con Instrumento de Ordenaci\u00f3n de Montes aprobado:"
+      "prompt": "110-40.- Seg\u00fan lo establecido en el art\u00edculo 10 del Decreto 247/2001, por el que se aprueba el Reglamento de Prevenci\u00f3n y Lucha contra Incendios Forestales, en caso de que una finca no cuente con Instrumento de Ordenaci\u00f3n de Montes aprobado..."
     },
     {
       "answers": [
@@ -1624,7 +1619,7 @@ var test14={
         "index": 1
       },
       "number": 127,
-      "prompt": "127-38.- Los propietarios de la finca \"La Vegueta\" reciben 10 meses despu\u00e9s de producirse el incendio propuesta de Plan de restauraci\u00f3n de la finca realizado por la Delegaci\u00f3n Provincial de la Consejer\u00eda de Medio Ambiente en C\u00f3rdoba. En dicho Plan de establecer la obligatoriedad de proceder a la forestaci\u00f3n o reforestaci\u00f3n, seg\u00fan el caso, de las 400 ha afectadas. Indicar cu\u00e1l de las siguientes alegaciones, si es el caso, presentadas por los propietarios de la finca a la propuesta debe ser aceptada:"
+      "prompt": "127-38.- Los propietarios de la finca \"La Vegueta\" reciben 10 meses despu\u00e9s de producirse el incendio propuesta de Plan de restauraci\u00f3n de la finca realizado por la Delegaci\u00f3n Provincial de la Consejer\u00eda de Medio Ambiente en C\u00f3rdoba. En dicho Plan de establecer la obligatoriedad de proceder a la forestaci\u00f3n o reforestaci\u00f3n, seg\u00fan el caso, de las 400 ha afectadas. Indicar cu\u00e1l de las siguientes alegaciones, si es el caso, presentadas por los propietarios de la finca a la propuesta debe ser aceptada."
     },
     {
       "answers": [
@@ -1637,7 +1632,7 @@ var test14={
         "index": 3
       },
       "number": 128,
-      "prompt": "128-39.- Los titulares de la finca \"El cuarter\u00f3n\" presentan el obligatorio Plan de Restauraci\u00f3n. En \u00e9l se contempla que 50 ha de terreno forestal no incluido en el Parque Natural van a ser dedicados al cultivo de olivar en regad\u00edo. Presentan, conjuntamente, solicitud de cambio de uso en la que se acredita la viabilidad t\u00e9cnica y econ\u00f3mica del nuevo uso y se justifica la inexistencia de riesgos graves de erosi\u00f3n o degradaci\u00f3n del suelo, de los recursos h\u00eddricos o del ecosistema forestal en su conjunto. Indicar si se debe aceptar o rechazar el cambio de uso solicitado, y el motivo que lo justifica:"
+      "prompt": "128-39.- Los titulares de la finca \"El cuarter\u00f3n\" presentan el obligatorio Plan de Restauraci\u00f3n. En \u00e9l se contempla que 50 ha de terreno forestal no incluido en el Parque Natural van a ser dedicados al cultivo de olivar en regad\u00edo. Presentan, conjuntamente, solicitud de cambio de uso en la que se acredita la viabilidad t\u00e9cnica y econ\u00f3mica del nuevo uso y se justifica la inexistencia de riesgos graves de erosi\u00f3n o degradaci\u00f3n del suelo, de los recursos h\u00eddricos o del ecosistema forestal en su conjunto. Indicar si se debe aceptar o rechazar el cambio de uso solicitado, y el motivo que lo justifica."
     },
     {
       "answers": [
@@ -1650,7 +1645,7 @@ var test14={
         "index": 0
       },
       "number": 129,
-      "prompt": "129-40.- El fuego que afecto a la finca \"Revientaciervos\" fue de superficie y no incidi\u00f3 excesivamente en la masa arb\u00f3rea de la dehesa, soflamando ligeramente la copa. El Plan de restauraci\u00f3n presentado no contempla como medida de actuaci\u00f3n la restricci\u00f3n al pastoreo. Indicar si por esta causa debe ser aprobado o denegado el Plan de Restauraci\u00f3n presentado:"
+      "prompt": "129-40.- El fuego que afecto a la finca \"Revientaciervos\" fue de superficie y no incidi\u00f3 excesivamente en la masa arb\u00f3rea de la dehesa, soflamando ligeramente la copa. El Plan de restauraci\u00f3n presentado no contempla como medida de actuaci\u00f3n la restricci\u00f3n al pastoreo. Indicar si por esta causa debe ser aprobado o denegado el Plan de Restauraci\u00f3n presentado."
     },
     {
       "answers": [
@@ -1845,7 +1840,7 @@ var test14={
         "index": 1
       },
       "number": 144,
-      "prompt": "144-22.- El Plan de Prevenci\u00f3n de Incendios Forestales plantea la ejecuci\u00f3n de una l\u00ednea cortafuegos entre las masas pino pi\u00f1onero y eucalipto \u00bfCu\u00e1l debe ser la anchura de la l\u00ednea cortafuegos?"
+      "prompt": "144-22.- El Plan de Prevenci\u00f3n de Incendios Forestales plantea la ejecuci\u00f3n de una l\u00ednea cortafuegos entre las masas pino pi\u00f1onero y eucalipto \u00bfCu\u00e1l debe ser la anchura de la l\u00ednea cortafuegos?;"
     },
     {
       "answers": [
@@ -1858,7 +1853,7 @@ var test14={
         "index": 2
       },
       "number": 145,
-      "prompt": "145-23.- En ese mismo Plan de Prevenci\u00f3n de Incendios se prev\u00e9 la ejecuci\u00f3n de un \u00e1rea cortafuegos que atraviesa la zona n\u00b03 \u00bfCu\u00e1l debe ser la anchura del \u00c1rea Cortafuegos?"
+      "prompt": "145-23.- En ese mismo Plan de Prevenci\u00f3n de Incendios se prev\u00e9 la ejecuci\u00f3n de un \u00e1rea cortafuegos que atraviesa la zona n\u00b03 \u00bfCu\u00e1l debe ser la anchura del \u00c1rea Cortafuegos?;"
     },
     {
       "answers": [
@@ -1910,7 +1905,7 @@ var test14={
         "index": 0
       },
       "number": 149,
-      "prompt": "149-74.-Seg\u00fan el Plan de Emergencia por Incendios Forestales de Andaluc\u00eda (Decreto 371/2010), la direcci\u00f3n del Plan Infoca en el \u00e1mbito provincial corresponde:"
+      "prompt": "149-74.-Seg\u00fan el Plan de Emergencia por Incendios Forestales de Andaluc\u00eda (Decreto 371/2010), la direcci\u00f3n del Plan Infoca en el \u00e1mbito provincial corresponde"
     },
     {
       "answers": [
@@ -2027,7 +2022,7 @@ var test14={
         "index": 3
       },
       "number": 158,
-      "prompt": "158-131.- Si en el incendio est\u00e1n actuando dos retenes de especialistas y una brigada brica con t\u00e9cnico, cu\u00e1ntas personas en total est\u00e1n en el incendio:"
+      "prompt": "158-131.- Si en el incendio est\u00e1n actuando dos retenes de especialistas y una brigada brica con t\u00e9cnico, cu\u00e1ntas personas en total est\u00e1n en el incendio"
     },
     {
       "answers": [
@@ -2295,7 +2290,7 @@ var test14={
         "index": 1
       },
       "number": 180,
-      "prompt": "180-9.La comercializaci\u00f3n de los productos forestales procedentes del incendio de las fincas afectadas:"
+      "prompt": "180-9.La comercializaci\u00f3n de los productos forestales procedentes del incendio de las fincas afectadas."
     },
     {
       "answers": [
@@ -2683,15 +2678,11 @@ var test14={
     },
     {
       "answers": [
-        "Las Agrupaciones de Defensa Forestal.",
-        "Las Entidades Locales.",
-        "Los sujetos pasivos, cuando el incendio forestal afecte a una superficie inferior a 500 hect\u00e1reas."
+        "La Ley 5/1999, de 29 de junio, de Prevenci\u00f3n y Lucha contra los Incendios Forestales, crea la Tasa de Extinci\u00f3n de Incendios Forestales, quedando exentos del"
       ],
-      "correct": {
-        "index": 1
-      },
+      "correct": {},
       "number": 213,
-      "prompt": "213-58.- La Ley 5/1999, de 29 de junio, de Prevenci\u00f3n y Lucha contra los Incendios Forestales, crea la Tasa de Extinci\u00f3n de Incendios Forestales, quedando exentos del\npago de dicha tasa:"
+      "prompt": "213-58."
     },
     {
       "answers": [
@@ -2706,6 +2697,6 @@ var test14={
       "prompt": "214-66.- La superior direcci\u00f3n del Plan INFOCA, le corresponde a:"
     }
   ],
-  "title": "Tema 14",
+  "title": null,
   "url": null
 }

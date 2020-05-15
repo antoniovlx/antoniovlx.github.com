@@ -1,4 +1,4 @@
-var test6 = {
+var test6={
   "questions": [
     {
       "answers": [
@@ -28,6 +28,19 @@ var test6 = {
     },
     {
       "answers": [
+        "No superior a 12 meses, contados desde el inicio del expediente y se publicar\u00e1 en BOJA.",
+        "No superior a 18 meses, contados desde el inicio del expediente y se publicar\u00e1 en BOJA.",
+        "No superior a 12 meses, contados desde el inicio del expediente y se publicar\u00e1 en BOP.",
+        "No superior a 18 meses, contados desde el inicio del expediente y se publicar\u00e1 en BOP."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 3,
+      "prompt": "3-0.De forma general, el plazo m\u00e1ximo de resoluci\u00f3n de un expediente de deslinde ser\u00e1:"
+    },
+    {
+      "answers": [
         "Se podr\u00e1n autorizar temporalmente, por razones de inter\u00e9s general, y de manera excepcional por razones de inter\u00e9s particular.",
         "Se podr\u00e1 autorizar, siempre que la misma no altere el tr\u00e1nsito ganadero ni impida los dem\u00e1s usos compatibles o complementarios del mismo.",
         "Se podr\u00e1n autorizar temporalmente, por razones de inter\u00e9s social, y de manera excepcional por razones de inter\u00e9s particular.",
@@ -36,7 +49,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 3,
+      "number": 4,
       "prompt": "4-0.Seg\u00fan la Ley 3/1995, de 23 de marzo, las ocupaciones de las v\u00edas pecuarias:"
     },
     {
@@ -49,7 +62,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 4,
+      "number": 5,
       "prompt": "5-0.Seg\u00fan se establece el art\u00edculo 4.3 de la Ley 3/1995 de v\u00edas pecuarias:"
     },
     {
@@ -62,7 +75,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 5,
+      "number": 6,
       "prompt": "6-0.El acto administrativo de car\u00e1cter declarativo en virtud del cual se determina la existencia, denominaci\u00f3n, anchura, trazado y dem\u00e1s caracter\u00edsticas f\u00edsicas generales de cada v\u00eda pecuaria es:"
     },
     {
@@ -75,7 +88,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 6,
+      "number": 7,
       "prompt": "7-0.La ocupaci\u00f3n de una v\u00eda pecuaria:"
     },
     {
@@ -88,7 +101,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 7,
+      "number": 8,
       "prompt": "8-0.Los cordeles son v\u00edas pecuarias que tienen una anchura que no sobre pasa los:"
     },
     {
@@ -101,7 +114,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 8,
+      "number": 9,
       "prompt": "9-0.La anchura de una colada, seg\u00fan queda definido por el art\u00edculo 4 de la ley de v\u00edas pecuarias:"
     },
     {
@@ -114,7 +127,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 9,
+      "number": 10,
       "prompt": "10-0.Seg\u00fan queda recogido en la normativa estatal de v\u00edas pecuarias, estas son:"
     },
     {
@@ -127,7 +140,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 10,
+      "number": 11,
       "prompt": "11-0.El Real Decreto 155/1998, de 21 de julio, por el que se aprueba el Reglamento de V\u00edas Pecuarias es:"
     },
     {
@@ -140,7 +153,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 11,
+      "number": 12,
       "prompt": "12-0.La roturaci\u00f3n o plantaci\u00f3n no autorizada que se realice en cualquier v\u00eda pecuaria constituir\u00e1 una infracci\u00f3n:"
     },
     {
@@ -153,7 +166,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 12,
+      "number": 13,
       "prompt": "13-0.La finalidad del Plan de Recuperaci\u00f3n y Ordenaci\u00f3n de las v\u00edas pecuarias de la Comunidad aut\u00f3noma de Andaluc\u00eda es:"
     },
     {
@@ -166,8 +179,8 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 13,
-      "prompt": "14-0.La obstrucci\u00f3n del ejercicio de las funciones de polic\u00eda, inspecci\u00f3n o vigilancia previstas en la ley de v\u00edas pecuarias, constituye una infracci\u00f3n"
+      "number": 14,
+      "prompt": "14-0.La obstrucci\u00f3n del ejercicio de las funciones de polic\u00eda, inspecci\u00f3n o vigilancia previstas en la ley de v\u00edas pecuarias, constituye una infracci\u00f3n:"
     },
     {
       "answers": [
@@ -179,7 +192,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 14,
+      "number": 15,
       "prompt": "15-0.Una sanci\u00f3n por cuant\u00eda de 15.000 \u20ac, corresponde la competencia sancionadora a:"
     },
     {
@@ -192,7 +205,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 15,
+      "number": 16,
       "prompt": "16-0.\u00bfQu\u00e9 plazo de ejecuci\u00f3n se fij\u00f3 para el Plan de Recuperaci\u00f3n y Ordenaci\u00f3n de las v\u00edas pecuarias?"
     },
     {
@@ -205,7 +218,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 16,
+      "number": 17,
       "prompt": "17-0.\u00bfCu\u00e1l de los siguientes es el encargado de acordar de oficio el inicio de un expediente de desafectaci\u00f3n?"
     },
     {
@@ -218,7 +231,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 17,
+      "number": 18,
       "prompt": "18-0.En el caso de los aprovechamientos en v\u00edas pecuarias, y seg\u00fan el art\u00edculo 52 del Reglamento de v\u00edas pecuarias, su duraci\u00f3n ser\u00e1:"
     },
     {
@@ -231,7 +244,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 18,
+      "number": 19,
       "prompt": "19-0.Las plantaciones forestales lineales, cortavientos u ornamentales, se considera:"
     },
     {
@@ -244,7 +257,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 19,
+      "number": 20,
       "prompt": "20-0.La alteraci\u00f3n de hitos, mojones o indicadores de cualquier clase, destinados al se\u00f1alamiento de los l\u00edmites de las v\u00edas pecuarias es un hecho tipificado por la ley de v\u00edas pecuarias como infracci\u00f3n administrativa. \u00bfSabr\u00eda decir a que infracci\u00f3n corresponde y el plazo de prescripci\u00f3n es esta?"
     },
     {
@@ -257,7 +270,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 20,
+      "number": 21,
       "prompt": "1-49.Corresponde a la Consejer\u00eda de Medio Ambiente, respecto a las v\u00edas pecuarias:"
     },
     {
@@ -270,7 +283,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 21,
+      "number": 22,
       "prompt": "2-50.Las ocupaciones en v\u00edas pecuarias:"
     },
     {
@@ -283,7 +296,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 22,
+      "number": 23,
       "prompt": "3-54.Las v\u00edas pecuarias se denominan con car\u00e1cter general:"
     },
     {
@@ -296,7 +309,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 23,
+      "number": 24,
       "prompt": "4-55.Corresponde a la Consejer\u00eda de Medio Ambiente, respecto de las v\u00edas pecuarias:"
     },
     {
@@ -309,7 +322,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 24,
+      "number": 25,
       "prompt": "5-56.Respecto a las v\u00edas pecuarias se considera infracciones grandes:"
     },
     {
@@ -322,7 +335,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 25,
+      "number": 26,
       "prompt": "6-45.El procedimiento de deslinde de una v\u00eda pecuaria, seg\u00fan el Reglamento de V\u00edas Pecuarias de la Comunidad Aut\u00f3noma de Andaluc\u00eda se iniciar\u00e1 de oficio de acuerdo de:"
     },
     {
@@ -335,8 +348,47 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 26,
+      "number": 27,
       "prompt": "7-68.El Decreto 155/1998, de 21 de julio, por el que se aprueba el Reglamento de v\u00edas pecuarias de la C.A. de Andaluc\u00eda, contempla en el procedimiento de deslinde un periodo de informaci\u00f3n p\u00fablica a fin de que cualquier persona f\u00edsica o jur\u00eddica pueda examinar el expediente por un plazo de:"
+    },
+    {
+      "answers": [
+        "5 a\u00f1os renovables.",
+        "10 a\u00f1os renovables.",
+        "20 a\u00f1os renovables.",
+        "50 a\u00f1os renovables."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 28,
+      "prompt": "8-24.- En la v\u00eda pecuaria que atraviesa la finca, que inspecciona la agente, el titular quiere realizar una ocupaci\u00f3n en parte de su trazado, por un inter\u00e9s particular motivado que no altera el transito ganadero, ni impide los dem\u00e1s usos compatibles o complementarios. \u00bfPor cu\u00e1nto tiempo se le podr\u00e1 conceder esa ocupaci\u00f3n?:"
+    },
+    {
+      "answers": [
+        "2 meses, transcurrido el cual sin haberse dictado resoluci\u00f3n la solicitud podr\u00e1 entenderse desestimada.",
+        "2 meses, transcurrido el cual sin haberse dictado resoluci\u00f3n la solicitud podr\u00e1 entenderse estimada.",
+        "3 meses, transcurrido el cual sin haberse dictado resoluci\u00f3n la solicitud podr\u00e1 entenderse desestimada.",
+        "3 meses, transcurrido el cual sin haberse dictado resoluci\u00f3n la solicitud podr\u00e1 entenderse estimada."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 29,
+      "prompt": "9-25.- Los usos compatibles de la V\u00eda Pecuaria deben ser autorizados por la Delegaci\u00f3n Territorial de la Consejer\u00eda de Medio Ambiente y Ordenaci\u00f3n del Territorio. \u00bfQu\u00e9 plazo m\u00e1ximo tiene la Delegaci\u00f3n para resolver este procedimiento?:"
+    },
+    {
+      "answers": [
+        "Leve.",
+        "Grave.",
+        "Muy Grave.",
+        "No se considera infracci\u00f3n en la ley de v\u00edas pecuarias."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 30,
+      "prompt": "10-26.- La realizaci\u00f3n de vertidos o el derrame de residuos en el \u00e1mbito delimitado de la v\u00eda pecuaria que atraviesa la dehesa de este supuesto, se considera seg\u00fan la Ley de V\u00edas Pecuarias como infracci\u00f3n:"
     },
     {
       "answers": [
@@ -348,7 +400,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 27,
+      "number": 31,
       "prompt": "11-80.En las v\u00edas pecuarias son usos compatibles con la actividad pecuaria:"
     },
     {
@@ -361,7 +413,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 28,
+      "number": 32,
       "prompt": "12-9.Un particular le consulta una duda sobre cuales son los actos y procedimientos administrativos que la Administraci\u00f3n tiene sobre las V\u00edas Pecuarias. Estos son:"
     },
     {
@@ -374,7 +426,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 29,
+      "number": 33,
       "prompt": "13-10.Se desea realizar una plantaci\u00f3n forestal lineal en la v\u00eda pecuaria. Esta actuaci\u00f3n:"
     },
     {
@@ -387,7 +439,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 30,
+      "number": 34,
       "prompt": "14-20.Esta empresa de Turismo Activo quiere realizar actividades por una v\u00eda pecuaria, \u00bfcu\u00e1l de las siguientes est\u00e1 prohibida realizarla en v\u00eda pecuaria?:"
     },
     {
@@ -400,7 +452,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 31,
+      "number": 35,
       "prompt": "15-73.Cu\u00e1l de los siguientes usos no viene contemplado en el Plan Andaluz de v\u00edas pecuarias:"
     },
     {
@@ -413,7 +465,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 32,
+      "number": 36,
       "prompt": "16-38.Cu\u00e1l de estas acciones en v\u00edas pecuarias se considera como falta grave:"
     },
     {
@@ -426,7 +478,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 33,
+      "number": 37,
       "prompt": "17-52.Seg\u00fan el Decreto 155/1998, de 21 de julio, por el que se aprueba el reglamento de V\u00edas Pecuarias de la Comunidad Aut\u00f3noma de Andaluc\u00eda, el acto por el cual se definen los limites de las v\u00edas pecuarias, incluyendo los abrevaderos, descansaderos, majadas y dem\u00e1s lugares asociados al tr\u00e1nsito ganadero, de acuerdo con la clasificaci\u00f3n aprobada se denomina:"
     },
     {
@@ -439,7 +491,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 34,
+      "number": 38,
       "prompt": "18-11.Desde la Consejer\u00eda de Medio Ambiente se realiza un estudio sobre las v\u00edas pecuarias de la Comunidad Aut\u00f3noma de Andaluc\u00eda. Un t\u00e9cnico de la Consejer\u00eda se encarga de verificar que se han cumplido los tr\u00e1mites administrativos de clasificaci\u00f3n, deslinde y amojonamiento de la v\u00eda pecuaria que une los pueblos de Almonte y Villamanrique y que posee una anchura de 40 metros.Por su anchura, esta v\u00eda pecuaria le corresponde la denominaci\u00f3n de:"
     },
     {
@@ -452,7 +504,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 35,
+      "number": 39,
       "prompt": "19-12.Al transcurrir su itinerario \u00edntegramente por territorio andaluz se considera a dicha v\u00eda pecuaria como:"
     },
     {
@@ -465,7 +517,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 36,
+      "number": 40,
       "prompt": "20-13.El t\u00e9cnico constata que el estudio sobre la v\u00eda pecuaria que, entre otras cosas, contiene las referencias que existen en los municipios por cuyo territorio pueda discurrir, se ha realizado conforme a lo dispuesto en el reglamento de v\u00edas pecuarias de la Comunidad Aut\u00f3noma Andaluza. Por lo tanto, dicho estudio se realiz\u00f3:"
     },
     {
@@ -478,7 +530,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 37,
+      "number": 41,
       "prompt": "21-14.El t\u00e9cnico observa que el procedimiento de clasificaci\u00f3n se hizo conforme a la legislaci\u00f3n vigente por lo que podemos afirmar que dicho procedimiento se inici\u00f3:"
     },
     {
@@ -491,7 +543,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 38,
+      "number": 42,
       "prompt": "22-15.Tras leer la resoluci\u00f3n del procedimiento ordinario de deslinde y comprobar las fechas, el t\u00e9cnico constat\u00f3 que se hab\u00eda cumplido con lo dispuesto legalmente, por lo que podemos deducir que dicha resoluci\u00f3n fue dictada:"
     },
     {
@@ -504,7 +556,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 39,
+      "number": 43,
       "prompt": "23-16El t\u00e9cnico estudia un informe de un Agente de Medio Ambiente de la zona informando que los due\u00f1os de las fincas colindantes a la v\u00eda pecuaria quieren que los frutos y aprovechamientos no utilizados por el ganado en el normal tr\u00e1nsito por dicha v\u00eda pecuaria, pueden ser objeto de aprovechamiento. Este aprovechamiento ser\u00eda posible:"
     },
     {
@@ -517,7 +569,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 40,
+      "number": 44,
       "prompt": "24-17.Con respecto al procedimiento de amojonamiento, el t\u00e9cnico ha podido comprobar que el mismo se hizo correctamente. Por tanto, el procedimiento:"
     },
     {
@@ -530,7 +582,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 41,
+      "number": 45,
       "prompt": "25-18.Asimismo, pudo comprobar que con car\u00e1cter previo a la ejecuci\u00f3n material del amojonamiento se hab\u00eda informado a todos los interesados con el plazo legal, establecido en:"
     },
     {
@@ -543,7 +595,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 42,
+      "number": 46,
       "prompt": "26-19Por \u00faltimo, en el expediente constan algunas propuestas de modificaciones de trazado realizadas por interesados que no han prosperado. Ello puede ser debido a:"
     },
     {
@@ -556,7 +608,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 43,
+      "number": 47,
       "prompt": "27-20.En uno de los paseos de reconocimiento que lleva a cabo el t\u00e9cnico por la v\u00eda pecuaria, observa unos cuantos ejemplares de eucaliptos (Eucalyptus camaldulensis) que dan sombra a uno de los descansaderos de dicha v\u00eda. \u00bfCu\u00e1l ser\u00eda la descripci\u00f3n m\u00e1s acertada sobre dicha especie?"
     },
     {
@@ -569,7 +621,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 44,
+      "number": 48,
       "prompt": "28-99.Seg\u00fan establece la Ley 3/1995, de v\u00edas pecuarias, la alteraci\u00f3n de hitos, mojones o indicadores de cualquier clase, destinados al se\u00f1alamiento de los l\u00edmites de las v\u00edas pecuarias:"
     },
     {
@@ -582,8 +634,20 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 45,
+      "number": 49,
       "prompt": "29-100.Seg\u00fan establece la Ley 3/1995, de v\u00edas pecuarias, los frutos y productos no utilizados por el ganado en el normal tr\u00e1nsito ganadero podr\u00e1n ser objeto de aprovechamiento:"
+    },
+    {
+      "answers": [
+        "20 metros",
+        "37,5 metros",
+        "75 metros"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 50,
+      "prompt": "30-101.Las ca\u00f1adas son aquellas v\u00edas pecuarias cuya anchura no excede de los:"
     },
     {
       "answers": [
@@ -594,8 +658,32 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 46,
+      "number": 51,
       "prompt": "31-5.La ordenaci\u00f3n, recuperaci\u00f3n, gesti\u00f3n del uso p\u00fablico e integraci\u00f3n de la red andaluza de v\u00edas pecuarias como ejes vertebradores del territorio, le corresponde actualmente a:"
+    },
+    {
+      "answers": [
+        "Fue el acto administrativo que defini\u00f3 los l\u00edmites de la v\u00eda pecuaria, incluyendo los abrevaderos, descansaderos, majadas y dem\u00e1s lugares asociados al tr\u00e1nsito ganadero, de acuerdo con la clasificaci\u00f3n aprobada del municipio.",
+        "Fue el acto administrativo de car\u00e1cter declarativo en virtud del cual se determin\u00f3 la existencia, denominaci\u00f3n, anchura, trazado y dem\u00e1s caracter\u00edsticas f\u00edsicas generales de la v\u00eda pecuaria Ca\u00f1ada Real de XXXX.",
+        "Fue el procedimiento de se\u00f1alizalizaci\u00f3n con car\u00e1cter permanente sobre el terreno de losl\u00edmites de la v\u00eda pecuaria Ca\u00f1ada Real de XXXX."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 52,
+      "prompt": "32-119.- El deslinde de la v\u00eda pecuaria \u201cCa\u00f1ada Real XXXX\u201d:"
+    },
+    {
+      "answers": [
+        "No podr\u00e1n acceder a la explotaci\u00f3n con veh\u00edculo motorizado y maquinaria agr\u00edcola sin previamente tramitar la ocupaci\u00f3n de la v\u00eda pecuaria y abonar el canon correspondiente.",
+        "Necesitan de una autorizaci\u00f3n para acceder a la explotaci\u00f3n y poder circular con veh\u00edculos motorizados que no sean de car\u00e1cter agr\u00edcola mientras transita el ganado, al ser un uso complementario con el tr\u00e1nsito ganadero definido en el Reglamento de v\u00edas pecuarias de la Comunidad Aut\u00f3noma de Andaluc\u00eda.",
+        "No requieren de autorizaci\u00f3n para circular con veh\u00edculos motorizados que no sean de car\u00e1cter agr\u00edcola, al venir as\u00ed definido en los usos compatibles del Reglamento de v\u00edas pecuarias de la Comunidad Aut\u00f3noma de Andaluc\u00eda. No obstante, no podr\u00e1n circular con veh\u00edculos motorizados en el momento de transitar el ganado."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 53,
+      "prompt": "33-120.- Respecto al acceso a la explotaci\u00f3n a trav\u00e9s de la v\u00eda pecuaria, el titular de la explotaci\u00f3n porcina y los trabajadores de la misma:"
     },
     {
       "answers": [
@@ -606,7 +694,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 47,
+      "number": 54,
       "prompt": "34-86.- La red de v\u00edas pecuarias andaluzas tiene una longitud aproximada de:"
     },
     {
@@ -618,7 +706,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 48,
+      "number": 55,
       "prompt": "35-87.- En materia de v\u00edas pecuarias, la Consejer\u00eda de Medio Ambiente de la Junta de Andaluc\u00eda, seg\u00fan el Art. 13.7 de su Estatuto de Autonom\u00eda:"
     },
     {
@@ -630,7 +718,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 49,
+      "number": 56,
       "prompt": "36-88.- La legislaci\u00f3n andaluza de v\u00edas pecuarias establece cuatro posibles usos para \u00e9stas, que son: uso ecol\u00f3gico, uso ecol\u00f3gico-corredores para lince y otros dos entre los siguientes:"
     },
     {
@@ -642,7 +730,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 50,
+      "number": 57,
       "prompt": "37-61.- El acto de clasificaci\u00f3n de las V\u00edas Pecuarias define:"
     },
     {
@@ -654,7 +742,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 51,
+      "number": 58,
       "prompt": "38-62.-El procedimiento de deslinde de una v\u00eda pecuaria se iniciar\u00e1 por parte de la Consejera de Medio Ambiente:"
     },
     {
@@ -666,7 +754,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 52,
+      "number": 59,
       "prompt": "39-59.- El deslinde de v\u00edas pecuarias es:"
     },
     {
@@ -678,7 +766,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 53,
+      "number": 60,
       "prompt": "40-60.- El acto administrativo en virtud del cual se determina la existencia de una v\u00eda pecuaria es:"
     },
     {
@@ -690,7 +778,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 54,
+      "number": 61,
       "prompt": "41-61.- Se podr\u00e1 variar o desviar el trazado de una v\u00eda pecuaria siempre que:"
     },
     {
@@ -703,7 +791,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 55,
+      "number": 62,
       "prompt": "42-62.- Las v\u00edas pecuarias podr\u00e1n clasificarse por el Planeamiento Urban\u00edstico:"
     },
     {
@@ -715,7 +803,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 56,
+      "number": 63,
       "prompt": "43-155.La tasa de ocupaci\u00f3n de v\u00edas pecuarias para fines no empresariales y que no tengan el car\u00e1cter de onerosos, una bonificaci\u00f3n del:"
     },
     {
@@ -727,7 +815,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 57,
+      "number": 64,
       "prompt": "44-118.Si una de las actividades de turismo activo es de recorridos en veh\u00edculos a motor por caminos y v\u00edas pecuarias, seg\u00fan la Orden de 20 de marzo de 2003, conjunta de las consejer\u00edas de turismo y Deporte y Medio Ambiente, por las que se establecen obligaciones y condiciones medioambientales para la pr\u00e1ctica de las actividades integrantes del turismo activo:"
     },
     {
@@ -739,7 +827,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 58,
+      "number": 65,
       "prompt": "45-158.En el transcurso de una obra de restauraci\u00f3n forestal efect\u00faan a la Delegaci\u00f3n Territorial una solicitud de ocupaci\u00f3n de v\u00eda pecuaria con fin no empresariales y de car\u00e1cter oneroso \u00bfQu\u00e9 bonificaci\u00f3n tendr\u00eda la tasa de ocupaci\u00f3n de v\u00edas pecuarias para este caso concreto?"
     },
     {
@@ -751,7 +839,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 59,
+      "number": 66,
       "prompt": "46-61.- Seg\u00fan lo dispuesto en el art. 52 del Decreto 155/1998, de 21 de julio, por el que se prueba el Reglamento de V\u00edas Pecuarias de la Comunidad Aut\u00f3noma de Andaluc\u00eda, los aprovechamientos en v\u00edas pecuarias se adjudicar\u00e1n de acuerdo a los principios de:"
     },
     {
@@ -763,7 +851,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 60,
+      "number": 67,
       "prompt": "47-62.- El art. 58 del Reglamento de V\u00edas Pecuarias de Andaluc\u00eda establece que cuando el desarrollo de usos complementarios de las v\u00edas pecuarias sea consecuencia de una actividad colectiva y organizada deber\u00e1 solicitarse autorizaci\u00f3n del Delegado Provincial de la Consejer\u00eda competente en materia de Medio Ambiente con una antelaci\u00f3n m\u00ednima al desarrollo de la actividad de:"
     },
     {
@@ -775,7 +863,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 61,
+      "number": 68,
       "prompt": "48-63.- El art. 46 del Reglamento de V\u00edas Pecuarias de Andaluc\u00eda establece que las ocupaciones de v\u00edas pecuarias tendr\u00e1n una duraci\u00f3n:"
     },
     {
@@ -787,7 +875,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 62,
+      "number": 69,
       "prompt": "49-64.- El art. 18 del Reglamento de v\u00edas pecuarias establece que el procedimiento de deslinde de una v\u00eda pecuaria se iniciar\u00e1 por parte de la Consejer\u00eda competente en materia de Medio Ambiente:"
     },
     {
@@ -800,7 +888,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 63,
+      "number": 70,
       "prompt": "50-33.Las v\u00edas pecuarias en cuanto a la clasificaci\u00f3n del suelo como consecuencia de la ordenaci\u00f3n del territorio tendr\u00e1n la consideraci\u00f3n:"
     },
     {
@@ -813,7 +901,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 64,
+      "number": 71,
       "prompt": "51-34.El procedimiento administrativo por el que se determinan f\u00edsicamente y se se\u00f1alizan perfectamente las v\u00edas pecuarias se denomina:"
     },
     {
@@ -826,7 +914,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 65,
+      "number": 72,
       "prompt": "52-35.Los filtros y productos no utilizados por el ganado en su normal tr\u00e1nsito por las v\u00edas pecuarias podr\u00e1n ser objetos de aprovechamiento (sobrantes) temporal y no superior a:"
     },
     {
@@ -839,7 +927,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 66,
+      "number": 73,
       "prompt": "53-99.Las v\u00edas pecuarias cuya anchura no excede los 20 m se denominan:"
     },
     {
@@ -852,7 +940,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 67,
+      "number": 74,
       "prompt": "54-67.En relaci\u00f3n a los tipos de v\u00edas pecuarias (Ley 3/1995 de V\u00edas Pecuarias) las coladas son aquellas cuya anchura:"
     },
     {
@@ -865,7 +953,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 68,
+      "number": 75,
       "prompt": "55-68.Seg\u00fan la Ley 3/1995 de V\u00edas Pecuarias, el acto de clasificaci\u00f3n se define como el acto administrativo:"
     },
     {
@@ -878,7 +966,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 69,
+      "number": 76,
       "prompt": "56-69.Seg\u00fan la Ley 3/1995, las v\u00edas pecuarias, tendr\u00e1n la consideraci\u00f3n de suelo:"
     },
     {
@@ -891,7 +979,7 @@ var test6 = {
       "correct": {
         "index": 3
       },
-      "number": 70,
+      "number": 77,
       "prompt": "57-70.Con referencia a los aprovechamientos en las v\u00edas pecuarias (la Ley 3/1995 de v\u00edas pecuarias) estas tendr\u00e1n car\u00e1cter temporal y plazo no superior a:"
     },
     {
@@ -903,7 +991,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 71,
+      "number": 78,
       "prompt": "58-53.-. La aprobaci\u00f3n del expediente de desafectaci\u00f3n de un tramo de v\u00eda pecuaria ser\u00e1 por:"
     },
     {
@@ -915,7 +1003,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 72,
+      "number": 79,
       "prompt": "59-54.- La Consejer\u00eda de Medio Ambiente podr\u00e1 autorizar ocupaciones de las v\u00edas pecuarias por un plazo no superior a:"
     },
     {
@@ -927,7 +1015,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 73,
+      "number": 80,
       "prompt": "60-55.- Los frutos y productos no utilizados por el ganado en su normal tr\u00e1nsito por las v\u00edas pecuarias podr\u00e1n ser objetos de aprovechamiento (sobrantes) temporal y no superior a:"
     },
     {
@@ -939,7 +1027,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 74,
+      "number": 81,
       "prompt": "61-25.\u00bfCu\u00e1l de las siguientes cifras es la que m\u00e1s se aproxima a la longitud total de v\u00edas pecuarias clasificadas en Andaluc\u00eda (a fecha 2005)?"
     },
     {
@@ -951,7 +1039,7 @@ var test6 = {
       "correct": {
         "index": 1
       },
-      "number": 75,
+      "number": 82,
       "prompt": "62-26\u00bfCu\u00e1l es el tipo de v\u00eda pecuaria que tiene un mayor porcentaje de longitud dentro de la longitud  total de v\u00edas pecuarias clasificadas en Andaluc\u00eda?"
     },
     {
@@ -963,7 +1051,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 76,
+      "number": 83,
       "prompt": "63-47.- El Acuerdo de 27 de marzo de 2001, del Consejo de Gobierno, por el que se aprob\u00f3 el Plan para la Recuperaci\u00f3n y Ordenaci\u00f3n de la Red de V\u00edas Pecuarias de la Comunidad Aut\u00f3noma de Andaluc\u00eda establece que el plazo de ejecuci\u00f3n del Plan de Recuperaci\u00f3n y Ordenaci\u00f3n de las V\u00edas Pecuarias en Andaluc\u00eda es de:"
     },
     {
@@ -975,7 +1063,7 @@ var test6 = {
       "correct": {
         "index": 2
       },
-      "number": 77,
+      "number": 84,
       "prompt": "64-75.- De acuerdo a la informaci\u00f3n publicada en la web de la Consejer\u00eda de Agricultura, Ganader\u00eda, Pesca y Desarrollo Sostenible, la revisi\u00f3n y actualizaci\u00f3n llevada a cabo en los a\u00f1os 2014 y 2015 por la Consejer\u00eda de Medio Ambiente y Ordenaci\u00f3n del Territorio con respecto a la Red viaria forestal (Redvia) en Andaluc\u00eda, estableci\u00f3 una longitud de traza de caminos de:"
     },
     {
@@ -987,7 +1075,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 78,
+      "number": 85,
       "prompt": "65-50.- Las ca\u00f1adas son aquellas v\u00edas pecuarias cuya anchura:"
     },
     {
@@ -999,7 +1087,7 @@ var test6 = {
       "correct": {
         "index": 0
       },
-      "number": 79,
+      "number": 86,
       "prompt": "66-51.- De acuerdo con el art\u00edculo 14 de la Ley de V\u00edas Pecuarias, el plazo de las ocupaciones ser\u00e1:"
     }
   ],

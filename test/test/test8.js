@@ -307,7 +307,7 @@ var test8 = {
         "Alcornoques"
       ],
       "correct": {
-        "index": 1
+        "index": 3
       },
       "number": 24,
       "prompt": "24-85.- La Lymantr\u00eda dispar L., tambi\u00e9n conocida como \u201clagarta peluda\u201d, es una especie que ocasiona da\u00f1os a:"
@@ -357,7 +357,7 @@ var test8 = {
         "Nem\u00e1todos de la madera de pino."
       ],
       "correct": {
-        "index": 0
+        "index": 2
       },
       "number": 28,
       "prompt": "28-67.- Los tres Planes de Lucha Integrada contra plagas existentes en Andaluc\u00eda permiten controlar las poblaciones de procesionaria del pino, lagarta peluda y:"
@@ -531,8 +531,7 @@ var test8 = {
       "answers": [
         "La Consejer\u00eda de Agricultura y Pesca de la Junta de Andaluc\u00eda",
         "La Consejer\u00eda de Medio Ambiente de la Junta de Andaluc\u00eda",
-        "Un organismo de control independiente, autorizado por la",
-        "Consejer\u00eda de Agricultura y Pesca"
+        "Un organismo de control independiente, autorizado por la Consejer\u00eda de Agricultura y Pesca"
       ],
       "correct": {
         "index": 2
@@ -1075,7 +1074,7 @@ var test8 = {
         "Phytophthora cinnamomi Rands"
       ],
       "correct": {
-        "index": 0
+        "index": 2
       },
       "number": 85,
       "prompt": "85-94.- El hongo que causa la enfermedad del casta\u00f1o denominada \u201ctinta\u201des:"
@@ -1087,7 +1086,7 @@ var test8 = {
         "16x16km"
       ],
       "correct": {
-        "index": 0
+        "index": 1
       },
       "number": 86,
       "prompt": "86-95.- La red andaluza de seguimiento de da\u00f1os sobre ecosistemas forestales se corresponde con parcelas ubicadas en terrenos forestales arbolados y con los v\u00e9rtices de una malla de dimensiones:"

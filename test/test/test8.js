@@ -345,7 +345,9 @@ var test8 = {
         "De la Bre\u00f1a y Marismas del Barbate.",
         "Sierra de Baza."
       ],
-      "correct": {},
+      "correct": {
+		  "index": 0
+	  },
       "number": 27,
       "prompt": "27-66.- La plaga de lagarta peluda (Lymantria dispar L.) es end\u00e9mica y recurrente en el Parque Natural:"
     },

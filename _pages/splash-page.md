@@ -69,9 +69,10 @@ gallery:
 
 ---
 
-{% include carousel.html %}
 
 {% include about.html %}
+
+{% include carousel.html %}
 
 
 

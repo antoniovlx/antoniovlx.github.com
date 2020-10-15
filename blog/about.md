@@ -1,16 +1,20 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: 
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+<p>Hi, I’m Antonio Vida, a <b>passionate Full Stack Developer / Java Software Engineer </b> who loves helping people building awesome apps.</p>
 
-If you have a question about him or else, just send a letter to him.
+<p>I’m creative, optimistic, dynamic and I enjoy learning new things all the time. I’m interested in Amazon Web Services (AWS) and cloud computing.</p>
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+<p>I really like to always challenge myself to improve at everything I do.</p>
+
+<p>I am a big fan of <strong>solving complex problems</strong> and <strong>building products that help people</strong>.</p>
+
+<p><strong>Technologies that I use</strong> Java, Spring, Angular, Python, Javascript, AWS (Amazon Web Services, Scrum Android</p>
 
 **may u needs ✨**
 

@@ -7,7 +7,7 @@ url: 'http://antoniovida.xyz'
 baseurl: ''
 profilepic: '/images/antonio.jpg'
 bkimage: '/images/bk2.jpg'
-google_analytics: UA-XXXXXX-X
+google_analytics: UA-160193445-1
 mode: dark # default theme "dark" | "light"
 
 author:
@@ -54,7 +54,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 8
 
 kramdown:
   # use Github Flavored Markdown

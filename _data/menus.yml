@@ -2,9 +2,14 @@
   url: /
   external: false
 
+- title: recent
+  url: /recent/
+  external: false
+
 - title: archive
   url: /archive/
   external: false
+
 
 - title: about
   url: /about/

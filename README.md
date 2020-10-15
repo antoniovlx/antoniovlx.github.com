@@ -1,27 +1,36 @@
-# Minimal Mistakes remote theme starter
+# Jekyll-Uno with Projects as Timeline
+A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
 
-Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+## How does is look
+[Demo](http://thomas.zuehlke.family/)
+![Screenshot](screenshot-overview.png)
+![jekyll-theme-desktop](https://user-images.githubusercontent.com/32843441/72224870-5451ff00-357f-11ea-8fc2-bfbd4499bc63.gif)
+![jekyll-theme-mobil](https://user-images.githubusercontent.com/32843441/72224877-6a5fbf80-357f-11ea-920b-dfae72bf2fbe.gif)
 
-Contains basic configuration to get you a site with:
+## Installation/Setup
+1. Download or clone repo `git clone https://github.com/tzuehlke/jekyll-uno-timeline.git`
+2. Enter the folder: `cd jekyll-uno-timeline/`
+3. Build it: `jekyll build`
+4. Start Jekyll server: `jekyll serve`
+5. Configure: `_config.yml`
+   * at least set `font_awesome` or download and add the font in `head.html`
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Access via: [http://localhost:4000/](http://localhost:4000/)
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Details/Features/Changes
+* based on the [Uno-Theme](https://github.com/joshgerdes/jekyll-uno), but:
+  * removed everything with posts
+  * `content-wrapper` can be shown or hidden with button
+  * changed all icons to [Font-Awesome](https://fontawesome.com/)
+  * updated google-analytics snipped
+  * added [Meetup-Link](https://www.meetup.com/)
+  * removed RSS
+  * removed Disqus
+  * using a Timeline-Design instead of posts, therefore no pagination anymore
+* using Timeline ([CSS](https://github.com/le4ker/personal-jekyll-theme/blob/master/css/timeline.scss), [HTML](https://github.com/le4ker/personal-jekyll-theme/blob/master/_includes/timeline.html) ) from [{ Personal } Jekyll Theme](https://github.com/le4ker/personal-jekyll-theme) for a list of projects, but:
+  * still with 3 layouts for different screen-width, but without images on small screens
+  * timeline information source is now `_data/projects.yaml`
+  * always using the `timeline-inverted`-class, for text on the right side of the images
+* using [github_api.js](https://github.com/jarrekk/Jalpc/blob/master/static/js/github_api.js) from [Jalpc.](https://github.com/jarrekk/Jalpc), but:
+  * changed the GitHub-URL for using with persons and organisations
+  * added watchers number

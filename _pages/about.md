@@ -3,11 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, I'm Antonio Vida and that is my personal Website.
+Hi, I'm Antonio Vida, a **passionate Full Stack Developer / Java Software Engineer ** who loves helping people building awesome apps. 
 
-I'm a **passionate Software Engineer and Java Developer** who loves helping people building awesome apps. 
+I'm creative, optimistic, dynamic and I enjoy learning new things all the time. I'm interested in Amazon Web Services (AWS) and cloud computing. 
 
-I'm creative, optimistic, dynamic and I enjoy learning new things all the time. I'm interested in Amazon Web Services (AWS) and cloud computing. I really like to always challenge myself to improve at everything I do.
+I really like to always challenge myself to improve at everything I do.
 
 Extensive knowledge of professional engineering and coding experience in Java and working in an Agile environment.
 

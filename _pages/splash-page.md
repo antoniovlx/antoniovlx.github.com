@@ -6,6 +6,21 @@ date: 2019-03-23T11:48:41-04:00
 header:
   image: /assets/images/header-glandalough.jpg
   image_description: "A description of the image"
+excerpt: '<div class="page__hero--overlay">
+    <div class="hero-container">
+        <div class="hero-image">
+            <a href="https://developers.google.com/community/experts/directory/profile/profile-jeroen_mols"><img src="img/header.png" alt="Jeroen Mols"></a>
+        </div>
+        <div class="hero-text">
+            <h1>JEROEN MOLS</h1>
+            <div class="hero-subtitle">
+              <a href="https://developers.google.com/community/experts/directory/profile/profile-jeroen_mols">ANDROID DEV</a> -
+              <a href="https://jeroenmols.com/blog/2019/08/06/lessonsleaddeveloper/">TEAM LEAD</a> -
+              <a href="https://jeroenmols.com/blog/">BLOGGER</a> -
+              <a href="https://jeroenmols.com/speaking/">SPEAKER</a></div>
+        </div>
+    </div>
+</div>'
 feature_row:
   - image_path: /assets/images/portfolio/spring-project.png
     alt: "placeholder image 1"
@@ -69,10 +84,19 @@ gallery:
 
 ---
 
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+<!--{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}-->
+
 
 {% include about.html %}
 
-{% include carousel.html %}
 
 
 

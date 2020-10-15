@@ -40,6 +40,7 @@
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% endif %}
       </h1>
+	
       {% if page.tagline %}
         <p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}

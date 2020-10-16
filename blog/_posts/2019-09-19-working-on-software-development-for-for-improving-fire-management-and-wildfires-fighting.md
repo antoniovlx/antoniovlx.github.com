@@ -16,10 +16,11 @@ Fires are one of the main threats to forests as patrimonial assets. According to
 
 ![Cilifo Project](/assets/images/team-cilifo.jpg)
 
-+links:
+### More Info:
 
-[http://www.uco.es/investigacion/ucci/es/noticias-ingles/item/2630-cilifo-mathematics-to-fight-forest-fires](http://www.uco.es/investigacion/ucci/es/noticias-ingles/item/2630-cilifo-mathematics-to-fight-forest-fires)
-[https://www.europapress.es/andalucia/noticia-universidad-cordoba-trabaja-algoritmo-predice-comportamiento-fuego-bosques-20190718103127.html)](https://www.europapress.es/andalucia/noticia-universidad-cordoba-trabaja-algoritmo-predice-comportamiento-fuego-bosques-20190718103127.html)
+* [http://cilifo.eu/](http://cilifo.eu/)
+* [http://www.uco.es/investigacion/ucci/es/noticias-ingles/item/2630-cilifo-mathematics-to-fight-forest-fires](http://www.uco.es/investigacion/ucci/es/noticias-ingles/item/2630-cilifo-mathematics-to-fight-forest-fires)
+* [https://www.europapress.es/andalucia/noticia-universidad-cordoba-trabaja-algoritmo-predice-comportamiento-fuego-bosques-20190718103127.html)](https://www.europapress.es/andalucia/noticia-universidad-cordoba-trabaja-algoritmo-predice-comportamiento-fuego-bosques-20190718103127.html)
 
 
 

@@ -9,14 +9,14 @@ tags:
   - Log4j
 ---
 
-Ok, you get an error like this when you run a project with Log4j2:
+You may ran into an error like this when you run a project with Log4j2:
 
-ERROR StatusLogger No Log4j 2 configuration file found. Using default configuration 
-(logging only errors to the console), or user programmatically provided configurations.
+```ERROR StatusLogger No Log4j 2 configuration file found. Using default configuration 
+(logging only errors to the console), or user programmatically provided configurations.```
 
 Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. 
 
-**Solution:
+### Solution:
 
 If you don't use maven, you will need to put the file under src folder. Remember, the file should be stay on the classpath.
 

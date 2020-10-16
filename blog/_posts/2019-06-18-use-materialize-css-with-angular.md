@@ -7,8 +7,6 @@ tags:
   - Angular
 ---
 
-{{page.date}}
-
 * Install materialize via npm:
 
 ```

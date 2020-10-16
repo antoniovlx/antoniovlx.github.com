@@ -3,7 +3,7 @@
   external: false
 
 - title: recent
-  url: /recent/
+  url: /blog/recent/
   external: false
 
 - title: archive
